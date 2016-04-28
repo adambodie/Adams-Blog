@@ -28,11 +28,29 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
+.row {
+	margin-bottom: 50px;
+}
+
 #author {
 	width: 100px;
 	height: 100px;
 	border-radius: 100%;
 	padding: 20px;
+}
+
+.blog-pic {
+	float: right;
+	padding: 20px;
+	max-width: 300px;
+	img {
+		display: block;
+
+	}
+	h4 {
+		text-align: center;
+		max-width: 300px;
+	}
 }
 
 // Use media queries like this:
