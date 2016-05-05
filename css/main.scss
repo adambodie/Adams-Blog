@@ -7,6 +7,7 @@
 
 // Our variables
 $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$raleway: 'Raleway', sans-serif;
 $base-font-size:   16px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
@@ -14,7 +15,7 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
+$text-color:       #5a5a5a;
 $background-color: #CAE1FF;
 $brand-color:      #2a7ae2;
 
@@ -30,6 +31,40 @@ $on-laptop:        800px;
 
 .row {
 	margin-bottom: 50px;
+	padding-bottom: 50px;
+	border-bottom: 1px solid white;
+}
+
+.page_number {
+	font-size: $base-font-size * 2;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.read-more  {
+	&:visited {
+		color: $text-color;	
+	}
+	text-decoration: none;
+	color: $text-color;
+	&:hover {
+		color: black;	
+	}
+}
+
+.page-content {
+	margin-top: 100px;
+}
+
+.article p {
+	font-size: $base-font-size - 2;
+	font-family: $raleway;
+	text-indent: 2em;
+}
+
+.intro {
+	font-size: $base-font-size - 2;
+	font-family: $raleway;
 }
 
 #author {
@@ -37,6 +72,8 @@ $on-laptop:        800px;
 	height: 100px;
 	border-radius: 100%;
 	padding: 20px;
+	display: inline-block;
+	margin-top: -30px;
 }
 
 .blog-pic {
@@ -50,8 +87,80 @@ $on-laptop:        800px;
 	h4 {
 		text-align: center;
 		max-width: 300px;
+		color: #5a5a5a;
+		font-family: $raleway;
+		margin-top: 5px;
 	}
 }
+
+.block {
+  display: inline-block; }
+
+#topbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 110px;
+  z-index: 999;
+  border-bottom: 1px solid black;
+  background: -webkit-linear-gradient(black, #5a5a5a);
+  /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(black, #5a5a5a);
+  /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(black, #5a5a5a);
+  /* For Firefox 3.6 to 15 */
+  background: linear-gradient(black, #5a5a5a);
+  /* Standard syntax (must be last) */ }
+  #topbar #navbar {
+    float: left;
+    width: 100%;
+    background: -webkit-linear-gradient(black, #5a5a5a);
+    /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(black, #5a5a5a);
+    /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(black, #5a5a5a);
+    /* For Firefox 3.6 to 15 */
+    background: linear-gradient(black, #5a5a5a);
+    /* Standard syntax (must be last) */
+   }
+  #topbar img {
+    float: left;
+    margin: 10px;
+    display: inline-block; 
+    }
+  #topbar ul {
+    padding: 0;
+    text-align: center;
+    height: 60px;
+    margin-top: -30px;
+    display: block; }
+  #topbar li {
+    font-size: 0.8em;
+    margin-top: 30px;
+    padding: 10px; 
+	 list-style: none;    
+    }
+    #topbar li a {
+      color: white;
+      text-decoration: none; }
+      #topbar li a:hover {
+        color: gray; }
+
+  #topbar #navbar {
+    float: none; 
+    
+    }
+  #topbar ul {
+    text-align: left;
+    margin-top: 0; 
+    
+    }
+  #topbar li {
+    font-size: 1.3em;
+    margin-left: 10px;
+    margin-right: 10px;  
+    }
 
 // Use media queries like this:
 // @include media-query($on-palm) {
