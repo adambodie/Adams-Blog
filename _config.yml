@@ -3,6 +3,7 @@ title: Adam's Blog
 email: adam.bodie@yahoo.com
 description: A blog about whatever is on Adam's mind.
 url: "http://blog.bodiewebdesign.com" # the base hostname & protocol for your site
+baseurl: '/adams-blog'
 github_username:  aduo3000
 paginate: 10
 paginate_path: "/blog/page:num/"
