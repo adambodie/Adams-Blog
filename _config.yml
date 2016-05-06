@@ -6,7 +6,7 @@ url: "http://blog.bodiewebdesign.com" # the base hostname & protocol for your si
 baseurl: '/Adams-Blog'
 github_username:  aduo3000
 paginate: 10
-paginate_path: "/page:num/"
+paginate_path: "/Adams-Blog/page:num/"
 gems:      [jekyll-paginate]
 
 # Build settings
