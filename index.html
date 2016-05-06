@@ -10,7 +10,7 @@ layout: default
   <p class="author">
   	<span class="date">{{ post.date | date: "%B %-d, %Y" }}</span></p>
   <p class="intro">{{ post.intro }}</p>
-  <a href="{{ post.url }}" class="read-more">Read More</a>
+  <a href="{{ post.url | prepend: site.baseurl }}" class="read-more">Read More</a>
 	</div>
 	<div class="col-md-6">
   <img src="/img/{{post.image}}" alt="{{post.alt}}" class="img-responsive">
