@@ -14,7 +14,7 @@ intro: "We're barely into the month of February and already we've seen not one, 
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-		<img src="/staticimg/bob.jpg" data-toggle="tooltip" title="B.o.B wants to know where the curve is?  Neil deGrasse Tyson knows it's there." class="image block img-responsive">
+		<img src="img/bob.jpg" data-toggle="tooltip" title="B.o.B wants to know where the curve is?  Neil deGrasse Tyson knows it's there." class="image block img-responsive">
 	<h4>B.o.B wants to know where the curve is?  Neil deGrasse Tyson knows it's there.</h4>
 </div>
 
