@@ -1,0 +1,24 @@
+# Site settings
+title: Adam's Blog
+email: adam.bodie@yahoo.com
+description: A blog about whatever is on Adam's mind.
+url: "http://blog.bodiewebdesign.com" # the base hostname & protocol for your site
+github_username:  aduo3000
+paginate: 10
+paginate_path: "/blog/page:num/"
+gems:      [jekyll-paginate]
+
+# Build settings
+markdown: kramdown
+permalink: /:title
+
+#Default settings
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "default"
+      author: Adam Bodie
+      author-image: "author2.jpg"
