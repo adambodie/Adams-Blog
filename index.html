@@ -10,7 +10,7 @@ layout: default
   <p class="author">
   	<span class="date">{{ post.date | date: "%B %-d, %Y" }}</span></p>
   <p class="intro">{{ post.intro }}</p>
-  <a href="{{ post.url | prepend: site.baseurl }}" class="read-more">Read More</a>
+  <a href="{{ post.url }}" class="read-more">Read More</a>
 	</div>
 	<div class="col-md-6">
   <img src="img/{{post.image}}" alt="{{post.alt}}" class="img-responsive">
@@ -21,13 +21,13 @@ layout: default
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl}}" class="previous"><i class="fa fa-angle-double-left fa-2x" aria-hidden="true"></i></a>
+    <a href="{{ paginator.previous_page_path}}" class="previous"><i class="fa fa-angle-double-left fa-2x" aria-hidden="true"></i></a>
   {% else %}
     <span class="previous"><i class="fa fa-angle-double-left fa-2x" aria-hidden="true"></i></span>
   {% endif %}
   <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl}}" class="next"><i class="fa fa-angle-double-right fa-2x" aria-hidden="true"></i></a>
+    <a href="{{ paginator.next_page_path}}" class="next"><i class="fa fa-angle-double-right fa-2x" aria-hidden="true"></i></a>
   {% else %}
     <span class="next "><i class="fa fa-angle-double-right fa-2x" aria-hidden="true"></i></span>
   {% endif %}
