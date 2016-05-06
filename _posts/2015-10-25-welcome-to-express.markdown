@@ -12,7 +12,7 @@ intro: "Welcome to Bodie Web Design 2.0, the Express Edition.  As you will see o
 <div class="article">
 <p> {{ page.intro }}</p>
 <div class="blog-pic">
-	<img src="/img/ashwaubenon.jpg" data-toggle="tooltip" title="Adam loves Express." class="image block img-responsive">
+	<img src="img/ashwaubenon.jpg" data-toggle="tooltip" title="Adam loves Express." class="image block img-responsive">
 	<h4>Adam loves Express</h4>
 </div>
 <p>Gone are the days of using the same code for each page.  Updating the navbar on each page is a thing of the past.  Now I can have a partial template for the navbar and it will update on each page that contains the navbar partial.  No more days of changing one line of code on multiple pages.  If one thing is changed in the template, it affects everything that uses it.  And using it is as easy as include me (me being the partial layout page).</p>

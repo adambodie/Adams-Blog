@@ -14,7 +14,7 @@ intro: "Super Bowl 50 is on its way, featuring a match-up of the NFL's top two d
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-		<img src="/img/newton.jpg" data-toggle="tooltip" title="Look at the smile!" class="image block img-responsive">
+		<img src="img/newton.jpg" data-toggle="tooltip" title="Look at the smile!" class="image block img-responsive">
 	<h4>Look at that smile!</h4>
 </div>
 
@@ -23,7 +23,7 @@ intro: "Super Bowl 50 is on its way, featuring a match-up of the NFL's top two d
 <p>The clear edge on offense belongs to Carolina, with Cam Newton, the likely MVP, able to hurt you in many ways, with his arm, legs and size.  But what about the team's defense's.  Who has the edge here.</p>
 
 <div class="blog-pic">
-		<img src="/img/peyton.jpg" data-toggle="tooltip" title="Yet Peyton makes you laugh!" class="image block img-responsive pull-right">
+		<img src="img/peyton.jpg" data-toggle="tooltip" title="Yet Peyton makes you laugh!" class="image block img-responsive pull-right">
 	<h4>Yet Peyton makes you laugh!</h4>
 </div>
 

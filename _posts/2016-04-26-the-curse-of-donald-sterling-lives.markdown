@@ -14,7 +14,7 @@ intro: "Growing up, I didn't think much of the Los Angeles Clippers. Why should 
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-		<img src="/img/sterling.jpg" data-toggle="tooltip" title="Everything Clippers related is tied to Donald Sterling, the joke." class="image block img-responsive">
+		<img src="img/sterling.jpg" data-toggle="tooltip" title="Everything Clippers related is tied to Donald Sterling, the joke." class="image block img-responsive">
 	<h4>Everything Clippers related is tied to Donald Sterling, the joke.</h4>
 </div>
 

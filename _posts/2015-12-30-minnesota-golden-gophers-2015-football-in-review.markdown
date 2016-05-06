@@ -16,7 +16,7 @@ intro: "The 2015 season for the Minnesota Golden Gophers didn't quite meet the e
 <p>{{page.intro}}</p>
 
 <div class="blog-pic" style="float: left">
-		<img src="/img/gophers.jpg" data-toggle="tooltip" title="The Gophers celebrate winning the Quick Lane Bowl." class="image block img-responsive">
+		<img src="img/gophers.jpg" data-toggle="tooltip" title="The Gophers celebrate winning the Quick Lane Bowl." class="image block img-responsive">
 	<h4>The Gophers celebrate winning the Quick Lane Bowl.</h4>
 </div>
 <p>The season began with a hard fought loss to highly talented and then highly ranked TCU.  A team with an explosive offense was held to just 23 points by Minnesota's defense, and playing at home, Minnesota definitely took advantage of the crowd to the best of their abilities.  But alas, the more talented team won.  Despite this, Minnesota's hopes still remained.  The rest of the non-conference games, against Colorado State, Kent State and Ohio were all much closer than they should have been, mainly because Minnesota's offense struggled to get going, but yet they won their games, even completing a late fourth-quarter comeback against Colorado State, which ended up in overtime and a win.</p>

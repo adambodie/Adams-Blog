@@ -14,7 +14,7 @@ intro: "Our country has numerous issues that need to be resolved, whether it’s
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-		<img src="/img/mccrory.jpg" data-toggle="tooltip" title="My first Meme!  Well said for Wang Watcher NC Governor Pat McCrory." class="image block img-responsive">
+		<img src="img/mccrory.jpg" data-toggle="tooltip" title="My first Meme!  Well said for Wang Watcher NC Governor Pat McCrory." class="image block img-responsive">
 	<h4>My first Meme!  Well said for Wang Watcher NC Governor Pat McCrory..</h4>
 </div>
 
@@ -25,7 +25,7 @@ intro: "Our country has numerous issues that need to be resolved, whether it’s
 <p>Religious folks can cry and complain about the changing of times, the accepting of the LGBT community and try everything they can to return to the way things were, but this is not the reality we live in.  They may consider the idea of transgendered people living with the same rights and privileges as us as ‘radical’ or ‘detrimental’ to our society, but the truth is, these people just want power and control.  They live their lives strictly by the Bible, even when they’re contradicting the parts of the Bible which say ‘love thy neighbor as you would love thyself’ or whatever they say by expressing fear and hatred towards the LGBT community and treating them like diseases.  They look at everyone with their gaydar’s up and running, wondering if anyone they come across is gay, lesbian or a transgendered person, and often judge them if they are.  Somehow, they are automatically worse for not following God than these religious folks are, even if they’re following the laws and believe in God themselves.  The religious bigots act pure yet many of them are hypocrites, cheating on their spouses, stealing from others, whatever it may be.  Anyone can be bad, not just those in the LGBT community.  It doesn't matter who I come across walking down the street, I usually just mind my own business.  It’s sad many people are that concerned to bring their homophobic xenophobic hate-filled battle to the bathroom.</p>
 
 <div class="blog-pic">
-		<img src="/img/toilet.jpg" data-toggle="tooltip" title="Not an issue here, but in North Carolina it's a crisis." class="image block img-responsive pull-right">
+		<img src="img/toilet.jpg" data-toggle="tooltip" title="Not an issue here, but in North Carolina it's a crisis." class="image block img-responsive pull-right">
 	<h4>Not an issue here, but in North Carolina it's a crisis.</h4>
 </div>
 

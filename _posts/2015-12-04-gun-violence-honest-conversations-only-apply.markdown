@@ -17,7 +17,7 @@ intro: "Dear America: We have an epidemic occurring through our nation and despi
 
 
 <div class="blog-pic" style="float: left">
-	<img src="/img/handgun.jpg" data-toggle="tooltip" title="This might be made to protect you..." class="image block img-responsive">
+	<img src="img/handgun.jpg" data-toggle="tooltip" title="This might be made to protect you..." class="image block img-responsive">
 	<h4>This might be made to protect you...</h4>
 </div>
 
@@ -29,7 +29,7 @@ intro: "Dear America: We have an epidemic occurring through our nation and despi
 
 
 <div class="blog-pic" style="float: left">
-<img src="/img/ar15.jpg" data-toggle="tooltip" title="But this is designed to kill." class="image block img-responsive pull-right">
+<img src="img/ar15.jpg" data-toggle="tooltip" title="But this is designed to kill." class="image block img-responsive pull-right">
 	<h4>But this is designed to kill.</h4>
 </div>
 

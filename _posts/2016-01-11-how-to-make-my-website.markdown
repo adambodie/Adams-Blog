@@ -14,7 +14,7 @@ intro: "After the official launch of Bodie Web Design 2.0 (as I call it), I rece
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-		<img src="/img/lincoln.jpg" data-toggle="tooltip" title="Making websites is fun!" class="image block img-responsive">
+		<img src="img/lincoln.jpg" data-toggle="tooltip" title="Making websites is fun!" class="image block img-responsive">
 	<h4>Making websites is fun!</h4>
 </div>
 

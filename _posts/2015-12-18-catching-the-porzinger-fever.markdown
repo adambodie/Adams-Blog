@@ -17,7 +17,7 @@ intro: "On the night of the 2015 NBA Draft, many people turned in to see which y
 
 
 <div class="blog-pic" style="float: left">
-<img src="/img/porzingis.jpg" data-toggle="tooltip" title="Will he break you?  Stay tuned to find out..." class="image block img-responsive">
+<img src="img/porzingis.jpg" data-toggle="tooltip" title="Will he break you?  Stay tuned to find out..." class="image block img-responsive">
 	<h4>Will he break you?  Stay tuned to find out...</h4>
 </div>
 

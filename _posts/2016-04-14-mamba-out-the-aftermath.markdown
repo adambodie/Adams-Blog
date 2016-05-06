@@ -14,7 +14,7 @@ intro: "It’s true what they say, Kobe always know how to put on a show. The se
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-		<img src="/img/kobe9.jpg" data-toggle="tooltip" title="Kobe's the man, fighting to the very end." class="image block img-responsive">
+		<img src="img/kobe9.jpg" data-toggle="tooltip" title="Kobe's the man, fighting to the very end." class="image block img-responsive">
 	<h4>Kobe's the man, fighting to the very end</h4>
 </div>
 
@@ -25,7 +25,7 @@ intro: "It’s true what they say, Kobe always know how to put on a show. The se
 <p>After the game, Kobe gave hugs to multiple former players (even the obscure former players from the past, Devean George, Chris Mihm, Ronni Turiaf and a plethora of others long forgotten, along with the big stars and his family).  After the balloons went down, Kobe got to address the fans one last time, thanking the fans, his journey playing twenty years for his favorite childhood dream, and honoring the bad years as his favorite for all the hard work and never giving up.  He ended his speech simply put ‘Mamba out.’  Close to how I ended my blog.</p>
 
 <div class="blog-pic">
-		<img src="/img/kobe10.jpg" data-toggle="tooltip" title="All the stars out to watch, for a great reason." class="image block img-responsive">
+		<img src="img/kobe10.jpg" data-toggle="tooltip" title="All the stars out to watch, for a great reason." class="image block img-responsive">
 	<h4>All the stars out to watch, for a great reason.</h4>
 </div>
 
@@ -38,7 +38,7 @@ intro: "It’s true what they say, Kobe always know how to put on a show. The se
 <p>Now for a quick review of the NBA Season, from the highlights to the lowlights.  Here are my picks for MVP, Defensive Player of the Year, Rookie of the Year, Coach of the Year, Sixth Man of the Year, Most Improved, Surprising Team and Disappointing Team of this season.</p>
 
 <div class="blog-pic">
-		<img src="/img/kobe11.jpg" data-toggle="tooltip" title="Kobe took many jumpers.  The ones he made got the crowd rowdy." class="image block img-responsive">
+		<img src="img/kobe11.jpg" data-toggle="tooltip" title="Kobe took many jumpers.  The ones he made got the crowd rowdy." class="image block img-responsive">
 	<h4>Kobe took many jumpers.  The ones he made got the crowd rowdy.</h4>
 </div>
 
@@ -50,7 +50,7 @@ intro: "It’s true what they say, Kobe always know how to put on a show. The se
 <p>Sixth Man of the Year goes to Jamal Crawford of the Los Angeles Clippers.  Not a particularly strong year for sixth man, but Crawford has always filled the role quite well.  Also considered: Andre Iguadola of the Golden State Warriors, Will Barton of the Denver Nuggets.</p>
 
 <div class="blog-pic">
-		<img src="/img/curry.jpg" data-toggle="tooltip" title="Steph Curry's offensive game looks like Kobe's game ten years ago.  His time is now." class="image block img-responsive pull-right">
+		<img src="img/curry.jpg" data-toggle="tooltip" title="Steph Curry's offensive game looks like Kobe's game ten years ago.  His time is now." class="image block img-responsive pull-right">
 	<h4>Steph Curry's offensive game looks like Kobe's game ten years ago.  His time is now.</h4>
 </div>
 

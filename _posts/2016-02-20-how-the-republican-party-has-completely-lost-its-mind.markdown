@@ -14,7 +14,7 @@ intro: "The Republican party used to be a fair party. I may have never liked the
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-		<img src="/img/bush.jpg" data-toggle="tooltip" title="Jeb Bush might have been successful in the past, but now Republicans see him as a loser." class="image block img-responsive">
+		<img src="img/bush.jpg" data-toggle="tooltip" title="Jeb Bush might have been successful in the past, but now Republicans see him as a loser." class="image block img-responsive">
 	<h4>Jeb Bush might have been successful in the past, but now Republicans see him as a loser.</h4>
 </div>
 
@@ -25,7 +25,7 @@ intro: "The Republican party used to be a fair party. I may have never liked the
 <p>A smart Republican, knowing the demographics have changed, would try to make an effort with the minorities.  Donald Trump, on the other hand, has essentially blamed the minorities for all our nations problems.  The perfect grab for a person with racist tendencies who prefers things to be 'as white as possible'.  George W. Bush won two Presidential elections by gathering 40% of the Hispanic vote, a high number compared to John McCain and Mitt Romney during their campaigns against Obama.  Donald Trump, meanwhile, calls them rapists, murderers and drug dealers.  Yet Donald Trump's only reasoning that he would ever get their vote is because 'Hispanics like me.'  Chances are, they don't like Donald Trump, not even remotely.  Where Mitt Romney lacked the emotional plight of the Hispanic population, Donald Trump openly spits on their faces.  How do you win from that?</p>
 
 <div class="blog-pic">
-		<img src="/img/trump2.jpg" data-toggle="tooltip" title="Donald Trump has run a campaign of negativity, name calling and racist banter.  Yet people like that." class="image block img-responsive">
+		<img src="img/trump2.jpg" data-toggle="tooltip" title="Donald Trump has run a campaign of negativity, name calling and racist banter.  Yet people like that." class="image block img-responsive">
 	<h4>Donald Trump has run a campaign of negativity, name calling and racist banter.  Yet people like that.</h4>
 </div>
 
@@ -36,7 +36,7 @@ intro: "The Republican party used to be a fair party. I may have never liked the
 <p>The biggest factor in the Republicans rise of hatred is of course, their racist hatred of Obama, whom they blame for everything that's wrong.  They treat him like a Muslim even though he isn't a Muslim, simply because he has a Muslim name and doesn't share the same beliefs as them, as if he's not truly American.  Somehow, they think he has all the control, even though Congress is in charge of producing and passing bills, which they are clearly incapable of doing.  They act like the Constitution must be followed, and accuse Obama of not following the Constitution, even though they like to ignore parts of the Constitution that leave them at a disadvantage, i.e., the equal rights protection that allows gays to get married, and the sudden invention of a clause that a President can't nominate a Supreme Court Justice in the last year of office, a clause which doesn't exist.  It doesn't matter what happened on January 20, 2009, or the months beforehand for Republicans.  They forget how bad things were.  Yet they think since January 21, 2009 that things have gone completely south.</p>
 
 <div class="blog-pic">
-		<img src="/img/cruz.jpg" data-toggle="tooltip" title="Ted Cruz has accomplished nothing yet people like him for what he believes in." class="image block img-responsive">
+		<img src="img/cruz.jpg" data-toggle="tooltip" title="Ted Cruz has accomplished nothing yet people like him for what he believes in." class="image block img-responsive">
 
 	<h4>Ted Cruz has accomplished nothing yet people like him for what he believes in.</h4>
 </div>

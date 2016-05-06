@@ -14,7 +14,7 @@ intro: "All Star Saturday Night has always been my favorite part of the All-Star
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-		<img src="/img/gordon.jpg" data-toggle="tooltip" title="How is this even possible? Aaron Gordon does the unthinkable" class="image block img-responsive">
+		<img src="img/gordon.jpg" data-toggle="tooltip" title="How is this even possible? Aaron Gordon does the unthinkable" class="image block img-responsive">
 	<h4>How is this even possible? Aaron Gordon does the unthinkable</h4>
 </div>
 
@@ -26,7 +26,7 @@ intro: "All Star Saturday Night has always been my favorite part of the All-Star
 
 
 <div class="blog-pic">
-		<img src="/img/lavine.jpg" data-toggle="tooltip" title="First time attempted, first time made: Zach LaVine can fly." class="image block img-responsive pull-right">
+		<img src="img/lavine.jpg" data-toggle="tooltip" title="First time attempted, first time made: Zach LaVine can fly." class="image block img-responsive pull-right">
 	<h4>First time attempted, first time made: Zach LaVine can fly.</h4>
 </div>
 
@@ -36,7 +36,7 @@ intro: "All Star Saturday Night has always been my favorite part of the All-Star
 <p>Gordon's second dunk of the final round was the best dunk of the night.  Another spot-on performance for Stuff, except this time Gordon got the ball under both his legs and up for the dunk.  In slo-mo, it looked like he was sitting for a second.  It was enough to get everyone out of their chairs.  Of course he got a 50, yet could have gotten a 60 if that was possible.  Not to be outdone, LaVine did a windmill dunk from the free-throw line.  An impressive dunk, another perfect 50.  So with each getting two perfect 50s in the final round, it was time for a dunk-off.</p>
 
 <div class="blog-pic">
-		<img src="/img/gordon2.jpg" data-toggle="tooltip" title="Stuff sure had fun spinning." class="image block img-responsive">
+		<img src="img/gordon2.jpg" data-toggle="tooltip" title="Stuff sure had fun spinning." class="image block img-responsive">
 	<h4>Stuff sure had fun spinning.</h4>
 </div>
 

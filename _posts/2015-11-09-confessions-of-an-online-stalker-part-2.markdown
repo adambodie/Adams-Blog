@@ -14,7 +14,7 @@ intro: "Four years ago, I set out to write an article on Innocent Online Stalkin
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-	<img src="/img/jenn.jpg" data-toggle="tooltip" title="Jenn seems Innocent, but she's a stalker" class="image block img-responsive">
+	<img src="img/jenn.jpg" data-toggle="tooltip" title="Jenn seems Innocent, but she's a stalker" class="image block img-responsive">
 	<h4>Jenn seems Innocent, but she's a stalker</h4>
 </div>
 <p>Amazingly, Jenn is still stalking people innocently online, still through Facebook.  Jenn friends her own childhood friends on Facebook, not to be real friends with them, but to snoop on their pages and see what they're up to.  Sometimes, Jenn friends, unfriends and friends them again, just because she's bored of not knowing what these people are up to.</p>

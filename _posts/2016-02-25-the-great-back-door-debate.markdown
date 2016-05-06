@@ -14,7 +14,7 @@ intro: "Back in December, a horrific attack occurred in San Bernardino from a hu
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-		<img src="/img/apple.jpg" data-toggle="tooltip" title="Apple, fighting for our right to privacy." class="image block img-responsive">
+		<img src="img/apple.jpg" data-toggle="tooltip" title="Apple, fighting for our right to privacy." class="image block img-responsive">
 	<h4>Apple, fighting for our right to privacy.</h4>
 </div>
 

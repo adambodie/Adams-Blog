@@ -15,7 +15,7 @@ intro: "Yesterday, the hip-hop game was jolted by the new song from Macklemore &
 
 
 <div class="blog-pic">
-		<img src="/img/white.jpg" data-toggle="tooltip" title="White Privilege II - by Macklemore and Ryan Lewis" class="image block img-responsive">
+		<img src="img/white.jpg" data-toggle="tooltip" title="White Privilege II - by Macklemore and Ryan Lewis" class="image block img-responsive">
 	<h4>White Privilege II - by Macklemore and Ryan Lewis</h4>
 </div>
 
@@ -26,7 +26,7 @@ intro: "Yesterday, the hip-hop game was jolted by the new song from Macklemore &
 <p>Later in the second verse, comes these bars 'You speak about equality, but do you really mean it? / Are you marching for freedom, or when it's convenient? / Want people to like you, want to be accepted / That's probably why you are out here protesting.'  To me, it's saying that you can act offended when someone is hurt or attacked for their skin, religion, sexuality, etc., but you're only aware of it because you heard about it somewhere.  Most of the time, people like this act like something needs to be done, yet don't understand anything about the people themselves.  For example, you can decry racist attacks against the black community, yet until you've actually spent time with the black community, you really have no perspective on what they're actually fighting for, how they feel about society, etc.  It's akin to fighting with them, but from afar.  Again, this segregation of sorts makes things worse.  While it's true that minorities like to stick together, it also is not going to accomplish much in healing racial divides.  And for those in the majority, it diminishes your fight to protect minorities when you have no strong understanding of what you're fighting for, instead fighting for a cause simply to be fighting for a cause.</p>
 
 <div class="blog-pic" style="float: left">
-		<img src="/img/macklemore.jpg" data-toggle="tooltip" title="Macklemore performing a song." class="image block img-responsive">
+		<img src="img/macklemore.jpg" data-toggle="tooltip" title="Macklemore performing a song." class="image block img-responsive">
 	<h4>Macklemore performing a song.</h4>
 </div>
 

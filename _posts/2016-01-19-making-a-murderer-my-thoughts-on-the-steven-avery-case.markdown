@@ -15,7 +15,7 @@ intro: "Much buzz has surrounded the Netflix film-documentary 'Making a Murderer
 
 
 <div class="blog-pic">
-		<img src="/img/murderer.jpg" data-toggle="tooltip" title="Making a Murderer, starring Steven Avery (kid and adult)" class="image block img-responsive">
+		<img src="img/murderer.jpg" data-toggle="tooltip" title="Making a Murderer, starring Steven Avery (kid and adult)" class="image block img-responsive">
 	<h4>Making a Murderer, starring Steven Avery (kid and adult)</h4>
 </div>
 <p>The backstory on how Steven Avery was convicted of rape in 1985 was ridiculous.  It was clear the Manitowoc County Police Department wanted to blame the crime on him no matter whether he did it or not and weren't going to consider any other plausible theories.  They ran wild with that case and wanted him behind bars because they considered him trash.  It certainly wasn't fair to treat someone that way.  And it really isn't fair that the actual perpetrator, Gregory Allen, who they knew about for his past crimes of sexual assault was able to commit more (which he did).  That part of the story is indisputable, as DNA found on the victim cleared him of any wrongdoing in 2003, and concluded Gregory Allen as the real perpetrator.</p>

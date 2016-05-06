@@ -14,7 +14,7 @@ intro: "Never thought this day would come, but all good things must come to an e
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-		<img src="/img/kobe6.jpg" data-toggle="tooltip" title="One last time...it's Kobe" class="image block img-responsive">
+		<img src="img/kobe6.jpg" data-toggle="tooltip" title="One last time...it's Kobe" class="image block img-responsive">
 	<h4>One last time...it's Kobe</h4>
 </div>
 
@@ -25,7 +25,7 @@ intro: "Never thought this day would come, but all good things must come to an e
 <p>Now the official video starts with Shaq speaking.  After everything they went through, it’s great to see Shaq and Kobe on good terms.  Derek Fisher, Kevin Durant, Dwyane Wade, Dirk Nowitzki, Gregg Popovich, Kevin Garnett, Carmelo Anthony, Steph Curry, LeBron James, Pau Gasol, Lamar Odom, Phil Jackson, Jack Nicholson all had great things to say about Kobe.  It about brings me to tears.  It’s true what they say, you can’t really appreciate something until it’s gone.</p>
 
 <div class="blog-pic">
-		<img src="/img/kobe2.jpg" data-toggle="tooltip" title="All the great legends know how great Kobe is" class="image block img-responsive">
+		<img src="img/kobe2.jpg" data-toggle="tooltip" title="All the great legends know how great Kobe is" class="image block img-responsive">
 	<h4>All the great legends know how great Kobe is</h4>
 </div>
 
@@ -36,7 +36,7 @@ intro: "Never thought this day would come, but all good things must come to an e
 <p>At 7:43 PM, the visitors get announced, yawn!  I was really hoping Houston would miss the playoffs, dang Houston.  Now Laker teammates are talking on video, Julius Randle, D’Angelo Russell, Metta World Peace, Jordan Clarkson and the others, along with coach Byron Scott.  It’s a shame the Lakers have been so bad the past few years, and here comes Kobe on the floor for the last time.  The biggest cheers from an otherwise unenthusiastic announcer.  And now, we can begin an otherwise forgettable game.</p>
 
 <div class="blog-pic">
-		<img src="/img/kobe4.jpg" data-toggle="tooltip" title="Kobe's killer instinct was lethal to those who tried to stop him" class="image block img-responsive">
+		<img src="img/kobe4.jpg" data-toggle="tooltip" title="Kobe's killer instinct was lethal to those who tried to stop him" class="image block img-responsive">
 	<h4>Kobe's killer instinct was lethal to those who tried to stop him</h4>
 </div>
 
@@ -47,7 +47,7 @@ intro: "Never thought this day would come, but all good things must come to an e
 <p>At 8:01 PM, I return to my room from the bathroom.  Of course, Kobe hit three of a row in 58 seconds while I was in the bathroom taking care of my bathroom needs.  Now Kobe just hit a long two, and the crowd goes wild, and just hit a three just about 20 seconds later.  By the way, Jay-Z’s in the house, can he at least try to smile?  Next possession, Marcelo Huertas gives the ball the Kobe like he’s supposed to and took an impossible three pointer, which almost went in.  Kobe just wants to shot and put on a show.  He should, he won’t get another chance.  Also, Golden State’s up 27-16 at this point as they seek history, and Steph Curry has 17 already.  He’s a special player to say the least.</p>
 
 <div class="blog-pic">
-		<img src="/img/kobe7.jpg" data-toggle="tooltip" title="Kobe's come a long way from 20 years" class="image block img-responsive pull-right">
+		<img src="img/kobe7.jpg" data-toggle="tooltip" title="Kobe's come a long way from 20 years" class="image block img-responsive pull-right">
 	<h4>Kobe's killer instinct was lethal to those who tried to stop him</h4>
 </div>
 
@@ -59,7 +59,7 @@ intro: "Never thought this day would come, but all good things must come to an e
 
 
 <div class="blog-pic">
-		<img src="/img/kobe3.jpg" data-toggle="tooltip" title="Young, old, Kobe could do it all" class="image block img-responsive">
+		<img src="img/kobe3.jpg" data-toggle="tooltip" title="Young, old, Kobe could do it all" class="image block img-responsive">
 	<h4>Young, old, Kobe could do it all</h4>
 </div>
 
@@ -72,7 +72,7 @@ intro: "Never thought this day would come, but all good things must come to an e
 
 
 <div class="blog-pic">
-		<img src="/img/kobe8.jpg" data-toggle="tooltip" title="Thanks for the Memories!" class="image block img-responsive pull-right">
+		<img src="img/kobe8.jpg" data-toggle="tooltip" title="Thanks for the Memories!" class="image block img-responsive pull-right">
 	<h4>Thanks for the Memories!</h4>
 </div>
 

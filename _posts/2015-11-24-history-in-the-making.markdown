@@ -14,7 +14,7 @@ intro: "Tonight, the Lakers play the Golden State Warriors in a game with the po
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-	<img src="/img/warriors.jpg" data-toggle="tooltip" title="One day, the Lakers will stop Steph Curry.  But not today." class="image block img-responsive">
+	<img src="img/warriors.jpg" data-toggle="tooltip" title="One day, the Lakers will stop Steph Curry.  But not today." class="image block img-responsive">
 	<h4>One day, the Lakers will stop Steph Curry.  But not today.</h4>
 </div>
 

@@ -14,7 +14,7 @@ intro: "Selection Sunday has arrived and gone, and now March Madness is set to b
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-		<img src="/img/brooks.jpg" data-toggle="tooltip" title="I like Dillon Brooks' spark.  He's got a fierce attitude and plays like it too." class="image block img-responsive">
+		<img src="img/brooks.jpg" data-toggle="tooltip" title="I like Dillon Brooks' spark.  He's got a fierce attitude and plays like it too." class="image block img-responsive">
 	<h4>I like Dillon Brooks' spark.  He's got a fierce attitude and plays like it too.</h4>
 </div>
 
@@ -26,7 +26,7 @@ intro: "Selection Sunday has arrived and gone, and now March Madness is set to b
 
 
 <div class="blog-pic">
-		<img src="/img/hield.jpg" data-toggle="tooltip" title="Oklahoma scoring sensation Buddy Hield." class="image block img-responsive">
+		<img src="img/hield.jpg" data-toggle="tooltip" title="Oklahoma scoring sensation Buddy Hield." class="image block img-responsive">
 	<h4>Oklahoma scoring sensation Buddy Hield</h4>
 </div>
 
@@ -38,7 +38,7 @@ intro: "Selection Sunday has arrived and gone, and now March Madness is set to b
 
 
 <div class="blog-pic">
-		<img src="/img/valentine.jpg" data-toggle="tooltip" title="Michigan State star Denzel Valentine." class="image block img-responsive">
+		<img src="img/valentine.jpg" data-toggle="tooltip" title="Michigan State star Denzel Valentine." class="image block img-responsive">
 	<h4>Michigan State star Denzel Valentine</h4>
 </div>
 <p>Oregon has quite a tough road to get to the Final Four.  Oklahoma, Texas A&amp;M, Duke, Baylor and St. Joseph’s as an 8 seed are tough opponents.  Duke is not the team they were last year, but Mike Krzyzewski is still the best coach in NCAA history.  Oklahoma has possibly the best player in the Tournament with Buddy Hield, an elite scorer and possible top pick in the NBA Draft.  Baylor’s style of play is always tough to handle, though Oregon beat them to begin the season.  Oregon has the talent to make the Final Four, but their depth is a minor issue, as they only play 7 players regularly.  But their top players play really well, defend really well, and are really unselfish, all defining characteristics of their coach Dana Altman.  I could see them losing to Duke or Baylor in the Sweet Sixteen, but being biased, I’m picking them to reach the Final Four because they’ve defied the odds to get to this point.</p>
@@ -48,7 +48,7 @@ intro: "Selection Sunday has arrived and gone, and now March Madness is set to b
 <p>I have never joined a March Madness pool, so it’s never been a competition for me.  But with celebrities and of course, President Obama making their own selections, I tend to compare my to them.  Since this is the last year Obama will be President, I’ll miss ESPN Barack-etology and look forward to hearing his picks in the next day or two, but we’ll see who wins this year.  Will he play it safe or make crazy selections like some of his Republican ‘buddies’ (see Kentucky loving Mitch McConnell or the Anti-Tax Lord Grover Norquist, who always picks the teams whose states have the lowest tax rate, seriously?)?  Will he find a way to show any love for Duke, where his former assistant Reggie Love played on their team?  And will he have an opinion on Oregon State, two years after they fired his brother-in-law Craig Robinson as their head coach?  Here’s hoping for a good battle. [Editor’s note - added March 16, 2016: Obama picked Kansas over North Carolina for his eighth and final Presidential bracket, only in his first year of office did he pick the correct team to win the National Championship].</p>
 
 <div class="blog-pic">
-		<img src="/img/monmouth.jpg" data-toggle="tooltip" title="Awwww, what could've been, Monmouth." class="image block img-responsive pull-right">
+		<img src="img/monmouth.jpg" data-toggle="tooltip" title="Awwww, what could've been, Monmouth." class="image block img-responsive pull-right">
 	<h4>Awwww, what could've been, Monmouth</h4>
 </div>
 

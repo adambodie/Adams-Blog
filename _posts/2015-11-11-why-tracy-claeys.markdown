@@ -14,7 +14,7 @@ intro: "Two weeks ago, Jerry Kill, the football coach of the Gophers, retired du
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-	<img src="/img/claeys.jpg" data-toggle="tooltip" title="Tracy Claeys on the sidelines" class="image block img-responsive">
+	<img src="img/claeys.jpg" data-toggle="tooltip" title="Tracy Claeys on the sidelines" class="image block img-responsive">
 	<h4>Tracy Claeys on the sidelines.</h4>
 </div>
 

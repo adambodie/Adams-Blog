@@ -15,7 +15,7 @@ intro: "A few months ago, while campaigning for President, Donald Trump, known f
 
 
 <div class="blog-pic">
-		<img src="/img/flint.JPG" data-toggle="tooltip" title="The Flint River, looks innocent, but quite deadly." class="image block img-responsive">
+		<img src="img/flint.JPG" data-toggle="tooltip" title="The Flint River, looks innocent, but quite deadly." class="image block img-responsive">
 	<h4>The Flint River, looks innocent, but quite deadly.</h4>
 </div>
 

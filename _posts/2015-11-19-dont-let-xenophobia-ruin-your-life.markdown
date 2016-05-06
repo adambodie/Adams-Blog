@@ -13,7 +13,7 @@ intro: "There are plenty of people who are afraid of people who aren't like them
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-	<img src="/img/peace.jpg" data-toggle="tooltip" title="Peace: Not Hate" class="image block img-responsive">
+	<img src="img/peace.jpg" data-toggle="tooltip" title="Peace: Not Hate" class="image block img-responsive">
 	<h4>Peace: Not Hate</h4>
 </div>
 

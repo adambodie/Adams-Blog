@@ -11,7 +11,7 @@ intro: "Learning new ways to make blog posts or any developing tools in general 
 ---
 <div class="article">
 <div class="blog-pic" style="float: left">
-		<img src="/img/mthood.jpg" data-toggle="tooltip" title="Mt. Hood" class="image block img-responsive">
+		<img src="img/mthood.jpg" data-toggle="tooltip" title="Mt. Hood" class="image block img-responsive">
 		<h4>Mt. Hood</h4>
 </div>
 <p>{{page.intro}}</p>
@@ -30,7 +30,7 @@ intro: "Learning new ways to make blog posts or any developing tools in general 
             }
         ],
         "image": [{
-                "name": "/img/image.jpg",
+                "name": "img/image.jpg",
                 "caption": "I'm a caption!"
             }]
     }

@@ -14,7 +14,7 @@ intro: "One week into the season, the Lakers are winless (0-4) and have not look
 <p>{{ page.intro }}</p>
 
 <div class="blog-pic">
-	<img src="/img/kobe.jpg" data-toggle="tooltip" title="Kobe Bryant upset after a call." class="image block img-responsive">
+	<img src="img/kobe.jpg" data-toggle="tooltip" title="Kobe Bryant upset after a call." class="image block img-responsive">
 	<h4>Kobe Bryant upset after a call.</h4>
 </div>
 

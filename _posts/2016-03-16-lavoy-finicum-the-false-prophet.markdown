@@ -14,7 +14,7 @@ intro: "The standoff at the Malheur Wildlife Refuge has come and gone, but yet p
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-		<img src="/img/lavoy.jpg" data-toggle="tooltip" title="If it acts like a terrorist and talks like a terrorist, he must be a terrorist." class="image block img-responsive">
+		<img src="img/lavoy.jpg" data-toggle="tooltip" title="If it acts like a terrorist and talks like a terrorist, he must be a terrorist." class="image block img-responsive">
 	<h4>If it acts like a terrorist and talks like a terrorist, he must be a terrorist</h4>
 </div>
 

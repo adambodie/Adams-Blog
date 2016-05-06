@@ -14,7 +14,7 @@ intro: "Tomorrow is the official start of the 2016 Presidential Election process
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-		<img src="/img/dumb.jpg" data-toggle="tooltip" title="Which one is Dumb and which one is Dumber?  The mystery remains..." class="image block img-responsive">
+		<img src="img/dumb.jpg" data-toggle="tooltip" title="Which one is Dumb and which one is Dumber?  The mystery remains..." class="image block img-responsive">
 	<h4>Which one is Dumb and which one is Dumber?  The mystery remains...</h4>
 </div>
 
@@ -26,7 +26,7 @@ intro: "Tomorrow is the official start of the 2016 Presidential Election process
 
 
 <div class="blog-pic">
-		<img src="/img/dumber.jpg" data-toggle="tooltip" title="Bros turned enemies... and it's all because of math." class="image block img-responsive">
+		<img src="img/dumber.jpg" data-toggle="tooltip" title="Bros turned enemies... and it's all because of math." class="image block img-responsive">
 	<h4>Bros turned enemies... and it's all because of math.</h4>
 </div>
 

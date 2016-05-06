@@ -14,7 +14,7 @@ intro: "When people refer to “The Day the Music Died,” they are referring to
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-	<img src="/img/prince.jpg" data-toggle="tooltip" title="Prince embodied sexiness for men." class="image block img-responsive pull-right">
+	<img src="img/prince.jpg" data-toggle="tooltip" title="Prince embodied sexiness for men." class="image block img-responsive pull-right">
 	<h4>Prince embodied sexiness for men.</h4>
 </div>
 
@@ -26,7 +26,7 @@ intro: "When people refer to “The Day the Music Died,” they are referring to
 
 
 <div class="blog-pic">
-	<img src="/img/prince2.jpg" data-toggle="tooltip" title="Prince knew how to rock it!" class="image block img-responsive pull-right">
+	<img src="img/prince2.jpg" data-toggle="tooltip" title="Prince knew how to rock it!" class="image block img-responsive pull-right">
 	<h4>Prince knew how to rock it!</h4>
 </div>
 

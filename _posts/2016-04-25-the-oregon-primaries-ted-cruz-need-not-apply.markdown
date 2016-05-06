@@ -14,7 +14,7 @@ intro: "As we're weeks away from Oregon’s Primary election, May 17th, it has b
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-		<img src="/img/donkey.jpg" data-toggle="tooltip" title="Don't we all wish we could do that to Ted Cruz." class="image block img-responsive">
+		<img src="img/donkey.jpg" data-toggle="tooltip" title="Don't we all wish we could do that to Ted Cruz." class="image block img-responsive">
 	<h4>Don't we all wish we could do that to Ted Cruz.</h4>
 </div>
 
@@ -28,7 +28,7 @@ intro: "As we're weeks away from Oregon’s Primary election, May 17th, it has b
 
 
 <div class="blog-pic">
-		<img src="/img/bernie.jpg" data-toggle="tooltip" title="Millionaires and Billionaires hate Bernie Sanders." class="image block img-responsive">
+		<img src="img/bernie.jpg" data-toggle="tooltip" title="Millionaires and Billionaires hate Bernie Sanders." class="image block img-responsive">
 	<h4>Millionaires and Billionaires hate Bernie Sanders.</h4>
 </div>
 
@@ -41,7 +41,7 @@ intro: "As we're weeks away from Oregon’s Primary election, May 17th, it has b
 
 
 <div class="blog-pic">
-		<img src="/img/hillary.jpg" data-toggle="tooltip" title="Republicans REALLY hate Hillary Clinton." class="image block img-responsive">
+		<img src="img/hillary.jpg" data-toggle="tooltip" title="Republicans REALLY hate Hillary Clinton." class="image block img-responsive">
 	<h4>Republicans REALLY hate Hillary Clinton.</h4>
 </div>
 

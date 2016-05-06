@@ -14,7 +14,7 @@ intro: "A week from today, the college football season ends with the national ch
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-		<img src="/img/clemson.jpg" data-toggle="tooltip" title="Clemson Quarterback DeShaun Watson." class="image block img-responsive">
+		<img src="img/clemson.jpg" data-toggle="tooltip" title="Clemson Quarterback DeShaun Watson." class="image block img-responsive">
 	<h4>Clemson Quarterback DeShaun Watson</h4>
 </div>
 
@@ -25,7 +25,7 @@ intro: "A week from today, the college football season ends with the national ch
 <p>Offensively, Clemson has more threats than Alabama, including their star QB DeShaun Watson, a dual threat quarterback that can give Alabama's defense fits.  Against Oklahoma, he was hitting on all cylinders, on the ground and through the air (though it wasn't until the second half until Clemson started to pull away).  Alabama has Heisman winning RB Derrick Henry, a talented runner and a top priority for Clemson, but Alabama also has wide receivers to throw to as well, as Michigan State learned the hard way in the Cotton Bowl.  With a plethora of options for Clemson, they have the slight edge.</p>
 
 <div class="blog-pic">
-		<img src="/img/alabama.jpg" data-toggle="tooltip" title="Alabama Running Back Derrick Henry." class="image block img-responsive pull-right">
+		<img src="img/alabama.jpg" data-toggle="tooltip" title="Alabama Running Back Derrick Henry." class="image block img-responsive pull-right">
 	<h4>Alabama Running Back Derrick Henry</h4>
 </div>
 

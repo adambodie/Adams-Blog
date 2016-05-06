@@ -14,7 +14,7 @@ intro: "This year’s March Madness has truly personified to term Madness, to sa
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-		<img src="/img/hield2.jpg" data-toggle="tooltip" title="Buddy Hield had his way against Oregon.  Their reward, a trip to the Final Four." class="image block img-responsive">
+		<img src="img/hield2.jpg" data-toggle="tooltip" title="Buddy Hield had his way against Oregon.  Their reward, a trip to the Final Four." class="image block img-responsive">
 	<h4>Buddy Hield had his way against Oregon.  Their reward, a trip to the Final Four.</h4>
 </div>
 
@@ -25,7 +25,7 @@ intro: "This year’s March Madness has truly personified to term Madness, to sa
 <p>The other team to reach the Final Four is with the exception of Tulsa, the team most people felt did not belong in the Tournament at all; Syracuse.  The first 10 seed to ever reach the Final Four, Syracuse proved most wrong with impressive wins against Dayton, Gonzaga and Virginia, using a big run in the second half to beat the top seed Virginia.  Surely, the people who questioned them need to shut up, never doubt Jim Boeheim and their zone defense.  While I never thought they would make it this far, I felt they belonged in the Tournament, and not totally surprised they plated better than expected.</p>
 
 <div class="blog-pic">
-		<img src="/img/syracuse.jpg" data-toggle="tooltip" title="No one believed Syracuse belonged in the Tournament.  Now they're in the Final Four." class="image block img-responsive">
+		<img src="img/syracuse.jpg" data-toggle="tooltip" title="No one believed Syracuse belonged in the Tournament.  Now they're in the Final Four." class="image block img-responsive">
 	<h4>No one believed Syracuse belonged in the Tournament.  Now they're in the Final Four.</h4>
 </div>
 

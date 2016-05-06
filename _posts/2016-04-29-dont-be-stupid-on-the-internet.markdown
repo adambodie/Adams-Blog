@@ -14,7 +14,7 @@ intro: "Last night was the first round of the NFL Draft, a time for the best ran
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-		<img src="/img/tunsil.jpg" data-toggle="tooltip" title="This should have been the highlight of Laremy Tunsil's night, but everyone's talking about the bong." class="image block img-responsive">
+		<img src="img/tunsil.jpg" data-toggle="tooltip" title="This should have been the highlight of Laremy Tunsil's night, but everyone's talking about the bong." class="image block img-responsive">
 	<h4>This should have been the highlight of Laremy Tunsil's night, but everyone's talking about the bong.</h4>
 </div>
 

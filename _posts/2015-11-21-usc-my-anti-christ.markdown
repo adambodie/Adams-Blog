@@ -15,7 +15,7 @@ intro: "Today marks another edition of Oregon vs. USC.  This should be just anot
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-	<img src="/img/ducks.jpg" data-toggle="tooltip" title="Vernon Adams: Former USC fan turned USC killer" class="image block img-responsive">
+	<img src="img/ducks.jpg" data-toggle="tooltip" title="Vernon Adams: Former USC fan turned USC killer" class="image block img-responsive">
 	<h4>Vernon Adams: Former USC fan turned USC killer</h4>
 </div>
 
@@ -24,7 +24,7 @@ intro: "Today marks another edition of Oregon vs. USC.  This should be just anot
 <p>The USC impenetrable armor started to crack in 2005, at the 2006 Rose Bowl for the National Championship against Texas.  Have mythically won two straight National Championships, the build-up to the game was ridiculous.  Sports networks like ESPN had already crowned them the National Champion, comparing them to previous title winners over the years.  There was one problem with that though, USC hadn't yet played the game.  Enter Vince Young, the dazzling Texas Quarterback who almost single-handedly beat the USC Trojans and dethroned them.  I guess USC wasn't nearly as good as those all time greats, because they won national championships, USC did not.  Between 2006 and 2009, USC continued to show their arrogance and perceived entitlement, often playing down their opponents.  USC didn't make it back to the National Championship during any of those years, as one Pac-10 team would beat USC in a game USC would have won if they had actually taken them seriously.  This was best exemplified in 2007, when USC, a 42 point favorite against Stanford, lost at the last minute, all the while Stanford, the worst team in the conference at the time, was down to its backup quarterback.  Yet Uncle Hooter would still assume his precious team was the best and downplayed every accomplish every other team had, ignoring the obvious.</p>
 
 <div class="blog-pic" style="float: left">
-	<img src="/img/deanthony.jpg" data-toggle="tooltip" title="The recruiting tide started to tilt when De'Anthony Thomas went from USC to Oregon." class="image block img-responsive">
+	<img src="img/deanthony.jpg" data-toggle="tooltip" title="The recruiting tide started to tilt when De'Anthony Thomas went from USC to Oregon." class="image block img-responsive">
 	<h4>The recruiting tide started to tilt when De'Anthony Thomas went from USC to Oregon.</h4>
 </div>
 
@@ -35,7 +35,7 @@ intro: "Today marks another edition of Oregon vs. USC.  This should be just anot
 <p>Their football team was much of the same.  They relied on the past with hopes it would help their present and future.  This was accomplished by hiring Pete Carroll's former assistants to coach the team.  First came Lane Kiffin, who briefly coached the Oakland Raiders, before being fired publicly by then-Owner Al Davis, before coaching the Tennessee Volunteers for one year, racking up more NCAA violations than wins.  Lane Kiffin, a bumbling idiot who considered minor violations a great recruiting tool, had limited scholarships due to their probation and was Bowl-ineligible for his first two seasons.  They got lucky in 2011 to beat Oregon, the top team in the conference.  Sadly, this was one of the biggest highlights of the Hooter's year, as they would criticize Oregon for every loss they got (obviously because they had nothing to be proud of for their team while they were bowl ineligible).</p>
 
 <div class="blog-pic">
-<img src="/img/mariota.jpg" data-toggle="tooltip" title="USC should consider themselves lucky they only had to face Marcus Mariota once." class="image block img-responsive">
+<img src="img/mariota.jpg" data-toggle="tooltip" title="USC should consider themselves lucky they only had to face Marcus Mariota once." class="image block img-responsive">
 	<h4>USC should consider themselves lucky they only had to face Marcus Mariota once.</h4>
 </div>
 
