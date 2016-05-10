@@ -61,7 +61,7 @@ svg {
 <div class="article">
 <p> {{ page.intro }}</p>
 <div class="blog-pic">
-		<img src="inhofe.jpg" data-toggle="tooltip" title="Jim Inhofe" class="image block img-responsive" id="inhofe">
+		<img src="img/inhofe.jpg" data-toggle="tooltip" title="Jim Inhofe" class="image block img-responsive" id="inhofe">
 		<h4>In Washington D.C., it snows virtually every winter.  Doesn't prove a thing.</h4>
 </div>
 		<p>Enter Jim Inhofe, the senior Republican Senator of Oklahoma and for some reason, the chair of the Senate Committee on Environment and Public Works.  Senator Inhofe has long been a denier of climate change, and a cold winter day on February 26, 2015, Senator Inhofe blasted global warming as a hoax.  His reasoning: It was snowing outside.  He even brought in a snowball to a Congressional Hearing to back up his claim, because according to him, how can we have global warming when it's so cold outside.  So despite average temperatures trending upward since the 1970s, does Inhofe's snow theory hold up?</p>
