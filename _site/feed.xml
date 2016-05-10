@@ -5,9 +5,180 @@
     <description>A blog about whatever is on Adam&#39;s mind.</description>
     <link>http://blog.bodiewebdesign.com/Adams-Blog/</link>
     <atom:link href="http://blog.bodiewebdesign.com/Adams-Blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 08 May 2016 14:22:08 -0700</pubDate>
-    <lastBuildDate>Sun, 08 May 2016 14:22:08 -0700</lastBuildDate>
+    <pubDate>Tue, 10 May 2016 08:31:09 -0700</pubDate>
+    <lastBuildDate>Tue, 10 May 2016 08:31:09 -0700</lastBuildDate>
     <generator>Jekyll v3.1.3</generator>
+    
+      <item>
+        <title>Climate Change and Snow - The Real Story</title>
+        <description>&lt;style&gt;
+#inhofe {
+	float: right;
+	padding: 20px;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+
+.pdxLine {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 2px;
+}
+
+.pdxLine:hover {
+	stroke-width: 4px;
+}
+
+.nycLine {
+	fill: none;
+	stroke: green;
+	stroke-width: 2px;
+}
+
+.nycLine:hover {
+	stroke-width: 4px;
+}
+svg {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	font: 10px sans-serif;
+}
+
+.key {
+    padding: 10px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+
+&lt;/style&gt;
+
+&lt;div class=&quot;article&quot;&gt;
+&lt;p&gt; Climate change is real.  97% of all scientists believe the Earth is getting abnormally hotter than usual because of greenhouse gases polluting the Earth.  But there are some people who believe it&#39;s a hoax.  Most likely it&#39;s to protect their greenhouse gas producing fuels and chemicals.  Others are religious nuts who hate science as it counters religion.  They&#39;ll find any excuse to discredit global warming and climate change as to protect their profit, and gain the support of those who disapprove man-made climate change, mostly members of the Republican Party.&lt;/p&gt;
+&lt;div class=&quot;blog-pic&quot;&gt;
+		&lt;img src=&quot;inhofe.jpg&quot; data-toggle=&quot;tooltip&quot; title=&quot;Jim Inhofe&quot; class=&quot;image block img-responsive&quot; id=&quot;inhofe&quot; /&gt;
+		&lt;h4&gt;In Washington D.C., it snows virtually every winter.  Doesn&#39;t prove a thing.&lt;/h4&gt;
+&lt;/div&gt;
+		&lt;p&gt;Enter Jim Inhofe, the senior Republican Senator of Oklahoma and for some reason, the chair of the Senate Committee on Environment and Public Works.  Senator Inhofe has long been a denier of climate change, and a cold winter day on February 26, 2015, Senator Inhofe blasted global warming as a hoax.  His reasoning: It was snowing outside.  He even brought in a snowball to a Congressional Hearing to back up his claim, because according to him, how can we have global warming when it&#39;s so cold outside.  So despite average temperatures trending upward since the 1970s, does Inhofe&#39;s snow theory hold up?&lt;/p&gt;
+		
+		&lt;p&gt;Anyone with half a brain knows it doesn&#39;t get hot in our Winter. Since the Earth&#39;s rotated at 24.5 degrees, we have different seasons and when our axis is away from the sun, it gets colder as opposed to the axis being towards the sun, when it gets hotter.  Yet Senator Inhofe thinks Global Warming only makes things hotter.  A native Portlander, I have seen many winters come and go in Portland with little to no snow, despite a decently cold temperature.  When I was younger, I saw a lot more snowy days in Portland.  Now, we&#39;ve had just a few years with any major snowstorms.  As you can see from the graph below, I&#39;ve compared snowfall levels of both Portland and New York City (where it is more likely to snow), and looking at the data, doesn&#39;t prove that Global Warming doesn&#39;t exist.&lt;/p&gt;
+
+	&lt;p&gt;As the data below shows, there is no reason to believe that snow has anything to do with global warming.  In fact, Portland shows a drop in snowfall over the years.  The snowstorm of 2008-2009 was a freak snowstorm for us here in Portland; we had not seen that much snow in that year.  But as the data shows, we in Portland saw little to no snow during the rest of that decade.  It&#39;s true that Portland doesn&#39;t represent the United States as a whole, but by Inhofe&#39;s thinking, there would be little to no variation in the yearly data.  Looking at the data for New York City, there&#39;s no variation in snow levels, varying year to year.  But this has nothing to do with temperature.  On the flipside is Phoenix, where it rarely, if ever, snows.  Senator Inhofe&#39;s snow argument wouldn&#39;t get much muster in Phoenix.&lt;/p&gt;
+	&lt;p&gt;I can&#39;t tell you where Senator Inhofe gets his ideas from.  But as someone who gets plenty of campaign money from the oil and gas industries, it would come as no shock if his opinions are being paid for.  After all, these companies are polluting the air with little regard to the environment.  But while that factor will always be there, it&#39;s Inhofe&#39;s religious stance that may be a greater cause of concern.  In 2012, Inhofe cited the Bible as irrefutable proof that climate change isn&#39;t man-made.  His quote: &lt;em&gt;&quot;[T]he Genesis 8:22 that I use in there is that &#39;as long as the earth remains there will be seed time and harvest, cold and heat, winter and summer, day and night.&#39; My point is, God&#39;s still up there. The arrogance of people to think that we, human beings, would be able to change what He is doing in the climate is to me outrageous.&quot;&lt;/em&gt; But really, why would God choose 2014 to become the hottest average temperature on the existence of Earth since they started measuring, and then break that record the following year.  Some things are easier to identify and prove than with God&#39;s will.&lt;/p&gt;
+	&lt;h3 id=&quot;title&quot;&gt;Snowfall from 1871-2009 in New York City and Portland&lt;/h3&gt;
+	&lt;div id=&quot;info&quot; style=&quot;width: 1100px;&quot;&gt;
+   	&lt;div id=&quot;keys&quot;&gt;
+      	&lt;p&gt;
+            &lt;span class=&quot;key&quot; style=&quot;background: steelblue;&quot;&gt;&lt;/span&gt;
+            &lt;span class=&quot;key-text&quot;&gt;Portland&lt;/span&gt;
+         &lt;/p&gt;
+         &lt;p&gt;
+         	&lt;span class=&quot;key&quot; style=&quot;background: green;&quot;&gt;&lt;/span&gt;
+         	&lt;span class=&quot;key-text&quot;&gt;New York&lt;/span&gt;
+         &lt;/p&gt;
+      &lt;/div&gt;	
+	&lt;script src=&quot;//d3js.org/d3.v3.min.js&quot;&gt;&lt;/script&gt;
+	&lt;script&gt;
+
+var margin = {top: 20, right: 20, bottom: 30, left: 50},
+    width = 960 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
+
+var formatDate = d3.time.format(&quot;%Y&quot;);
+
+var x = d3.time.scale()
+    .range([0, width]);
+
+var y = d3.scale.linear()
+    .range([height, 0]);
+
+var xAxis = d3.svg.axis()
+    .scale(x)
+    .orient(&quot;bottom&quot;);
+
+var yAxis = d3.svg.axis()
+    .scale(y)
+    .orient(&quot;left&quot;);
+
+var pdxLine = d3.svg.line()
+    .x(function(d) { return x(d.date); })
+    .y(function(d) { return y(d.pdx); });
+    
+var nycLine = d3.svg.line()
+    .x(function(d) { return x(d.date); })
+    .y(function(d) { return y(d.nyc); });    
+				
+var svg = d3.select(&quot;body&quot;)
+	 .append(&quot;svg&quot;)
+    .attr(&quot;width&quot;, width + margin.left + margin.right)
+    .attr(&quot;height&quot;, height + margin.top + margin.bottom)
+  	 .append(&quot;g&quot;)
+    .attr(&quot;transform&quot;, &quot;translate(&quot; + margin.left + &quot;,&quot; + margin.top + &quot;)&quot;);
+
+
+d3.tsv(&quot;data/data.tsv&quot;, type, function(error, data) {
+  if (error) throw error;
+  
+  x.domain(d3.extent(data, function(d) { return d.date; }));
+  y.domain(d3.extent(data, function(d) { return d.nyc; }));
+
+  svg.append(&quot;g&quot;)
+      .attr(&quot;class&quot;, &quot;x axis&quot;)
+      .attr(&quot;transform&quot;, &quot;translate(0,&quot; + height + &quot;)&quot;)
+      .call(xAxis);
+
+  svg.append(&quot;g&quot;)
+      .attr(&quot;class&quot;, &quot;y axis&quot;)
+      .call(yAxis)
+    .append(&quot;text&quot;)
+      .attr(&quot;transform&quot;, &quot;rotate(-90)&quot;)
+      .attr(&quot;y&quot;, 10)
+      .attr(&quot;dy&quot;, &quot;.71em&quot;)
+      .style(&quot;text-anchor&quot;, &quot;end&quot;)
+      .text(&quot;Snowfall (inches)&quot;);
+  		
+  svg.append(&quot;path&quot;)
+      .datum(data)
+      .attr(&quot;class&quot;, &quot;pdxLine&quot;)
+      .attr(&quot;d&quot;, pdxLine);
+ 
+ 	svg.append(&quot;path&quot;)
+ 		.datum(data)
+ 		.attr(&quot;class&quot;, &quot;nycLine&quot;)
+ 		.attr(&quot;d&quot;, nycLine);
+ 
+});
+
+function type(d) {
+  d.date = formatDate.parse(d.date);
+  d.pdx = +d.pdx;
+  d.nyc = +d.nyc;
+  return d;
+}
+
+&lt;/script&gt;
+	
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 08 May 2016 00:00:00 -0700</pubDate>
+        <link>http://blog.bodiewebdesign.com/Adams-Blog/climate-change-and-snow</link>
+        <guid isPermaLink="true">http://blog.bodiewebdesign.com/Adams-Blog/climate-change-and-snow</guid>
+        
+        
+        <category>politics,</category>
+        
+        <category>environmnent</category>
+        
+      </item>
     
       <item>
         <title>Why I Voted for Hillary Clinton</title>
@@ -467,45 +638,6 @@ The american people are sick and tired of hearing about her damn emails!
         <pubDate>Wed, 13 Apr 2016 00:00:00 -0700</pubDate>
         <link>http://blog.bodiewebdesign.com/Adams-Blog/mamba-day-and-everyones-celebrating</link>
         <guid isPermaLink="true">http://blog.bodiewebdesign.com/Adams-Blog/mamba-day-and-everyones-celebrating</guid>
-        
-        
-        <category>basketball</category>
-        
-      </item>
-    
-      <item>
-        <title>The Hall of Fame will never be the same, thanks Shaq</title>
-        <description>&lt;div class=&quot;article&quot;&gt;
-&lt;p&gt;When it comes to the NBA, there are two types of players who dominate; players with amazing skills and smarts, and players with an unmatched physical advantage, players I like to call ‘a physical freak of nature.’ While players like Michael Jordan and Kobe Bryant will come and go, the physical freaks are rarer, and though not all players in the category are elite, the ones who do are able to use their advantageous attributes effectively and skillfully. Today, it comes as no surprise that Shaquille O’Neal, a man who needs no introduction, was selected to join the Basketball Hall of Fame. There was never a player like Shaq when he was playing, and with the changing of the style of play in professional basketball, there will probably never be a player as dominant and larger-than-life as Shaq, both physically and verbally.&lt;/p&gt;
-
-&lt;div class=&quot;blog-pic&quot;&gt;
-		&lt;img src=&quot;img/shaq.jpg&quot; data-toggle=&quot;tooltip&quot; title=&quot;Shaq with the alley-oop and the crowd goes wild, my favorite moment (and his too).&quot; class=&quot;image block img-responsive&quot; /&gt;
-	&lt;h4&gt;Shaq with the alley-oop and the crowd goes wild, my favorite moment (and his too).&lt;/h4&gt;
-&lt;/div&gt;
-
-&lt;p&gt;When Shaq first entered the NBA with the Orlando Magic, he made an immediate impact, scoring at will against his opponents, blocking whatever shots came his way, and rebounding at will.  He also made his presence with his colorful personality and propensity for entertainment,  whether it was his rapping career or his acting, Shaq was immediately one to stand out.  I certainly had my share of Shaq memorabilia when I was young; toys, posters, video games, etc.  I even saw him star in the crappy Kazaam movie, where Shaq played a genie.  But as a player, Shaq had yet to reach his prime, and when he did, it was scary.&lt;/p&gt;
-
-&lt;p&gt;With the 90’s dominated by MJ (and Hakeem Olajuwon when MJ was briefly retired), Shaq’s Magic could only taste the NBA Finals once, losing the Hakeem and the Rockets easily.  Perhaps the only center that could play effectively against Shaq at the time, but with a different skill set, Shaq’s turn was coming.  But it wasn&#39;t in Orlando, a place Shaq referred to as a pond.  With that, he headed West to the Los Angeles Lakers, where he reached his prime.&lt;/p&gt;
-
-&lt;p&gt;Though his first couple of years with the Lakers didn’t reap any immediate super success, it wasn’t until the Lakers hired Phil Jackson as coach that the Lakers became the Champs.  Along with the rise of talented youngster Kobe Bryant, the Lakers were soon the team to beat as Shaq reached the prime of his career, and watching him play, there was nothing anyone could do to slow him down.  His size, strength and footwork made Shaq unstoppable, with no one even close to slowing him down, and having Phil Jackson as coach, Shaq was disciplined and motivated to win, win, win, as the Lakers won three in a row from 2000-2002.  Sure, people could Hack-A-Shaq him and make him shoot free throws, his only weakness, but seriously, how many teams were successfully able to comeback and win from Hack-A-Shaq?  While Kobe was and is my favorite player, anyone with half a brain could tell you that Shaq was the first option and best reason for the Lakers dominance.  His MVP winning 2000 season was perhaps the most dominating year anyone has ever had in the NBA, one vote shy of an unanimous MVP vote, and it’s hard to believe Allen Iverson got one vote.&lt;/p&gt;
-
-&lt;div class=&quot;blog-pic&quot;&gt;
-	&lt;img src=&quot;img/shaq2.jpg&quot; data-toggle=&quot;tooltip&quot; title=&quot;How can you be sad looking at that?&quot; class=&quot;image block img-responsive&quot; /&gt;
-	&lt;h4&gt;How can you be sad looking at that?&lt;/h4&gt;
-&lt;/div&gt;
-
-
-
-&lt;p&gt;As a Kobe fan, I lost some respect for Shaq after the two started feuding, leading to Shaq being traded to Miami.  It was sad to see such a great duo break up, but it’s also not surprising as the two were both A-Stars, unwilling to be B-Stars.  The feud between the two was rather stupid, mostly coming from Shaq’s end, with the constant name calling and references to ‘he who shall not be named.’  But looking back, it probably was kind of foolish to be too harsh against Shaq, as he’s always been the goofy funny guy who doesn’t take too much seriously.  All his nicknames, comments and outside forms of entertainment, it seemed like a plea for attention, and it was true, Shaq did it for the attention.  There was obviously something boiling deep down, but not as extreme as it seemed.  Kobe made his comments, but they were much more calculated.  It was great to see that feud end and now they are on friendlier terms (perhaps it’s a good thing they both dislike Dwight Howard…).&lt;/p&gt;
-
-&lt;p&gt;True to the word, Shaq is one of a kind, a player whose size, strength and personality make him out of the world, a unique player whose skill set may never be matched.  With the NBA becoming a guard&#39;s game, no one has even come close as a center to matching Shaq, and it may not ever get there.  The NBA All-Star doesn&#39;t have a vote for strictly centers, because of the lack of talented centers.  Big men are rarely if ever seen as a high priority in the draft.  Even the Lakers, home of some of the best Centers ever to play in the NBA (Shaq included), took point guard D’Angelo Russell last year with the second pick in the draft to be the future of their franchise, passing up big men Jahlil Okafor and Kristaps Porzingis.  So while we now play in a guard’s game, where the best player today weighs about half of Shaq’s size (Steph Curry), it&#39;s unfortunate that the NBA may never see a player like Shaq again, both in stature and character.&lt;/p&gt;
-
-&lt;p&gt;As a personality, Shaq always had a clever nickname or phrase to say, mostly about himself (‘The Great Aristotle’, ‘Shaq-Fu’, ‘Superman’, etc.) and his playful taunts of his opponents (who could forget the Sacramento Queens).  He had a larger than life personality, a great smile and charisma to make even the most sad person smile.  Shaq was and is one of a kind, a welcomed addition to the Hall of Fame and an all-time legend.  The Hall of Fame will never be the same again.&lt;/p&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Mon, 04 Apr 2016 00:00:00 -0700</pubDate>
-        <link>http://blog.bodiewebdesign.com/Adams-Blog/the-hall-of-fame-will-never-be-the-same</link>
-        <guid isPermaLink="true">http://blog.bodiewebdesign.com/Adams-Blog/the-hall-of-fame-will-never-be-the-same</guid>
         
         
         <category>basketball</category>
