@@ -4,7 +4,6 @@ title:  College Football Championship Preview
 date: 2016-01-04
 categories: football
 author: Adam Bodie
-permalink: college-football-championship-preview
 image: clemson.jpg
 alt: DeShaun Watson
 intro: "A week from today, the college football season ends with the national championship game between #1 Clemson and #2 Alabama.  A fitting championship game between the two best teams in the country.  Seeing Clemson slow down Oklahoma's high powered offense and Alabama completely shutting Michigan State down, it's clear these two were on a collision course for quite some time.  So who wins the big game?  Here are my two cents."
@@ -14,7 +13,7 @@ intro: "A week from today, the college football season ends with the national ch
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-		<img src="img/clemson.jpg" data-toggle="tooltip" title="Clemson Quarterback DeShaun Watson." class="image block img-responsive">
+		<img src="/img/clemson.jpg" data-toggle="tooltip" title="Clemson Quarterback DeShaun Watson." class="image block img-responsive">
 	<h4>Clemson Quarterback DeShaun Watson</h4>
 </div>
 
@@ -25,7 +24,7 @@ intro: "A week from today, the college football season ends with the national ch
 <p>Offensively, Clemson has more threats than Alabama, including their star QB DeShaun Watson, a dual threat quarterback that can give Alabama's defense fits.  Against Oklahoma, he was hitting on all cylinders, on the ground and through the air (though it wasn't until the second half until Clemson started to pull away).  Alabama has Heisman winning RB Derrick Henry, a talented runner and a top priority for Clemson, but Alabama also has wide receivers to throw to as well, as Michigan State learned the hard way in the Cotton Bowl.  With a plethora of options for Clemson, they have the slight edge.</p>
 
 <div class="blog-pic">
-		<img src="img/alabama.jpg" data-toggle="tooltip" title="Alabama Running Back Derrick Henry." class="image block img-responsive pull-right">
+		<img src="/img/alabama.jpg" data-toggle="tooltip" title="Alabama Running Back Derrick Henry." class="image block img-responsive pull-right">
 	<h4>Alabama Running Back Derrick Henry</h4>
 </div>
 

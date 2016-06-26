@@ -4,7 +4,6 @@ title:  LaVoy Finicum - The False Prophet
 date: 2016-03-16
 categories: politics
 author: Adam Bodie
-permalink: lavoy-finicum-the-false-prophet
 image: lavoy.jpg
 alt: Lavoy Finicum
 intro: "The standoff at the Malheur Wildlife Refuge has come and gone, but yet people are still fascinated by it. One story particularly disturbing is the case of LaVoy Finicum, the group’s unofficial spokesman who was the only casualty of the standoff. Supporters of his pathetic cause say he was murdered by the FBI. The official story stands that he was killed justifiably as he threatened to kill the cops in his way. Whatever the case, LaVoy Finicum does not deserve any pity at all. He got exactly what he deserved."
@@ -14,7 +13,7 @@ intro: "The standoff at the Malheur Wildlife Refuge has come and gone, but yet p
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-		<img src="img/lavoy.jpg" data-toggle="tooltip" title="If it acts like a terrorist and talks like a terrorist, he must be a terrorist." class="image block img-responsive">
+		<img src="/img/lavoy.jpg" data-toggle="tooltip" title="If it acts like a terrorist and talks like a terrorist, he must be a terrorist." class="image block img-responsive">
 	<h4>If it acts like a terrorist and talks like a terrorist, he must be a terrorist</h4>
 </div>
 

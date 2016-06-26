@@ -4,7 +4,6 @@ title:  Don't Be Stupid on the Internet
 date: 2016-04-29
 categories: technology
 author: Adam Bodie
-permalink: dont-be-stupid-on-the-internet
 image: tunsil.jpg
 alt: Laremy Tunsil
 intro: "Last night was the first round of the NFL Draft, a time for the best ranked prospects to join the NFL, a joyous time for those to hear their name called. Yet in this day and age, being stupid sells, and being stupid on the Internet never goes away no matter how hard you try. That's why all the buzz today is around Laremy Tunsil, a highly ranked offensive tackle who ended up falling to the 13th pick to the Miami Dolphins, as someone allegedly hacked into his Twitter account and posted a video of him smoking a bong through a gas mask earlier in the day."
@@ -14,7 +13,7 @@ intro: "Last night was the first round of the NFL Draft, a time for the best ran
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-		<img src="img/tunsil.jpg" data-toggle="tooltip" title="This should have been the highlight of Laremy Tunsil's night, but everyone's talking about the bong." class="image block img-responsive">
+		<img src="/img/tunsil.jpg" data-toggle="tooltip" title="This should have been the highlight of Laremy Tunsil's night, but everyone's talking about the bong." class="image block img-responsive">
 	<h4>This should have been the highlight of Laremy Tunsil's night, but everyone's talking about the bong.</h4>
 </div>
 

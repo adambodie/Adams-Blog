@@ -4,7 +4,6 @@ title:  The Hall of Fame will never be the same, thanks Shaq
 date: 2016-04-04
 categories: basketball
 author: Adam Bodie
-permalink: the-hall-of-fame-will-never-be-the-same
 image: shaq.jpg
 alt: Shaquille O'Neal
 intro: "When it comes to the NBA, there are two types of players who dominate; players with amazing skills and smarts, and players with an unmatched physical advantage, players I like to call ‘a physical freak of nature.’ While players like Michael Jordan and Kobe Bryant will come and go, the physical freaks are rarer, and though not all players in the category are elite, the ones who do are able to use their advantageous attributes effectively and skillfully. Today, it comes as no surprise that Shaquille O’Neal, a man who needs no introduction, was selected to join the Basketball Hall of Fame. There was never a player like Shaq when he was playing, and with the changing of the style of play in professional basketball, there will probably never be a player as dominant and larger-than-life as Shaq, both physically and verbally."
@@ -14,7 +13,7 @@ intro: "When it comes to the NBA, there are two types of players who dominate; p
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-		<img src="img/shaq.jpg" data-toggle="tooltip" title="Shaq with the alley-oop and the crowd goes wild, my favorite moment (and his too)." class="image block img-responsive">
+		<img src="/img/shaq.jpg" data-toggle="tooltip" title="Shaq with the alley-oop and the crowd goes wild, my favorite moment (and his too)." class="image block img-responsive">
 	<h4>Shaq with the alley-oop and the crowd goes wild, my favorite moment (and his too).</h4>
 </div>
 
@@ -25,7 +24,7 @@ intro: "When it comes to the NBA, there are two types of players who dominate; p
 <p>Though his first couple of years with the Lakers didn’t reap any immediate super success, it wasn’t until the Lakers hired Phil Jackson as coach that the Lakers became the Champs.  Along with the rise of talented youngster Kobe Bryant, the Lakers were soon the team to beat as Shaq reached the prime of his career, and watching him play, there was nothing anyone could do to slow him down.  His size, strength and footwork made Shaq unstoppable, with no one even close to slowing him down, and having Phil Jackson as coach, Shaq was disciplined and motivated to win, win, win, as the Lakers won three in a row from 2000-2002.  Sure, people could Hack-A-Shaq him and make him shoot free throws, his only weakness, but seriously, how many teams were successfully able to comeback and win from Hack-A-Shaq?  While Kobe was and is my favorite player, anyone with half a brain could tell you that Shaq was the first option and best reason for the Lakers dominance.  His MVP winning 2000 season was perhaps the most dominating year anyone has ever had in the NBA, one vote shy of an unanimous MVP vote, and it’s hard to believe Allen Iverson got one vote.</p>
 
 <div class="blog-pic">
-	<img src="img/shaq2.jpg" data-toggle="tooltip" title="How can you be sad looking at that?" class="image block img-responsive">
+	<img src="/img/shaq2.jpg" data-toggle="tooltip" title="How can you be sad looking at that?" class="image block img-responsive">
 	<h4>How can you be sad looking at that?</h4>
 </div>
 

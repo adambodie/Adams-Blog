@@ -4,7 +4,6 @@ title:  An Ode to Johnny Manziel, whose NFL Career has turned out EXACTLY how I 
 date: 2016-02-02
 categories: football
 author: Adam Bodie
-permalink: an-ode-to-johnny-manziel
 image: johnny.jpg
 alt: Enjoy the money while you can...
 intro: "As a Minnesota Vikings fan, I watched the 2014 NFL Draft hoping for two things. One was that the Vikings would take a quarterback that would be their franchise quarterback, and the other was that they wouldn't wind up with Heisman winning Quarterback Johnny Manziel. The Vikings needed a quarterback, but Johnny Manziel was not only a terrible fit for the Vikings, but he was and is to this day, a party boy who wants to be a celebrity with little focus on the game."
@@ -14,7 +13,7 @@ intro: "As a Minnesota Vikings fan, I watched the 2014 NFL Draft hoping for two 
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-		<img src="img/johnny.jpg" data-toggle="tooltip" title="Enjoy the money while you can..." class="image block img-responsive">
+		<img src="/img/johnny.jpg" data-toggle="tooltip" title="Enjoy the money while you can..." class="image block img-responsive">
 	<h4>Enjoy the money while you can...</h4>
 </div>
 
@@ -25,7 +24,7 @@ intro: "As a Minnesota Vikings fan, I watched the 2014 NFL Draft hoping for two 
 <p>Flash forward to his rookie season.  Before the season even started, Manziel appeared in many photos and videos partying and drinking.  Just what you'd expect from a wannabe celebrity.  He would always say the right things, yet he never did what he actually said.  Study the playbook?  He said he would, but yet admitted he didn't spend much time studying the playbook.  Be prepared as a backup?  He said he was but yet his interests were elsewhere and wasn't ready to take the starting job from an otherwise average Brian Hoyer.  Partying with the Drake's of the world, throwing parties after being sidelined for the rest of the season with an injury and getting pissed drunk when he was supposed to be preparing with the team, these were the things Johnny Manziel was most interested in.  By the time he actually got to play a game, late in the season, he was embarrassed and produced very little offense, all while getting mocked by his opponents for his obnoxious “money sign.”  He only started two games, getting injured in the second one, and yet after his injury, he threw a party and got wasted when he was supposed to report to team activities.  Everything I saw in Johnny Manziel in college ended up getting worse in the NFL, and that's solely his personal life.  His performance on the field was terrible.  He wasn't prepared to play, only to party.</p>
 
 <div class="blog-pic">
-		<img src="img/manziel.jpg" data-toggle="tooltip" title="Partying: More at ease holding up wads of cash" class="image block img-responsive">
+		<img src="/img/manziel.jpg" data-toggle="tooltip" title="Partying: More at ease holding up wads of cash" class="image block img-responsive">
 	<h4>Partying: More at ease holding up wads of cash</h4>
 </div>
 

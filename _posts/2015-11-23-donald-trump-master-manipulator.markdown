@@ -4,7 +4,6 @@ title:  Donald Trump - Master Manipulator
 date: 2015-11-23 
 categories: politics
 author: Adam Bodie
-permalink: donald-trump-master-manipulator
 image: trump.jpg
 alt: Donald Trump
 intro: "Next year, the United States will elect a new president to lead our country.  We have many candidates to choose from.  Unfortunately, politics, campaigns and spending bring out lots of ugly, negative comments, childish bickering and aiming for the lowest common denominator attempts to attract voters.  Not surprisingly, one candidate stands out in this department, a man obsessed with himself, always trying to gain attention by any means necessary, and a firm believer of 'no news is bad new,'  That man of course, is a man famous for building a rich empire and starring in reality TV shows, Donald Trump."
@@ -13,7 +12,7 @@ intro: "Next year, the United States will elect a new president to lead our coun
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-	<img src="img/trump.jpg" data-toggle="tooltip" title="Stupid is as Stupid does!" class="image block img-responsive">
+	<img src="/img/trump.jpg" data-toggle="tooltip" title="Stupid is as Stupid does!" class="image block img-responsive">
 	<h4>Stupid is as Stupid does!</h4>
 </div>
 
@@ -24,7 +23,7 @@ intro: "Next year, the United States will elect a new president to lead our coun
 <p>Donald Trump has mastered the art of capturing people's negative emotions at the expense of rational thought.  It's what makes us watch shows like 'Keeping Us With The Kardashians' rather than the news.  As long as Donald Trump says something that captures a person's negative emotions about a group they don't like (e.g. African Americans), they won't care about actual facts if presented to them as false.  Recently, Donald Trump re-tweeted an image claiming that African Americans commit almost all gun-related crimes in the United States, suggesting data from the Crime Statistics Bureau of San Francisco.  This will appeal to racist, uneducated voters, who have no issue citing 'black-on-black' crime but thinks nothing of 'white-on-white' crime.  Yet an educated person would take the time to research this and realize that the Crime Statistics Bureau doesn't exist, and further realize the data doesn't match up at all.  None of this matters to the racist voter, and Donald Trump hooks them in by claiming 'he understands.'</p>
 
 <div class="blog-pic" style="float: left">
-	<img src="img/trump2.jpg" data-toggle="tooltip" title="There's no level this man won't stoop to!" class="image block img-responsive pull-right">
+	<img src="/img/trump2.jpg" data-toggle="tooltip" title="There's no level this man won't stoop to!" class="image block img-responsive pull-right">
 	<h4>There's no level this man won't stoop to!</h4>
 </div>
 

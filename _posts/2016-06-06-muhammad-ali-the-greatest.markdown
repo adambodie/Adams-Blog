@@ -4,7 +4,6 @@ title:  Muhammad Ali, the Greatest
 date:   2016-06-06
 categories: sports
 author: Adam Bodie
-permalink: muhammad-ali-the-greatest
 image: ali.jpg
 alt: Muhammad Ali
 intro: "On Friday night, late in the evening, I found out that Muhammad Ali, the legendary boxer, had passed away at the age of 74.  Though I'm not a boxing fan and I don't know any boxing fans, there was always one boxer that everyone knew about, Mr. Muhammad Ali.  Though some would argue that Mike Tyson is equally famous, he was known for the wrong reasons.  But Muhammad Ali is not only the greatest, as he frequently claimed, but he was the most important athlete of the 20th Century in any sport."

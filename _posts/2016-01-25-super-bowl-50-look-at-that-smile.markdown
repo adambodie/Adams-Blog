@@ -4,7 +4,6 @@ title:  Super Bowl 50 - Look at that Smile!
 date: 2016-01-25
 categories: football
 author: Adam Bodie
-permalink: super-bowl-50-look-at-that-smile
 image: newton.jpg
 alt: Look at that smile!
 intro: "Super Bowl 50 is on its way, featuring a match-up of the NFL's top two defenses, the Denver Broncos and Carolina Panthers (1 and 2 respectively). The biggest headline will likely be the probable MVP this year, Carolina QB Cam Newton, a very talented but cocky player. There are quite a few people that find Cam Newton obnoxious and arrogant, whether it's his me-first attitude or his 'Dab' dancing whenever he scores a touchdown. But on the other hand, how can you hate someone with a smile like his?"
@@ -14,7 +13,7 @@ intro: "Super Bowl 50 is on its way, featuring a match-up of the NFL's top two d
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-		<img src="img/newton.jpg" data-toggle="tooltip" title="Look at the smile!" class="image block img-responsive">
+		<img src="/img/newton.jpg" data-toggle="tooltip" title="Look at the smile!" class="image block img-responsive">
 	<h4>Look at that smile!</h4>
 </div>
 
@@ -23,7 +22,7 @@ intro: "Super Bowl 50 is on its way, featuring a match-up of the NFL's top two d
 <p>The clear edge on offense belongs to Carolina, with Cam Newton, the likely MVP, able to hurt you in many ways, with his arm, legs and size.  But what about the team's defense's.  Who has the edge here.</p>
 
 <div class="blog-pic">
-		<img src="img/peyton.jpg" data-toggle="tooltip" title="Yet Peyton makes you laugh!" class="image block img-responsive pull-right">
+		<img src="/img/peyton.jpg" data-toggle="tooltip" title="Yet Peyton makes you laugh!" class="image block img-responsive pull-right">
 	<h4>Yet Peyton makes you laugh!</h4>
 </div>
 

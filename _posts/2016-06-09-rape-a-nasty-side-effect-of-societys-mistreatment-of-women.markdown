@@ -4,7 +4,6 @@ title:  Rape - A Nasty Side Effect of Society's Mistreatment of Women
 date:   2016-06-09
 categories: social
 author: Adam Bodie
-permalink: rape-a-nasty-side-effect-of-societys-mistreatment-of-women
 image: stanford.jpg
 alt: Stanford
 intro: "Much buzz on the news is about a rapist name Brock Turner, a former Stanford swimmer who raped an unconscious woman and received just six months in prison for it, despite being convicted of three felony sexual assault charges.  Though the defendant claims he understands what he did was wrong, he has managed to show how little responsibility he has actually taken for his crimes, feeling like he is the victim just as much as the woman he raped. Cases like this show just how little regard some men have for women in general and how that, more than anything, leads to rape."

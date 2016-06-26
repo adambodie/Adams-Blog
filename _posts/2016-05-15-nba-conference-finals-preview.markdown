@@ -4,7 +4,6 @@ title:  NBA Conference Finals Preview
 date:   2016-05-15
 categories: basketball
 author: Adam Bodie
-permalink: nba-conference-finals-preview
 image: lowry.jpg
 Alt: Kyle Lowry
 intro: "As the Toronto Raptors defeated the Miami Heat in seven games, the Western and Eastern Conference Finals are now set.  It’s been a crazy ride so far, with surprise endings in some cases, but with four teams left to win the NBA Championship, who will win it all."

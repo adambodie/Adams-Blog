@@ -4,7 +4,6 @@ title:  Thanks for the Great Memories Kobe
 date: 2015-11-29 
 categories: basketball
 author: Adam Bodie
-permalink: thanks-for-the-great-memories-kobe
 image: kobe2.jpg
 alt: Kobe Bryant
 intro: "When I was 11 years old, I liked to get NBA jerseys.  I loved the sport and thought it was cool to wear them.  Some of them I bought for the design, like Grant Hill's Detroit Pistons jersey with the horse logo (what would you expect, I was young and loved the animal logos, even the Toronto Raptors Dinosaur logo which, like Detroit's logo then looked hideous by today's standards).  Others were for my local team that I liked growing up, the Portland Trail Blazers, that of the great Arvydas Sabonis.  I even got a throwback jersey of Dr. J from the Philadelphia 76ers.  But there's one jersey which I still have to this day as a collector item, a rookie jersey of Kobe Bryant."
@@ -14,7 +13,7 @@ intro: "When I was 11 years old, I liked to get NBA jerseys.  I loved the sport 
 <p>{{page.intro}}</p>
 
 <div class="blog-pic" style="float: left">
-	<img src="img/kobe2.jpg" data-toggle="tooltip" title="One of the All-Time Greats, and Laker for Life: Kobe Bryant" class="image block img-responsive">
+	<img src="/img/kobe2.jpg" data-toggle="tooltip" title="One of the All-Time Greats, and Laker for Life: Kobe Bryant" class="image block img-responsive">
 	<h4>One of the All-Time Greats, and Laker for Life: Kobe Bryant</h4>
 </div>
 
@@ -27,7 +26,7 @@ intro: "When I was 11 years old, I liked to get NBA jerseys.  I loved the sport 
 <p>As a young kid, my favorite team was the Portland Trail Blazers, since I lived in Portland, but at times I also liked the Los Angeles Lakers, since I had my relatives in L.A.  Though I was more of a Blazer fan due to their proximity, things began to change when the Lakers acquired Kobe Bryant from a trade in the 1996 NBA Draft from the Charlotte Hornets from Vlade Divac (whom was expendable as the Lakers signed Shaquille O'Neal to a monster deal that summer).  During the first two years of Kobe's career, I found myself more and more torn over who to root for.  On the one hand, the Blazers will still my local team, but the great lovable players of the era, i.e. Clyde Drexler, Jerome Kersey and Terry Porter were replaced with talented but malcontent players, i.e. Damon Stoudamire, Rasheed Wallace and the worst of them all, Isaiah Rider.</p>
 
 <div class="blog-pic">
-<img src="img/kobe3.jpg" data-toggle="tooltip" title="Young Kobe, rockin' the mini-fro, flying high" class="image block img-responsive">
+<img src="/img/kobe3.jpg" data-toggle="tooltip" title="Young Kobe, rockin' the mini-fro, flying high" class="image block img-responsive">
 	<h4>Young Kobe, rockin' the mini-fro, flying high</h4>
 </div>
 
@@ -41,7 +40,7 @@ intro: "When I was 11 years old, I liked to get NBA jerseys.  I loved the sport 
 
 
 <div class="blog-pic" style="float: left">
-<img src="img/kobe5.jpg" data-toggle="tooltip" title="That night Kobe scored 81, he was UNSTOPPABLE!" class="image block img-responsive">
+<img src="/img/kobe5.jpg" data-toggle="tooltip" title="That night Kobe scored 81, he was UNSTOPPABLE!" class="image block img-responsive">
 	<h4>That night Kobe scored 81, he was UNSTOPPABLE!</h4>
 </div>
 
@@ -54,7 +53,7 @@ intro: "When I was 11 years old, I liked to get NBA jerseys.  I loved the sport 
 <p>With Kobe becoming a free agent, and knowing him and Shaq would not ever co-exist together, the Lakers decided to keep Kobe and make him the star of the team, trading Shaq to the Miami Heat.  It was sad to see Shaq go, but being a fan of Kobe, I began disliking Shaq and all the negative comments he would make about Kobe to the public.  Sure, Kobe made his comments behind closed doors, but with Shaq's outgoing personality, it seemed overkill on his part.  It took a few years but I eventually forgave Shaq, but at the time, it was all Kobe for me.</p>
 
 <div class="blog-pic">
-<img src="img/kobe4.jpg" data-toggle="tooltip" title="Don't even try to stop him from shooting." class="image block img-responsive">
+<img src="/img/kobe4.jpg" data-toggle="tooltip" title="Don't even try to stop him from shooting." class="image block img-responsive">
 	<h4>Don't even try to stop him from shooting.</h4>
 </div>
 

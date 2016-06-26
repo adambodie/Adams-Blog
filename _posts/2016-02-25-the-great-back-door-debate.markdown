@@ -4,7 +4,6 @@ title:  The Great Back Door Debate
 date: 2016-02-25
 categories: technology
 author: Adam Bodie
-permalink: the-great-back-door-debate
 image: apple.jpg
 alt: Apple, fighting for our right to privacy
 intro: "Back in December, a horrific attack occurred in San Bernardino from a husband and wife who supported ISIS. They were killed in a shootout, but yet another battle has raged. The FBI wants all the information on Syed Farook’s iPhone, but as it was encrypted with a password, they can’t get into it, for Apple’s security features erases the phone's data after 10 failed password attempts. Despite a Federal judge demanding Apple create a way to hack into the phone, Apple refuses to do so, believing everyone’s iPhone is at risk by creating such a back-door. Should Apple be forced to comply? Or is it better not to play with fire?"
@@ -14,7 +13,7 @@ intro: "Back in December, a horrific attack occurred in San Bernardino from a hu
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-		<img src="img/apple.jpg" data-toggle="tooltip" title="Apple, fighting for our right to privacy." class="image block img-responsive">
+		<img src="/img/apple.jpg" data-toggle="tooltip" title="Apple, fighting for our right to privacy." class="image block img-responsive">
 	<h4>Apple, fighting for our right to privacy.</h4>
 </div>
 

@@ -4,7 +4,6 @@ title:  The Big Short vs. Spotlight - Which Movie was better
 date:   2016-06-19
 categories: movies
 author: Adam Bodie
-permalink: the-big-short-vs-spotlight
 image: oscar.jpg
 alt: The Oscars
 intro: "I was asked to compare two recent movies and Oscar nominated and winning movies from this years Academy Awards.  The challenger on the left is The Big Short, which won Best Adapted Screenplay.  The champion on the right is Spotlight, which won Best Original Screenplay and Best Picture.  So which movie did I think was better?  Here are my thoughts."

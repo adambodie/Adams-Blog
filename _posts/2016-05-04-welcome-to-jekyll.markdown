@@ -4,14 +4,13 @@ title:  "Welcome to Adam's Blog 2.0 - The Rise of Jekyll"
 date:   2016-05-04
 categories: jekyll update
 author: Adam Bodie
-permalink: welcome-to-adams-blog-2
 image: mthood.jpg
 alt: Adam's Blog
 intro: "Learning new ways to make blog posts or any developing tools in general is something I have always enjoyed.  It's something encouraged by IBM, the parent company I work for.  With that said, I am revamping my blog post as its own entity, rather than part of the Express framework I'm using for Bodie Web Design."
 ---
 <div class="article">
 <div class="blog-pic" style="float: left">
-		<img src="img/mthood.jpg" data-toggle="tooltip" title="Mt. Hood" class="image block img-responsive">
+		<img src="/img/mthood.jpg" data-toggle="tooltip" title="Mt. Hood" class="image block img-responsive">
 		<h4>Mt. Hood</h4>
 </div>
 <p>{{page.intro}}</p>
@@ -30,7 +29,7 @@ intro: "Learning new ways to make blog posts or any developing tools in general 
             }
         ],
         "image": [{
-                "name": "img/image.jpg",
+                "name": "/img/image.jpg",
                 "caption": "I'm a caption!"
             }]
     }

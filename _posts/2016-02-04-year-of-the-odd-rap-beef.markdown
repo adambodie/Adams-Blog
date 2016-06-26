@@ -4,7 +4,6 @@ title:  Year of the Odd Rap Beef
 date: 2016-02-04
 categories: music
 author: Adam Bodie
-permalink: year-of-the-odd-rap-beef
 image: bob.jpg
 alt: B.o.B wants to know where the curve is?  Neil deGrasse Tyson knows it's there.
 intro: "We're barely into the month of February and already we've seen not one, but two rather bizarre hip-hop beefs, the type you could never imagine ever existing. On the one hand, we have B.o.B. vs. famed Astrophysicist Neil deGrasse Tyson, and now we have Ghostface Killah vs. infamous pharmaceutical CEO Martin Shkreli (which has now involved the head of the Congressional Committee on Oversight and Government Reform). A rather odd consortium of characters, feuding over the most bizarre things. Whose beef is more odd? Here are my thoughts."
@@ -14,7 +13,7 @@ intro: "We're barely into the month of February and already we've seen not one, 
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-		<img src="img/bob.jpg" data-toggle="tooltip" title="B.o.B wants to know where the curve is?  Neil deGrasse Tyson knows it's there." class="image block img-responsive">
+		<img src="/img/bob.jpg" data-toggle="tooltip" title="B.o.B wants to know where the curve is?  Neil deGrasse Tyson knows it's there." class="image block img-responsive">
 	<h4>B.o.B wants to know where the curve is?  Neil deGrasse Tyson knows it's there.</h4>
 </div>
 
@@ -25,7 +24,7 @@ intro: "We're barely into the month of February and already we've seen not one, 
 <p>But a couple of weeks ago, while B.o.B. was claiming the Earth was flat, Ghostface Killah called Shkreli a shithead, which set off a Twitter battle and Shkreli making a rap video proclaiming he owns Ghostface Killah and is his apparent father (apparently, Shkreli would love to be a rapper).  This led to a bunch of whining from Shkreli, who also demanded an apology for being called a shithead.  But just when you thought this couldn't get any crazier, Martin Shkreli was called to testify to the Congressional Committee on Oversight and Government Reform about his extreme price hike of the life-saving Daraprim from $13.50 a pill to $750 a pill.  Not surprisingly, he plead the fifth the entire time, refusing the answer any questions while smirking and calling the Congressmen as 'imbeciles.'  While this action isn't surprising, he was awkwardly asked by chairman Trey Gowdy about his purchase of the Wu-Tang secret album.  Shkreli plead the fifth on that too.  Nothing incriminating about that, but nonetheless, stupid.</p>
 
 <div class="blog-pic">
-		<img src="img/shkreli.jpg" data-toggle="tooltip" title="Rapper vs. Greedy Asshole vs. Incompetent Congressman" class="image block img-responsive">
+		<img src="/img/shkreli.jpg" data-toggle="tooltip" title="Rapper vs. Greedy Asshole vs. Incompetent Congressman" class="image block img-responsive">
 	<h4>Rapper vs. Greedy Asshole vs. Incompetent Congressman</h4>
 </div>
 

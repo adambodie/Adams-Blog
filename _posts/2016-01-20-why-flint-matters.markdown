@@ -4,7 +4,6 @@ title:  Why Flint Matters
 date: 2016-01-20
 categories: politics
 author: Adam Bodie
-permalink: why-flint-matters
 image: flint.JPG
 alt: The Flint River, looks innocent, but quite deadly.
 intro: "A few months ago, while campaigning for President, Donald Trump, known for stupid comments, remarked that President Obama made his stupidest remark ever when he declared 'global warming' our number one enemy.  Donald Trump, wanting to scare people into thinking everyone is going to be attacked by a foreigner any second now, wants to diminish global warming because his party doesn't believe in it.  This of course is the same man who believes the Chinese created global warming to gain a financial edge.  But with the water crisis in Flint, Michigan, people should be more aware of global warming and the effect the environment in general has on our society."
@@ -15,7 +14,7 @@ intro: "A few months ago, while campaigning for President, Donald Trump, known f
 
 
 <div class="blog-pic">
-		<img src="img/flint.JPG" data-toggle="tooltip" title="The Flint River, looks innocent, but quite deadly." class="image block img-responsive">
+		<img src="/img/flint.JPG" data-toggle="tooltip" title="The Flint River, looks innocent, but quite deadly." class="image block img-responsive">
 	<h4>The Flint River, looks innocent, but quite deadly.</h4>
 </div>
 

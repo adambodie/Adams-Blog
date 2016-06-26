@@ -4,7 +4,6 @@ title:  The Day the Music Died Part 3
 date: 2016-04-21
 categories: music
 author: Adam Bodie
-permalink: the-day-the-music-died-part-3
 image: prince.jpg
 alt: Prince
 intro: "When people refer to “The Day the Music Died,” they are referring to the tragic death of Buddy Holly, Ritchie Valens and the Big Bopper when they perished in a plane crash outside of Clear Lake, Iowa on February 3, 1959. Yet years later, we’ve lost many musicians with a far bigger influence. With apologies to Elvis Presley, John Lennon, everyone in the “27 Club” (Jim Morrison, Janis Joplin, Jimi Hendrix and more recently, Amy Winehouse), we’ve seen two deaths in the music world truly crushing since that day. The second was of course, Michael Jackson’s tragic death on June 25, 2009, and the third was today, as Prince passed away."
@@ -14,7 +13,7 @@ intro: "When people refer to “The Day the Music Died,” they are referring to
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-	<img src="img/prince.jpg" data-toggle="tooltip" title="Prince embodied sexiness for men." class="image block img-responsive pull-right">
+	<img src="/img/prince.jpg" data-toggle="tooltip" title="Prince embodied sexiness for men." class="image block img-responsive pull-right">
 	<h4>Prince embodied sexiness for men.</h4>
 </div>
 
@@ -26,7 +25,7 @@ intro: "When people refer to “The Day the Music Died,” they are referring to
 
 
 <div class="blog-pic">
-	<img src="img/prince2.jpg" data-toggle="tooltip" title="Prince knew how to rock it!" class="image block img-responsive pull-right">
+	<img src="/img/prince2.jpg" data-toggle="tooltip" title="Prince knew how to rock it!" class="image block img-responsive pull-right">
 	<h4>Prince knew how to rock it!</h4>
 </div>
 

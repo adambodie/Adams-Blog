@@ -4,7 +4,6 @@ title:  Militiamen - Anti-Government Hypocrites
 date: 2016-01-03 
 categories: politics
 author: Adam Bodie
-permalink: militiamen-anti-government-hypocrites
 image: malheur.jpg
 alt: Malheur National Wildwife Refuge
 intro: "On January 2nd, 2016, a group of militiamen, led by Ammon Bundy, the son of famed anti-government law breaking tax cheat Cliven Bundy, took over a federal building at the Malheur National Wildlife Refuge in Burns, Oregon.  Though Burns is on the other side of the state (and a completely different world than where I live), it's insulting that these idiots are fighting to 'save' two local ranchers, Dwight and Steven Hammond, whom have accepted their faiths to report to prison for their crimes and it's even stupider that these anti-government wackos think that they can do whatever they want as long as they wave their guns and American flags in the name of freedom."
@@ -16,7 +15,7 @@ intro: "On January 2nd, 2016, a group of militiamen, led by Ammon Bundy, the son
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-		<img src="img/malheur.jpg" data-toggle="tooltip" title="The Malheur National Wildlife Refuge in Harney County, Oregon." class="image block img-responsive">
+		<img src="/img/malheur.jpg" data-toggle="tooltip" title="The Malheur National Wildlife Refuge in Harney County, Oregon." class="image block img-responsive">
 	<h4>The Malheur National Wildlife Refuge in Harney County, Oregon.</h4>
 </div>
 <p>The U.S. Government is in charge of our country, and they have a right to protect their land as they see fit.  Whether it's preserving our precious landmarks or protecting endangered species, the government has a right to step in and keep people from destroying something of value.  Wildlife Refuges are built to protect animals, plants and other forms of non-human life.  Militiamen believe that all land is for the people and that they should be able to do whatever they want with it, but that is not how things work.</p>

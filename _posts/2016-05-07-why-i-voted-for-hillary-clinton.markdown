@@ -4,7 +4,6 @@ title:  Why I Voted for Hillary Clinton
 date:   2016-05-07
 categories: politics
 author: Adam Bodie
-permalink: why-i-voted-for-hillary-clinton
 image: hillary.jpg
 alt: Hillary Clinton
 intro: "At the end of this year, the United States is going to elect a new President, as Obama’s two terms reaches its end.  With that said, it’s important to me that we continue to make progress in building our country's economy, security and social progression.  The Republican’s presumptive candidate is Donald Trump, billionaire entrepreneur and reality TV star.  I will never vote for Donald Trump; he attracts the worst kind of attention and has led the most hateful campaign ever.  But it was much more difficult to choose between Hillary Clinton and Bernie Sanders, her Democrat competition for the Democratic nominee.  Though both candidates have their strengths and weaknesses, in the end I am throwing my support behind Mrs. Hillary Clinton."

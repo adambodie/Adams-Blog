@@ -4,7 +4,6 @@ title:  Don't Let Xenophobia Ruin Your Life
 date: 2015-11-19 
 categories: politics
 author: Adam Bodie
-permalink: dont-let-xenophobia-ruin-your-life
 image: peace.jpg
 alt: Peace
 intro: "There are plenty of people who are afraid of people who aren't like them, and it makes me sick to read.  Diversity is one of the greatest things about the United States.  We have lots of ethnicities, religions, identities, etc.  I, for one, am proud to be an American that accepts all races, religions, etc.  We need to embrace others, not fear those who are not like us."
@@ -13,7 +12,7 @@ intro: "There are plenty of people who are afraid of people who aren't like them
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-	<img src="img/peace.jpg" data-toggle="tooltip" title="Peace: Not Hate" class="image block img-responsive">
+	<img src="/img/peace.jpg" data-toggle="tooltip" title="Peace: Not Hate" class="image block img-responsive">
 	<h4>Peace: Not Hate</h4>
 </div>
 

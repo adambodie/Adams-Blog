@@ -4,7 +4,6 @@ title:  How To Make My Website
 date: 2016-01-11
 categories: programming
 author: Adam Bodie
-permalink: how-to-make-my-website
 image: lincoln.jpg
 alt: Making websites is fun!
 intro: "After the official launch of Bodie Web Design 2.0 (as I call it), I received a lot of nice compliments from those who checked it.  Thank you all for your nice words.  One comment from my wonderful Auntie Sheri was that she loved it, and that she could make this web page too.  So with those comments, here is how I made Bodie Web Design 2 and how you could too."
@@ -14,7 +13,7 @@ intro: "After the official launch of Bodie Web Design 2.0 (as I call it), I rece
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-		<img src="img/lincoln.jpg" data-toggle="tooltip" title="Making websites is fun!" class="image block img-responsive">
+		<img src="/img/lincoln.jpg" data-toggle="tooltip" title="Making websites is fun!" class="image block img-responsive">
 	<h4>Making websites is fun!</h4>
 </div>
 

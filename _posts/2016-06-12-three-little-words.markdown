@@ -4,7 +4,6 @@ title:  Three Little Words
 date:   2016-06-12
 categories: politics
 author: Adam Bodie
-permalink: three-little-words
 image: orlando.jpg
 alt: Orlando
 intro: "I woke up Sunday morning, as I usually do, looking at my iPhone to check the news.  Like millions of others who woke up today, I was disgusted and saddened to hear that 49 people had been killed in a terrorist attack at an Orlando gay nightclub, Pulse.  Like most, I despise terrorism and hate whenever it occurs.  But stopping terrorism here in the United States and the world requires our nation and our allies to come together.  But instead, we have our Republican congressmen and wannabe congressmen furthering dividing us and claiming defeating Terrorism is as easy as saying three little words..."

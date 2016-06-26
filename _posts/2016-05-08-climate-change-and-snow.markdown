@@ -4,7 +4,6 @@ title: Climate Change and Snow - The Real Story
 date:   2016-05-08
 categories: politics, environmnent
 author: Adam Bodie
-permalink: climate-change-and-snow
 image: inhofe.jpg
 alt: Jim Inhofe
 intro: "Climate change is real.  97% of all scientists believe the Earth is getting abnormally hotter than usual because of greenhouse gases polluting the Earth.  But there are some people who believe it's a hoax.  Most likely it's to protect their greenhouse gas producing fuels and chemicals.  Others are religious nuts who hate science as it counters religion.  They'll find any excuse to discredit global warming and climate change as to protect their profit, and gain the support of those who disapprove man-made climate change, mostly members of the Republican Party."
@@ -61,7 +60,7 @@ svg {
 <div class="article">
 <p> {{ page.intro }}</p>
 <div class="blog-pic">
-		<img src="img/inhofe.jpg" data-toggle="tooltip" title="Jim Inhofe" class="image block img-responsive" id="inhofe">
+		<img src="/img/inhofe.jpg" data-toggle="tooltip" title="Jim Inhofe" class="image block img-responsive" id="inhofe">
 		<h4>In Washington D.C., it snows virtually every winter.  Doesn't prove a thing.</h4>
 </div>
 		<p>Enter Jim Inhofe, the senior Republican Senator of Oklahoma and for some reason, the chair of the Senate Committee on Environment and Public Works.  Senator Inhofe has long been a denier of climate change, and a cold winter day on February 26, 2015, Senator Inhofe blasted global warming as a hoax.  His reasoning: It was snowing outside.  He even brought in a snowball to a Congressional Hearing to back up his claim, because according to him, how can we have global warming when it's so cold outside.  So despite average temperatures trending upward since the 1970s, does Inhofe's snow theory hold up?</p>
@@ -121,7 +120,7 @@ var svg = d3.select("body")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 
-d3.tsv("data/data.tsv", type, function(error, data) {
+d3.tsv("/data/data.tsv", type, function(error, data) {
   if (error) throw error;
   
   x.domain(d3.extent(data, function(d) { return d.date; }));

@@ -4,7 +4,6 @@ title: Steven Adams - A Debate on Whether Exoticness equals Attractiveness
 date:   2016-05-30
 categories: basketball
 author: Adam Bodie
-permalink: steven-adams
 image: steven-adams.jpg
 alt: Steven Adams
 intro: "After watching seven games of the Golden State-Oklahoma City series, I have come to the conclusion that no matter how talented you are, you need a signature look to gain attention from the common-man.  Sure, Kevin Durant is quite talented, he shoots well and is one of the most feared offensive players in the league, but while I was watching this series, it was Steven Adams and his long hair, long mustache and tattoos that got all my attention, as well as an interesting back-and-forth between my Mom, her boyfriend, my sister and I on whether Adams is good-looking or not."

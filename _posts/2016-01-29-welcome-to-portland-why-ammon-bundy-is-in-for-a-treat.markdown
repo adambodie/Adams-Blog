@@ -4,7 +4,6 @@ title:  Welcome to Portland - Why Ammon Bundy is in for a Treat.
 date: 2016-01-29
 categories: politics
 author: Adam Bodie
-permalink: welcome-to-portland-why-ammon-bundy-is-in-for-a-treat
 image: voodoo.JPG
 alt: A vision of what Ammon Bundy's life will be like, on a donut!
 intro: "Does everyone know the song 'I Fought the Law,' with the famous lyrics, 'I fought the law, and the law won?' Good, it will help you get a better understand why Ammon Bundy and his terrorist militiamen friends will face a harsh reality now that they have been arrested for taking over the Malheur National Wildlife Refuge. After three weeks holding the place hostage, threatening to shoot law enforcement should they try to take them out, and leaving the people of Harney county scared, Ammon Bundy and his goons were finally arrested after 8 of them left to to attend a town meeting in the town of John Day."
@@ -14,7 +13,7 @@ intro: "Does everyone know the song 'I Fought the Law,' with the famous lyrics, 
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-		<img src="img/voodoo.JPG" data-toggle="tooltip" title="A vision of what Ammon Bundy's life will be like, on a donut!" class="image block img-responsive">
+		<img src="/img/voodoo.JPG" data-toggle="tooltip" title="A vision of what Ammon Bundy's life will be like, on a donut!" class="image block img-responsive">
 	<h4>A vision of what Ammon Bundy's life will be like, on a donut!</h4>
 </div>
 
@@ -25,7 +24,7 @@ intro: "Does everyone know the song 'I Fought the Law,' with the famous lyrics, 
 <p>As they are considered flight-risks, none of these goons will be able to get out of prison until their sentences are finished (at the moment).  As out-of-state individuals with no ties to Oregon whatsoever, they are untrustworthy and likely to flee.  When fighting the government and the legal system, they have the right to do so as they see fit, just like they have the right to protect land as they see fit.  Of course, people like these moronic militiamen think the government should have no rights, but they do.</p>
 
 <div class="blog-pic" style="float: left">
-		<img src="img/bundy.jpg" data-toggle="tooltip" title="Ryan Bundy: One picture happy, one picture upset.  Can you tell which one is which?" class="image block img-responsive">
+		<img src="/img/bundy.jpg" data-toggle="tooltip" title="Ryan Bundy: One picture happy, one picture upset.  Can you tell which one is which?" class="image block img-responsive">
 	<h4>Ryan Bundy: One picture happy, one picture upset.  Can you tell which one is which?</h4>
 </div>
 

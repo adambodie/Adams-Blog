@@ -4,7 +4,6 @@ title:  When Keeping it Real Goes Wrong - The Social Media Edition
 date:   2016-05-27
 categories: technology
 author: Adam Bodie
-permalink: when-keeping-it-real-goes-wrong
 image: troy.jpg
 alt: Troy Ave
 intro: "Anyone who used to watch Chappelle's Show back in the day surely remembers the skit, 'When Keeping it Real Goes Wrong,' as Dave Chappelle's comically showed skits of so-called thugs and gangstas in instances when it's not the best idea to 'keep it real.'  But that was 2003, now in the days of social media, viral videos and tweets, it often shows that way too many people 'keep it real' when they shouldn't.  A sad but unfortunate side effect of stupidity."

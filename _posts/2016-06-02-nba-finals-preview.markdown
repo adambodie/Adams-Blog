@@ -4,7 +4,6 @@ title:  NBA Finals Preview
 date:   2016-06-02
 categories: basketball
 author: Adam Bodie
-permalink: nba-finals-preview
 image: green.jpg
 alt: Draymond Green
 intro: "The NBA Finals have arrived, featuring as I expected, a rematch of last year's Finals, Golden State vs. Cleveland.  Last year, Cleveland, despite missing Kyrie Irving and Kevin Love, played their hardest, gave Golden State a legitimate scare before Golden State was able to win their first championship in 40 years.  Things have changed slightly this year, with the aforementioned Irving and Love healthy this time around, while Golden State, with not much change, finished with an NBA record 73 wins in the regular season.  So who wins the rematch?  Here are my thoughts."

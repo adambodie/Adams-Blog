@@ -4,7 +4,6 @@ title:  The Curse of Donald Sterling Lives
 date: 2016-04-26
 categories: basketball
 author: Adam Bodie
-permalink: the-curse-of-donald-sterling-lives
 image: sterling.jpg
 alt: Donald Sterling
 intro: "Growing up, I didn't think much of the Los Angeles Clippers. Why should I have? They were a complete joke, a bumbling group of losers who couldn't win squat, couldn't put together a decent roster and worst of all had an incompetent owner who wouldn't spend any money to keep what little talent they had. It wasn't until the other owners handed them Chris Paul in an effort to keep him from being traded to the Laker did the Clippers finally start to look like a real basketball team. But as the Lakers sunk to the floor, have the Clippers overtaken them? Not even close. No matter how talented the Clippers are, they’ll always be in second place, and incapable of winning the title. Whether they like it or not, they are defined by their disgraceful former owner Donald Sterling."
@@ -14,7 +13,7 @@ intro: "Growing up, I didn't think much of the Los Angeles Clippers. Why should 
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-		<img src="img/sterling.jpg" data-toggle="tooltip" title="Everything Clippers related is tied to Donald Sterling, the joke." class="image block img-responsive">
+		<img src="/img/sterling.jpg" data-toggle="tooltip" title="Everything Clippers related is tied to Donald Sterling, the joke." class="image block img-responsive">
 	<h4>Everything Clippers related is tied to Donald Sterling, the joke.</h4>
 </div>
 

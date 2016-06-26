@@ -4,7 +4,6 @@ title:  Why Tracy Claeys is the Right Choice for the Golden Gophers
 date:   2015-11-11
 categories: football
 author: Adam Bodie
-permalink: why-tracy-claeys
 image: claeys.jpg
 alt: Tracy Claeys
 intro: "Two weeks ago, Jerry Kill, the football coach of the Gophers, retired due to health concerns.  It seemed as if Minnesota would plummet to mediocrity yet again.  But despite the loss of Kill, the program made leaps and bounds in terms of success, fan appreciation and continuity while he was there.  Fanfare was much higher than it was when I went there in 2006, with JerrySota becoming a common phrase for Gopher fans.  They had two choices: Keep things the way it was and retain trusty defensive coordinator Tracy Claeys as its coach, or go in a different direction.  Choosing continuity over uncertainty, Minnesota made the right choice to keep Claeys as Head Coach."
@@ -14,7 +13,7 @@ intro: "Two weeks ago, Jerry Kill, the football coach of the Gophers, retired du
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-	<img src="img/claeys.jpg" data-toggle="tooltip" title="Tracy Claeys on the sidelines" class="image block img-responsive">
+	<img src="/img/claeys.jpg" data-toggle="tooltip" title="Tracy Claeys on the sidelines" class="image block img-responsive">
 	<h4>Tracy Claeys on the sidelines.</h4>
 </div>
 

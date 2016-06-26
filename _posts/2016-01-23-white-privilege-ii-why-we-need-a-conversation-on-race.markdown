@@ -4,7 +4,6 @@ title:  White Privilege II - Why We Need a Conversation on Race
 date: 2016-01-23
 categories: music
 author: Adam Bodie
-permalink: white-privilege-ii-why-we-need-a-conversation-on-race
 image: white.jpg
 alt: White Privilege II - by Macklemore and Ryan Lewis
 intro: "Yesterday, the hip-hop game was jolted by the new song from Macklemore & Ryan Lewis, 'White Privilege II,' a vicious track almost nine minutes long that discusses racism in the hip-hop world, in general, the Black Lives Matter movement, and how 'White America' is at an advantage as opposed to minorities. Though this is not the first time Macklemore has discussed racism in his music; the original White Privilege was a song he released back in 2005, now that Macklemore is famous worldwide, the platform is expanded exponentially with his fame, social media and a generation of racism sensitivity. Therefore, more people have a say than they did in 2005, when Macklemore was just a starving underground rapper from Seattle that until his unprecedented rise to fame, represented a city whose only taste of mainstream success was Sir Mix-a-Lot and his butt loving song Baby Got Back. While Macklemore will never understand what it's like to actually be a black person (something he is completely aware with), this track is important nonetheless as we will never get past racism without talking about it."
@@ -15,7 +14,7 @@ intro: "Yesterday, the hip-hop game was jolted by the new song from Macklemore &
 
 
 <div class="blog-pic">
-		<img src="img/white.jpg" data-toggle="tooltip" title="White Privilege II - by Macklemore and Ryan Lewis" class="image block img-responsive">
+		<img src="/img/white.jpg" data-toggle="tooltip" title="White Privilege II - by Macklemore and Ryan Lewis" class="image block img-responsive">
 	<h4>White Privilege II - by Macklemore and Ryan Lewis</h4>
 </div>
 
@@ -26,7 +25,7 @@ intro: "Yesterday, the hip-hop game was jolted by the new song from Macklemore &
 <p>Later in the second verse, comes these bars 'You speak about equality, but do you really mean it? / Are you marching for freedom, or when it's convenient? / Want people to like you, want to be accepted / That's probably why you are out here protesting.'  To me, it's saying that you can act offended when someone is hurt or attacked for their skin, religion, sexuality, etc., but you're only aware of it because you heard about it somewhere.  Most of the time, people like this act like something needs to be done, yet don't understand anything about the people themselves.  For example, you can decry racist attacks against the black community, yet until you've actually spent time with the black community, you really have no perspective on what they're actually fighting for, how they feel about society, etc.  It's akin to fighting with them, but from afar.  Again, this segregation of sorts makes things worse.  While it's true that minorities like to stick together, it also is not going to accomplish much in healing racial divides.  And for those in the majority, it diminishes your fight to protect minorities when you have no strong understanding of what you're fighting for, instead fighting for a cause simply to be fighting for a cause.</p>
 
 <div class="blog-pic" style="float: left">
-		<img src="img/macklemore.jpg" data-toggle="tooltip" title="Macklemore performing a song." class="image block img-responsive">
+		<img src="/img/macklemore.jpg" data-toggle="tooltip" title="Macklemore performing a song." class="image block img-responsive">
 	<h4>Macklemore performing a song.</h4>
 </div>
 

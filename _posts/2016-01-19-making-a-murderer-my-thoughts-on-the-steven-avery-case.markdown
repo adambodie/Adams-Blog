@@ -4,7 +4,6 @@ title:  Making a Murderer - My Thoughts on the Steven Avery case
 date: 2016-01-19
 categories: entertainment
 author: Adam Bodie
-permalink: making-a-murderer-my-thoughts-on-the-steven-avery-case
 image: murderer.jpg
 alt: Making a Murderer, starring Steven Avery (kid and adult)
 intro: "Much buzz has surrounded the Netflix film-documentary 'Making a Murderer,' about a Wisconsin man named Steven Avery who spent 18 years in prison for a crime he didn't commit, only to get charged and convicted of murder just two years after his release from prison.  The show and the case has attracted a lot of attention, getting enough votes for a petition on the White House's website to require the White House to answer the petition (F.Y.I. Obama can't pardon Steven Avery as the case was tried in state court, not the federal court).  The big question on everyone's mind, did Steven Avery really kill Teresa Halbach, or did someone frame him for exposing corruption for his false conviction?  Here are my thoughts on the case."
@@ -15,7 +14,7 @@ intro: "Much buzz has surrounded the Netflix film-documentary 'Making a Murderer
 
 
 <div class="blog-pic">
-		<img src="img/murderer.jpg" data-toggle="tooltip" title="Making a Murderer, starring Steven Avery (kid and adult)" class="image block img-responsive">
+		<img src="/img/murderer.jpg" data-toggle="tooltip" title="Making a Murderer, starring Steven Avery (kid and adult)" class="image block img-responsive">
 	<h4>Making a Murderer, starring Steven Avery (kid and adult)</h4>
 </div>
 <p>The backstory on how Steven Avery was convicted of rape in 1985 was ridiculous.  It was clear the Manitowoc County Police Department wanted to blame the crime on him no matter whether he did it or not and weren't going to consider any other plausible theories.  They ran wild with that case and wanted him behind bars because they considered him trash.  It certainly wasn't fair to treat someone that way.  And it really isn't fair that the actual perpetrator, Gregory Allen, who they knew about for his past crimes of sexual assault was able to commit more (which he did).  That part of the story is indisputable, as DNA found on the victim cleared him of any wrongdoing in 2003, and concluded Gregory Allen as the real perpetrator.</p>

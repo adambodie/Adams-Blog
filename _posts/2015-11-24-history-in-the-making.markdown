@@ -4,7 +4,6 @@ title:  History in the Making - The Lakers on the Wrong Side Edition
 date: 2015-11-24 
 categories: basketball
 author: Adam Bodie
-permalink: history-in-the-making
 image: warriors.jpg
 alt: Steph Curry
 intro: "Tonight, the Lakers play the Golden State Warriors in a game with the potential of making history.  While the Lakers are used to setting records, tonight it's the Warriors, 15-0, looking for the most consecutive wins the start the season.  Let's be honest, the Lakers have no shot of winning in Golden State.  It's 20-7 as I type this sentence.  But watching the Warriors play, makes me wonder how things have changed drastically in the NBA."
@@ -14,7 +13,7 @@ intro: "Tonight, the Lakers play the Golden State Warriors in a game with the po
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-	<img src="img/warriors.jpg" data-toggle="tooltip" title="One day, the Lakers will stop Steph Curry.  But not today." class="image block img-responsive">
+	<img src="/img/warriors.jpg" data-toggle="tooltip" title="One day, the Lakers will stop Steph Curry.  But not today." class="image block img-responsive">
 	<h4>One day, the Lakers will stop Steph Curry.  But not today.</h4>
 </div>
 

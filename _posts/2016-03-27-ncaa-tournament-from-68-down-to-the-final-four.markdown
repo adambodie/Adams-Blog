@@ -4,7 +4,6 @@ title:  NCAA Tournament From 68 down to the Final Four
 date: 2016-03-27
 categories: basketball
 author: Adam Bodie
-permalink: ncaa-tournament-from-68-down-to-the-final-four
 image: hield2.jpg
 alt: Buddy Hield
 intro: "This year’s March Madness has truly personified to term Madness, to say the least. My bracket was shot early on, as Michigan State, my pick to win it all, got shocked by Middle Tennessee State, in what was statistically one of the biggest upsets ever. High seeds including West Virginia (3), California (4) and multiple 5 seeds, Purdue and Baylor were upset as well. My upset picks didn’t pan out, except for Gonzaga over Seton Hall and VCU over Oregon State, but not nearly as impressive as Middle Tennessee State, Little Rock, Yale, Stephen F. Austin and Hawaii winning. Here are my thoughts on the Tournament as a whole."
@@ -14,7 +13,7 @@ intro: "This year’s March Madness has truly personified to term Madness, to sa
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-		<img src="img/hield2.jpg" data-toggle="tooltip" title="Buddy Hield had his way against Oregon.  Their reward, a trip to the Final Four." class="image block img-responsive">
+		<img src="/img/hield2.jpg" data-toggle="tooltip" title="Buddy Hield had his way against Oregon.  Their reward, a trip to the Final Four." class="image block img-responsive">
 	<h4>Buddy Hield had his way against Oregon.  Their reward, a trip to the Final Four.</h4>
 </div>
 
@@ -25,7 +24,7 @@ intro: "This year’s March Madness has truly personified to term Madness, to sa
 <p>The other team to reach the Final Four is with the exception of Tulsa, the team most people felt did not belong in the Tournament at all; Syracuse.  The first 10 seed to ever reach the Final Four, Syracuse proved most wrong with impressive wins against Dayton, Gonzaga and Virginia, using a big run in the second half to beat the top seed Virginia.  Surely, the people who questioned them need to shut up, never doubt Jim Boeheim and their zone defense.  While I never thought they would make it this far, I felt they belonged in the Tournament, and not totally surprised they plated better than expected.</p>
 
 <div class="blog-pic">
-		<img src="img/syracuse.jpg" data-toggle="tooltip" title="No one believed Syracuse belonged in the Tournament.  Now they're in the Final Four." class="image block img-responsive">
+		<img src="/img/syracuse.jpg" data-toggle="tooltip" title="No one believed Syracuse belonged in the Tournament.  Now they're in the Final Four." class="image block img-responsive">
 	<h4>No one believed Syracuse belonged in the Tournament.  Now they're in the Final Four.</h4>
 </div>
 

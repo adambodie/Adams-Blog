@@ -4,7 +4,6 @@ title:  Tech Giants - The Real Viruses
 date:   2016-06-03
 categories: technology
 author: Adam Bodie
-permalink: tech-giants-the-real-viruses
 image: microsoft.jpg
 alt: Microsoft Screen of Death
 intro: "On Wednesday, my sister Jenn complained to me that her laptop with Windows 7 automatically updated to Windows 10, without giving her a choice.  It made her angry, she refused to set it up for hours, and after a day of using it, Jenn lost internet access completely.  Not surprisingly, Jenn was pissed by the whole endeavor, in an extremely grumpy mood that not even myself could snap her out of.  Thankfully, Jenn found a way to revert her laptop to Windows 7 thanks to the wonders of instant data via the internet, and getting her Windows 7 back, Jenn was happy again as she should be.  But it's the principle that matters: Tech companies shouldn't be allowed to force programs onto your computers.  It goes against the very fiber of the American consumer industry, like a virus out to harm your computer."

@@ -4,7 +4,6 @@ title:  NBA Draft - The Future is Now
 date:   2016-06-23
 categories: basketball
 author: Adam Bodie
-permalink: nba-draft-the-future-is-now
 image: brandon-ingram.jpg
 alt: Brandon Ingram
 intro: "<strong>4:32 pm - </strong>Tonight is the 2016 NBA Draft, where the young stars join their new teams.  For my team, the Lakers, with the number 2 pick, hope to pick their next star...just like they did last year with D'Angelo Russell.  While Russell wasn't an immediate superstar, only time will tell if he lives up to the hype.  Who will the Lakers take with the number 2 picks.  All signs point to Duke forward Brandon Ingram, but the Lakers pick will be announced in 10 minutes."

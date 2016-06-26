@@ -4,7 +4,6 @@ title:  Dumb and Dumber - Why the Top Republican Presidential Candidates Suck at
 date: 2016-01-31
 categories: politics
 author: Adam Bodie
-permalink: dumb-and-dumber-why-the-top-republican-presidental-candidates-suck-at-math
 image: dumb.jpg
 alt: Which one is Dumb and which one is Dumber?  The mystery remains...
 intro: "Tomorrow is the official start of the 2016 Presidential Election process in the United States, with the Iowa Caucus deciding who becomes the first leader in the race. Although it's no guarantee the winner of the Iowa Caucus becomes the nominee (i.e Mike Huckabee in 2008 and Rick Santorum in 2012 on the Republican side), it does say something about each party in general. With all of that said, the top two ranked Republican candidates in Iowa, Donald Trump and Ted Cruz, have pushed the bounds on extremism and pure hatred. It's no wonder establish Republicans are actively concerned about these two winning the Republican nomination, as some Republicans are smarter than others."
@@ -14,7 +13,7 @@ intro: "Tomorrow is the official start of the 2016 Presidential Election process
 <p>{{page.intro}}</p>
 
 <div class="blog-pic">
-		<img src="img/dumb.jpg" data-toggle="tooltip" title="Which one is Dumb and which one is Dumber?  The mystery remains..." class="image block img-responsive">
+		<img src="/img/dumb.jpg" data-toggle="tooltip" title="Which one is Dumb and which one is Dumber?  The mystery remains..." class="image block img-responsive">
 	<h4>Which one is Dumb and which one is Dumber?  The mystery remains...</h4>
 </div>
 
@@ -26,7 +25,7 @@ intro: "Tomorrow is the official start of the 2016 Presidential Election process
 
 
 <div class="blog-pic">
-		<img src="img/dumber.jpg" data-toggle="tooltip" title="Bros turned enemies... and it's all because of math." class="image block img-responsive">
+		<img src="/img/dumber.jpg" data-toggle="tooltip" title="Bros turned enemies... and it's all because of math." class="image block img-responsive">
 	<h4>Bros turned enemies... and it's all because of math.</h4>
 </div>
 

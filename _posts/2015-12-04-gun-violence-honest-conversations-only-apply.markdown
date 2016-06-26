@@ -4,7 +4,6 @@ title:  Gun Violence - Honest Conversations Only Apply
 date: 2015-12-04 
 categories: politics
 author: Adam Bodie
-permalink: gun-violence-honest-conversations-only-apply
 image: handgun.jpg
 alt: Handgun
 intro: "Dear America: We have an epidemic occurring through our nation and despite repeated outbreaks, none of our leaders are willing to figure a way to get it done.  In fact, many of them don't think we should do anything at all.  That epidemic of course, is gun violence.  So please America, let's have an honest conversation on how to best handle gun violence and stop with the lies upon lies we keep hearing."
@@ -17,7 +16,7 @@ intro: "Dear America: We have an epidemic occurring through our nation and despi
 
 
 <div class="blog-pic" style="float: left">
-	<img src="img/handgun.jpg" data-toggle="tooltip" title="This might be made to protect you..." class="image block img-responsive">
+	<img src="/img/handgun.jpg" data-toggle="tooltip" title="This might be made to protect you..." class="image block img-responsive">
 	<h4>This might be made to protect you...</h4>
 </div>
 
@@ -29,7 +28,7 @@ intro: "Dear America: We have an epidemic occurring through our nation and despi
 
 
 <div class="blog-pic" style="float: left">
-<img src="img/ar15.jpg" data-toggle="tooltip" title="But this is designed to kill." class="image block img-responsive pull-right">
+<img src="/img/ar15.jpg" data-toggle="tooltip" title="But this is designed to kill." class="image block img-responsive pull-right">
 	<h4>But this is designed to kill.</h4>
 </div>
 

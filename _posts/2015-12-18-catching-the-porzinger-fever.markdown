@@ -4,7 +4,6 @@ title:  Catching the Porzinger Fever
 date: 2015-12-18 
 categories: basketball
 author: Adam Bodie
-permalink: catching-the-porzinger-fever
 image: porzingis.jpg
 alt: Kristaps Porzingis
 intro: "On the night of the 2015 NBA Draft, many people turned in to see which young prospects their team would select. Though the NBA Draft was held in Barclays Center (home of the Brooklyn Nets), it's fans of the New York Knicks (who play in the Madison Square Garden, the traditional home of the draft) that are the loudest and most obnoxious. Many of their fans don't know a whole lot about all the prospects, mostly knowing those they see on TV, i.e. those who play for big time college basketball teams, which is why, when the New York Knicks selected a young Latvian kid named Kristaps Porzingis, they loudly booed the selection."
@@ -17,7 +16,7 @@ intro: "On the night of the 2015 NBA Draft, many people turned in to see which y
 
 
 <div class="blog-pic" style="float: left">
-<img src="img/porzingis.jpg" data-toggle="tooltip" title="Will he break you?  Stay tuned to find out..." class="image block img-responsive">
+<img src="/img/porzingis.jpg" data-toggle="tooltip" title="Will he break you?  Stay tuned to find out..." class="image block img-responsive">
 	<h4>Will he break you?  Stay tuned to find out...</h4>
 </div>
 

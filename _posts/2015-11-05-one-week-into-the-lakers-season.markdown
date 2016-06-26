@@ -4,7 +4,6 @@ title:  The 2015-2016 Los Angeles Lakers - One week in the Season
 date:   2015-11-5
 categories: basketball
 author: Adam Bodie
-permalink: one-week-into-the-lakers-season
 image: kobe.jpg
 alt: Kobe Bryant
 intro: "One week into the season, the Lakers are winless (0-4) and have not looked impressive as a whole.  Am I that surprised?  Of course not.  Does the Lakers future look bright?  I'd say yeah, not this year, but a couple years down the road, the Lakers will be contending again."
@@ -14,7 +13,7 @@ intro: "One week into the season, the Lakers are winless (0-4) and have not look
 <p>{{ page.intro }}</p>
 
 <div class="blog-pic">
-	<img src="img/kobe.jpg" data-toggle="tooltip" title="Kobe Bryant upset after a call." class="image block img-responsive">
+	<img src="/img/kobe.jpg" data-toggle="tooltip" title="Kobe Bryant upset after a call." class="image block img-responsive">
 	<h4>Kobe Bryant upset after a call.</h4>
 </div>
 
