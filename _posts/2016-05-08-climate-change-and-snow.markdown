@@ -2,7 +2,7 @@
 layout: post
 title: Climate Change and Snow - The Real Story
 date:   2016-05-08
-categories: politics, environmnent
+categories: politics
 author: Adam Bodie
 image: inhofe.jpg
 alt: Jim Inhofe
