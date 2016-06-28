@@ -1,0 +1,30 @@
+---
+layout: post
+title:  Brexit 101
+date:   2016-06-27
+categories: politics
+author: Adam Bodie
+image: iceland.jpeg
+alt: Thanks Iceland
+intro: "I wasn't going to say anything about the global phenomenon known stupidly as 'Brexit,' it doesn't really affect me personally since I don't live in the United Kingdom.  It's really an issue out of my league.  But after seeing the English soccer team lose an epic upset to Iceland in Euro 2016, I've decided to say a few words based solely so I can use the following joke: England just brexited Euro 2016.  The timing couldn't be any better.  Here are my thoughts on Brexit."
+---
+<div class="article">
+<p> {{ page.intro }}</p>
+<div class="blog-pic">
+		<img src="/img/iceland.jpeg" data-toggle="tooltip" title="Thanks Iceland and its game winning striker Kolbeinn Sigþórsson for a perfectly timed Brexit joke." class="image block img-responsive">
+		<h4>Thanks Iceland and its game winning striker Kolbeinn Sigþórsson for a perfectly timed Brexit joke.</h4>
+</div>
+	<p>A brief brundown on Brexit.  Britains braimed brat the Bruropean Brunion is brad.  48% broted to Remain and 52% broted to Leave.  Brow brome breople brave bregrets brecause the Leave brupporters brade their braims brased on Xenophobia and the Breconomy is brinking.  Brat's the brasics of Brexit.</p>
+	<p>Enough of the stupid portmanteaus.  I hate portmanteaus, but that's another blog post by itself.  The whole notion of Brexit is based on conservative based Immigrant fearmongering, blaming them for all our problems.  It's no different to what's going on here in the United States with Donald Trump's blatant Immigrant-bashing Xenophobia.  Heck, one of the driving forces behind Brexit, former London Mayor Boris Johnson, looks like a British knock-off of Donald Trump.  The similarities between the two are uncanny, minus the British appearance for Boris Johnson.  Maybe it's the look after all.</p>
+	<p>If I lived in the United Kingdom, I would vote to remain in the European Union.  I believe in collaboration with the rest of Europe over North Korea-based isolation any day.  The people who believe the European Union was making them 'slaves' somehow don't understand what freedom truly is.  It's not about fear of Immigrants.  Yet some people continue to scare people into believing the Immigrants and Poor are the root of all our world's problems.  These people claim they're somehow affected by Immigrants.  Most people probably don't interact with Immigrants on a daily basis nor understand that most of them are harmless.  It's no different to our attitude here.</p>
+<div class="blog-pic" style="float: left">
+		<img src="/img/boris-johnson.jpg" data-toggle="tooltip" title="Donald Trump's British brother from another mother, Boris Johnson" class="image block img-responsive">
+		<h4>Donald Trump's British brother from another mother, Boris Johnson</h4>
+</div>
+	<p>Of course, it's no surprise our Idiot 'Republican' Presidential Candidate Donald Trump supports this.  He claims 'The U.S. is next.'  But we're not part of the European Union.  We're not enslaved by anything, especially immigrants.  But Donald Trump wants to scare people.  That's his only game.  Immigrants aren't the problem for us.  They're not the problem for the U.K. or anywhere else in the world.  It's people like Trump who are the problem, greedy power-seeking egomaniacs wanting to do as they please with no regard for anyone else.  That won't change in the U.K. whoever becomes the Prime Minister now that David Cameron resigned.  It will be someone else like Boris Johnson abusing the power at the expense of the common-man instead.</p>
+<div class="blog-pic">
+		<img src="/img/trump-scotland.jpg" data-toggle="tooltip" title="Out in Scotland merely to promote his golf course, where the majority of Scotland voted to REMAIN in the European Union." class="image block img-responsive">
+		<h4>Out in Scotland merely to promote his golf course, where the majority of Scotland voted to REMAIN in the European Union.  Has Donald Trump ever gotten the memo?</h4>
+</div>
+	<p>From what I understand, Brexit is a bad idea.  It reeks of fear-mongering with no solutions to actually help the United Kingdom.  It won't free them from anything.  It makes them look weaker and more isolated from the rest of Europe.  The European Union was enacted to prevent World War III or any other World War.  The United Kingdom has always been our strongest ally and it's a shame that people would buy into this hate filled garbage.  It's a preview of what life would be like with Dictator Donald Trump as Supreme Overlord of the United States of Donald Trump.  Thank god for the little guy, like Iceland, to show the English how it's done.  Poetic justice couldn't have written a better metaphor than this.</p>
+</div>
