@@ -5,8 +5,8 @@
     <description>A blog about whatever is on Adam's mind.</description>
     <link>http://blog.bodiewebdesign.com/</link>
     <atom:link href="http://blog.bodiewebdesign.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 20 Aug 2016 17:14:03 -0700</pubDate>
-    <lastBuildDate>Sat, 20 Aug 2016 17:14:03 -0700</lastBuildDate>
+    <pubDate>Sun, 21 Aug 2016 12:48:36 -0700</pubDate>
+    <lastBuildDate>Sun, 21 Aug 2016 12:48:36 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -428,11 +428,11 @@ li {
 
 </description>
         <pubDate>Mon, 11 Jul 2016 00:00:00 -0700</pubDate>
-        <link>http://blog.bodiewebdesign.com/blog/beer/2016/07/11/a-saison-love</link>
-        <guid isPermaLink="true">http://blog.bodiewebdesign.com/blog/beer/2016/07/11/a-saison-love</guid>
+        <link>http://blog.bodiewebdesign.com/blog/miscellaneous/2016/07/11/a-saison-love</link>
+        <guid isPermaLink="true">http://blog.bodiewebdesign.com/blog/miscellaneous/2016/07/11/a-saison-love</guid>
         
         
-        <category>beer</category>
+        <category>miscellaneous</category>
         
       </item>
     

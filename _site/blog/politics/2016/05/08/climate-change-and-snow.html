@@ -27,16 +27,36 @@
 
     <header class="site-header">
 
-  <div id="topbar" class="navbar-header" style="position: fixed; top: 0px;">
-  		<button type="button" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar" class="navbar-toggle collapsed"><i class="fa fa-bars"></i></button>
-  		<img src="/img/bwd.svg" alt="Bodie Web Design" style="max-width: 150px; max-height: 150px;" class="img-responsive block">
-  		<div id="navbar" class="navbar-collapse collapse">
-  		<ul class="block">
+	  <!-- Static navbar -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+            		<img src="/img/bwd.svg" alt="Bodie Web Design" style="max-width: 150px; max-height: 150px;" class="img-responsive block">
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
   			<li class="block"><a href="http://bodiewebdesign.com">Home</a></li>
-  			<li class="block"><a href="http://blog.bodiewebdesign.com">Blog</a></li>
-  		</ul>
-  		</div>
-  </div>
+  			<li class="block"><a href="/">Blog</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">. . . <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="/blog/politics/">Politics</a></li>
+                <li><a href="/blog/sports/">Sports</a></li>
+                <li><a href="/blog/entertainment/">Entertainment</a></li>
+                <li><a href="/blog/music/">Music</a></li>
+                <li><a href="/blog/technology/">Technology</a></li>
+                <li><a href="/blog/miscellaneous/">Miscellaneous</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div><!--/.nav-collapse-->
+    </nav>
+	
 </header>
 
 

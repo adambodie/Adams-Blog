@@ -27,16 +27,36 @@
 
     <header class="site-header">
 
-  <div id="topbar" class="navbar-header" style="position: fixed; top: 0px;">
-  		<button type="button" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar" class="navbar-toggle collapsed"><i class="fa fa-bars"></i></button>
-  		<img src="/img/bwd.svg" alt="Bodie Web Design" style="max-width: 150px; max-height: 150px;" class="img-responsive block">
-  		<div id="navbar" class="navbar-collapse collapse">
-  		<ul class="block">
+	  <!-- Static navbar -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+            		<img src="/img/bwd.svg" alt="Bodie Web Design" style="max-width: 150px; max-height: 150px;" class="img-responsive block">
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
   			<li class="block"><a href="http://bodiewebdesign.com">Home</a></li>
-  			<li class="block"><a href="http://blog.bodiewebdesign.com">Blog</a></li>
-  		</ul>
-  		</div>
-  </div>
+  			<li class="block"><a href="/">Blog</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">. . . <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="/blog/politics/">Politics</a></li>
+                <li><a href="/blog/sports/">Sports</a></li>
+                <li><a href="/blog/entertainment/">Entertainment</a></li>
+                <li><a href="/blog/music/">Music</a></li>
+                <li><a href="/blog/technology/">Technology</a></li>
+                <li><a href="/blog/miscellaneous/">Miscellaneous</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div><!--/.nav-collapse-->
+    </nav>
+	
 </header>
 
 
@@ -63,7 +83,7 @@
   <p class="author">
   	<span class="date">June 23, 2016</span></p>
   <p class="intro"><strong>4:32 pm - </strong>Tonight is the 2016 NBA Draft, where the young stars join their new teams.  For my team, the Lakers, with the number 2 pick, hope to pick their next star...just like they did last year with D'Angelo Russell.  While Russell wasn't an immediate superstar, only time will tell if he lives up to the hype.  Who will the Lakers take with the number 2 picks.  All signs point to Duke forward Brandon Ingram, but the Lakers pick will be announced in 10 minutes.</p>
-  <a href="/blog/basketball/2016/06/23/nba-draft-the-future-is-now" class="read-more">Read More</a>
+  <a href="/blog/sports/basketball/2016/06/23/nba-draft-the-future-is-now" class="read-more">Read More</a>
 	</div>
 	<div class="col-md-6">
   <img src="/img/brandon-ingram.jpg" alt="Brandon Ingram" class="img-responsive">
@@ -76,7 +96,7 @@
   <p class="author">
   	<span class="date">June 19, 2016</span></p>
   <p class="intro">I was asked to compare two recent movies and Oscar nominated and winning movies from this years Academy Awards.  The challenger on the left is The Big Short, which won Best Adapted Screenplay.  The champion on the right is Spotlight, which won Best Original Screenplay and Best Picture.  So which movie did I think was better?  Here are my thoughts.</p>
-  <a href="/blog/movies/2016/06/19/the-big-short-vs-spotlight" class="read-more">Read More</a>
+  <a href="/blog/entertainment/2016/06/19/the-big-short-vs-spotlight" class="read-more">Read More</a>
 	</div>
 	<div class="col-md-6">
   <img src="/img/oscar.jpg" alt="The Oscars" class="img-responsive">
@@ -102,7 +122,7 @@
   <p class="author">
   	<span class="date">June 9, 2016</span></p>
   <p class="intro">Much buzz on the news is about a rapist name Brock Turner, a former Stanford swimmer who raped an unconscious woman and received just six months in prison for it, despite being convicted of three felony sexual assault charges.  Though the defendant claims he understands what he did was wrong, he has managed to show how little responsibility he has actually taken for his crimes, feeling like he is the victim just as much as the woman he raped. Cases like this show just how little regard some men have for women in general and how that, more than anything, leads to rape.</p>
-  <a href="/blog/social/2016/06/09/rape-a-nasty-side-effect-of-societys-mistreatment-of-women" class="read-more">Read More</a>
+  <a href="/blog/miscellaneous/2016/06/09/rape-a-nasty-side-effect-of-societys-mistreatment-of-women" class="read-more">Read More</a>
 	</div>
 	<div class="col-md-6">
   <img src="/img/stanford.jpg" alt="Stanford" class="img-responsive">
@@ -141,7 +161,7 @@
   <p class="author">
   	<span class="date">June 2, 2016</span></p>
   <p class="intro">The NBA Finals have arrived, featuring as I expected, a rematch of last year's Finals, Golden State vs. Cleveland.  Last year, Cleveland, despite missing Kyrie Irving and Kevin Love, played their hardest, gave Golden State a legitimate scare before Golden State was able to win their first championship in 40 years.  Things have changed slightly this year, with the aforementioned Irving and Love healthy this time around, while Golden State, with not much change, finished with an NBA record 73 wins in the regular season.  So who wins the rematch?  Here are my thoughts.</p>
-  <a href="/blog/basketball/2016/06/02/nba-finals-preview" class="read-more">Read More</a>
+  <a href="/blog/sports/basketball/2016/06/02/nba-finals-preview" class="read-more">Read More</a>
 	</div>
 	<div class="col-md-6">
   <img src="/img/green.jpg" alt="Draymond Green" class="img-responsive">
@@ -154,7 +174,7 @@
   <p class="author">
   	<span class="date">May 30, 2016</span></p>
   <p class="intro">After watching seven games of the Golden State-Oklahoma City series, I have come to the conclusion that no matter how talented you are, you need a signature look to gain attention from the common-man.  Sure, Kevin Durant is quite talented, he shoots well and is one of the most feared offensive players in the league, but while I was watching this series, it was Steven Adams and his long hair, long mustache and tattoos that got all my attention, as well as an interesting back-and-forth between my Mom, her boyfriend, my sister and I on whether Adams is good-looking or not.</p>
-  <a href="/blog/basketball/2016/05/30/steven-adams-a-debate-on-whether-exoticness-equals-attractiveness" class="read-more">Read More</a>
+  <a href="/blog/sports/basketball/2016/05/30/steven-adams-a-debate-on-whether-exoticness-equals-attractiveness" class="read-more">Read More</a>
 	</div>
 	<div class="col-md-6">
   <img src="/img/steven-adams.jpg" alt="Steven Adams" class="img-responsive">

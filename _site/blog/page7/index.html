@@ -27,16 +27,36 @@
 
     <header class="site-header">
 
-  <div id="topbar" class="navbar-header" style="position: fixed; top: 0px;">
-  		<button type="button" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar" class="navbar-toggle collapsed"><i class="fa fa-bars"></i></button>
-  		<img src="/img/bwd.svg" alt="Bodie Web Design" style="max-width: 150px; max-height: 150px;" class="img-responsive block">
-  		<div id="navbar" class="navbar-collapse collapse">
-  		<ul class="block">
+	  <!-- Static navbar -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+            		<img src="/img/bwd.svg" alt="Bodie Web Design" style="max-width: 150px; max-height: 150px;" class="img-responsive block">
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
   			<li class="block"><a href="http://bodiewebdesign.com">Home</a></li>
-  			<li class="block"><a href="http://blog.bodiewebdesign.com">Blog</a></li>
-  		</ul>
-  		</div>
-  </div>
+  			<li class="block"><a href="/">Blog</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">. . . <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="/blog/politics/">Politics</a></li>
+                <li><a href="/blog/sports/">Sports</a></li>
+                <li><a href="/blog/entertainment/">Entertainment</a></li>
+                <li><a href="/blog/music/">Music</a></li>
+                <li><a href="/blog/technology/">Technology</a></li>
+                <li><a href="/blog/miscellaneous/">Miscellaneous</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div><!--/.nav-collapse-->
+    </nav>
+	
 </header>
 
 
@@ -50,7 +70,7 @@
   <p class="author">
   	<span class="date">November 9, 2015</span></p>
   <p class="intro">Four years ago, I set out to write an article on Innocent Online Stalking.  The results of the article were quite fascinating.  I met a young woman named Jennifer Bodie and asked her about her online stalking.  She described in length how it affected her and why she did it.  I decided to do a follow up to check in with Jenn and see if she's still doing it.</p>
-  <a href="/blog/random/2015/11/09/confessions-of-an-online-stalker-part-2" class="read-more">Read More</a>
+  <a href="/blog/miscellaneous/2015/11/09/confessions-of-an-online-stalker-part-2" class="read-more">Read More</a>
 	</div>
 	<div class="col-md-6">
   <img src="/img/jenn.jpg" alt="Jenn the Innocent Online Stalker" class="img-responsive">
@@ -63,7 +83,7 @@
   <p class="author">
   	<span class="date">November 5, 2015</span></p>
   <p class="intro">One week into the season, the Lakers are winless (0-4) and have not looked impressive as a whole.  Am I that surprised?  Of course not.  Does the Lakers future look bright?  I'd say yeah, not this year, but a couple years down the road, the Lakers will be contending again.</p>
-  <a href="/blog/basketball/2015/11/05/one-week-into-the-lakers-season" class="read-more">Read More</a>
+  <a href="/blog/sports/basketball/2015/11/05/one-week-into-the-lakers-season" class="read-more">Read More</a>
 	</div>
 	<div class="col-md-6">
   <img src="/img/kobe.jpg" alt="Kobe Bryant" class="img-responsive">
@@ -76,7 +96,7 @@
   <p class="author">
   	<span class="date">October 25, 2015</span></p>
   <p class="intro">Welcome to Bodie Web Design 2.0, the Express Edition.  As you will see on my web page, I have updated my initial version of Bodie Web Design by using Express as a web framework.  So why use Express (or any web framework) instead of just plain HTML, CSS &amp; JavaScript.  The answer is simple: It's easier (if you know how to use it).</p>
-  <a href="/blog/introduction/express/2015/10/25/welcome-to-express" class="read-more">Read More</a>
+  <a href="/blog/technology/2015/10/25/welcome-to-express" class="read-more">Read More</a>
 	</div>
 	<div class="col-md-6">
   <img src="/img/ashwaubenon.jpg" alt="Ashwaubenon" class="img-responsive">

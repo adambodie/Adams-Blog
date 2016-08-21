@@ -96,24 +96,8 @@ $on-laptop:        800px;
 .block {
   display: inline-block; }
 
-#topbar {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  z-index: 999;
-  border-bottom: 1px solid black;
-  background: -webkit-linear-gradient(black, #5a5a5a);
-  /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(black, #5a5a5a);
-  /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(black, #5a5a5a);
-  /* For Firefox 3.6 to 15 */
-  background: linear-gradient(black, #5a5a5a);
-  /* Standard syntax (must be last) */ }
-  #topbar #navbar {
-    float: left;
-    width: 100%;
+
+.navbar-default {
     background: -webkit-linear-gradient(black, #5a5a5a);
     /* For Safari 5.1 to 6.0 */
     background: -o-linear-gradient(black, #5a5a5a);
@@ -122,45 +106,68 @@ $on-laptop:        800px;
     /* For Firefox 3.6 to 15 */
     background: linear-gradient(black, #5a5a5a);
     /* Standard syntax (must be last) */
-   }
-  #topbar img {
+	border: none;
+}
+
+.navbar-default img {
     float: left;
     margin: 10px;
     display: inline-block; 
     }
-  #topbar ul {
-    padding: 0;
-    text-align: center;
-    height: 60px;
-    margin-top: -30px;
-    display: block; }
-  #topbar li {
-    font-size: 0.8em;
-    margin-top: 30px;
-    padding: 10px; 
-	 list-style: none;    
-    }
-    #topbar li a {
-      color: white;
-      text-decoration: none; }
-      #topbar li a:hover {
-        color: gray; }
 
-  #topbar #navbar {
-    float: none; 
-    
-    }
-  #topbar ul {
-    text-align: left;
-    margin-top: 0; 
-    
-    }
-  #topbar li {
+.navbar-default li {
     font-size: 1.3em;
+	margin-top: 30px;
     margin-left: 10px;
     margin-right: 10px;  
     }
+	
+.navbar-default .navbar-nav>li>a {
+      color: white;
+      text-decoration: none;
+	  }
+.navbar-default .navbar-nav>li>a:hover {
+        color: gray;
+	}
 
+.dropdown-menu {
+
+    background: -webkit-linear-gradient(#4a4a4a, black);
+    /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#4a4a4a, black);
+    /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#4a4a4a, black);
+    /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#4a4a4a, black);
+	border: none;
+}
+
+.dropdown-menu>li>a {
+      color: white;
+      text-decoration: none;
+	  }
+.dropdown-menu>li>a:hover {
+        color: gray;
+	}
+
+@media (max-width: 767px) {
+.navbar-default .navbar-nav .open .dropdown-menu>li>a {
+    color: white;
+}
+.navbar-default .navbar-nav .open .dropdown-menu>li>a:hover {
+    color: gray;
+}
+.navbar-nav .open .dropdown-menu {
+    position: static;
+    float: none;
+    width: auto;
+    margin-top: 0;
+    background: none;
+    border: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+}
 // Use media queries like this:
 // @include media-query($on-palm) {
 //     .wrapper {
@@ -168,6 +175,7 @@ $on-laptop:        800px;
 //         padding-left: $spacing-unit / 2;
 //     }
 // }
+
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
         @content;
