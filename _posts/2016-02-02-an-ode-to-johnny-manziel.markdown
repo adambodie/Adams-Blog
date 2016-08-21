@@ -2,7 +2,7 @@
 layout: post
 title:  An Ode to Johnny Manziel, whose NFL Career has turned out EXACTLY how I thought it would
 date: 2016-02-02
-categories: football
+categories: sports football
 author: Adam Bodie
 image: johnny.jpg
 alt: Enjoy the money while you can...

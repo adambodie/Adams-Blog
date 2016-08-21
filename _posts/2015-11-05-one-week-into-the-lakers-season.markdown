@@ -2,7 +2,7 @@
 layout: post
 title:  The 2015-2016 Los Angeles Lakers - One week in the Season
 date:   2015-11-5
-categories: basketball
+categories: sports basketball
 author: Adam Bodie
 image: kobe.jpg
 alt: Kobe Bryant

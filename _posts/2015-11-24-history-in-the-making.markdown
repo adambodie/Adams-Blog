@@ -2,7 +2,7 @@
 layout: post
 title:  History in the Making - The Lakers on the Wrong Side Edition
 date: 2015-11-24 
-categories: basketball
+categories: sports basketball
 author: Adam Bodie
 image: warriors.jpg
 alt: Steph Curry

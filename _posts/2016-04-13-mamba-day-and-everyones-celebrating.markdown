@@ -2,7 +2,7 @@
 layout: post
 title:  Mamba Day and Everyone's Celebrating
 date: 2016-04-13
-categories: basketball
+categories: sports basketball
 author: Adam Bodie
 image: kobe6.jpg
 alt: Kobe Bryant

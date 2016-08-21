@@ -2,7 +2,7 @@
 layout: post
 title:  Catching the Porzinger Fever
 date: 2015-12-18 
-categories: basketball
+categories: sports basketball
 author: Adam Bodie
 image: porzingis.jpg
 alt: Kristaps Porzingis

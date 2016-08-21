@@ -2,7 +2,7 @@
 layout: post
 title:  The Big Short vs. Spotlight - Which Movie was better
 date:   2016-06-19
-categories: movies
+categories: entertainment
 author: Adam Bodie
 image: oscar.jpg
 alt: The Oscars

@@ -2,7 +2,7 @@
 layout: post
 title:  A Saison Love
 date:   2016-07-11
-categories: beer
+categories: miscellaneous
 author: Adam Bodie
 image: colette.jpg
 alt: Colette

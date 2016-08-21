@@ -2,7 +2,7 @@
 layout: post
 title:  The Slam Dunk Contest is Back, even though Aaron Gordon got Robbed
 date: 2016-02-13
-categories: basketball
+categories: sports basketball
 author: Adam Bodie
 image: gordon.jpg
 alt: How is this even possible? Aaron Gordon does the unthinkable

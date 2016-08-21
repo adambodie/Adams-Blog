@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Express!"
 date:   2015-10-25
-categories: introduction express
+categories: technology
 author: Adam Bodie
 image: ashwaubenon.jpg
 alt: Ashwaubenon

@@ -2,7 +2,7 @@
 layout: post
 title:  Hip Hop 2015 - The Year it Was
 date: 2015-12-20 
-categories: hip-hop
+categories: music
 author: Adam Bodie
 image: pimp.png
 alt: To Pimp A Butterfly

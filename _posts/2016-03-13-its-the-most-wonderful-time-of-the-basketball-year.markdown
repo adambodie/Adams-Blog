@@ -2,7 +2,7 @@
 layout: post
 title:  It's the Most Wonderful Time of the Basketball Year, a.k.a. March Madness
 date: 2016-03-13
-categories: basketball
+categories: sports basketball
 author: Adam Bodie
 image: brooks.jpg
 alt: Dillon Brooks

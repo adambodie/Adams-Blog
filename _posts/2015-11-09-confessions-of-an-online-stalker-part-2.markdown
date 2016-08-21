@@ -2,7 +2,7 @@
 layout: post
 title:  Confessions of an Online Stalker Part 2
 date:   2015-11-9
-categories: random
+categories: miscellaneous
 author: Adam Bodie
 image: jenn.jpg
 alt: Jenn the Innocent Online Stalker

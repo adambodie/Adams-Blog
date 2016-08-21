@@ -2,7 +2,7 @@
 layout: post
 title:  Minnesota Golden Gophers 2015 Football In Review
 date: 2015-12-30 
-categories: football
+categories: sports football
 author: Adam Bodie
 image: gophers.jpg
 alt: Minnesota Golden Gophers

@@ -2,7 +2,7 @@
 layout: post
 title:  College Football Championship Preview
 date: 2016-01-04
-categories: football
+categories: sports football
 author: Adam Bodie
 image: clemson.jpg
 alt: DeShaun Watson

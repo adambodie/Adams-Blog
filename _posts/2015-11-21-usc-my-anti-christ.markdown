@@ -2,7 +2,7 @@
 layout: post
 title:  USC - My Anti-Christ
 date:   2015-11-21
-categories: football
+categories: sports football
 author: Adam Bodie
 image: ducks.jpg
 alt: Vernon Adams

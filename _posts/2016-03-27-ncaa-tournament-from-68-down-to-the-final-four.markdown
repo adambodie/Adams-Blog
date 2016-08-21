@@ -2,7 +2,7 @@
 layout: post
 title:  NCAA Tournament From 68 down to the Final Four
 date: 2016-03-27
-categories: basketball
+categories: sports basketball
 author: Adam Bodie
 image: hield2.jpg
 alt: Buddy Hield

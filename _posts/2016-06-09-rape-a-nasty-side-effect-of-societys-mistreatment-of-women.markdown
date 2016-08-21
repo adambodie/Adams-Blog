@@ -2,7 +2,7 @@
 layout: post
 title:  Rape - A Nasty Side Effect of Society's Mistreatment of Women
 date:   2016-06-09
-categories: social
+categories: miscellaneous
 author: Adam Bodie
 image: stanford.jpg
 alt: Stanford

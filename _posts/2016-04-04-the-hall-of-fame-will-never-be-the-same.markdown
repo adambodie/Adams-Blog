@@ -2,7 +2,7 @@
 layout: post
 title:  The Hall of Fame will never be the same, thanks Shaq
 date: 2016-04-04
-categories: basketball
+categories: sports basketball
 author: Adam Bodie
 image: shaq.jpg
 alt: Shaquille O'Neal

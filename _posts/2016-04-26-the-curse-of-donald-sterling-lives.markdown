@@ -2,7 +2,7 @@
 layout: post
 title:  The Curse of Donald Sterling Lives
 date: 2016-04-26
-categories: basketball
+categories: sports basketball
 author: Adam Bodie
 image: sterling.jpg
 alt: Donald Sterling

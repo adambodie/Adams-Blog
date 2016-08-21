@@ -2,7 +2,7 @@
 layout: post
 title:  Why Tracy Claeys is the Right Choice for the Golden Gophers
 date:   2015-11-11
-categories: football
+categories: sports football
 author: Adam Bodie
 image: claeys.jpg
 alt: Tracy Claeys

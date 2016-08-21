@@ -2,7 +2,7 @@
 layout: post
 title:  Mamba Out - The Aftermath
 date: 2016-04-14
-categories: basketball
+categories: sports basketball
 author: Adam Bodie
 image: kobe9.jpg
 alt: Kobe Bryant

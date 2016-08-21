@@ -2,7 +2,7 @@
 layout: post
 title: Steven Adams - A Debate on Whether Exoticness equals Attractiveness 
 date:   2016-05-30
-categories: basketball
+categories: sports basketball
 author: Adam Bodie
 image: steven-adams.jpg
 alt: Steven Adams

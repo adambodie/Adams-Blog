@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Adam's Blog 2.0 - The Rise of Jekyll"
 date:   2016-05-04
-categories: jekyll update
+categories: technology
 author: Adam Bodie
 image: mthood.jpg
 alt: Adam's Blog

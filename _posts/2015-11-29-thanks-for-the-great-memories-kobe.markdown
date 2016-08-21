@@ -2,7 +2,7 @@
 layout: post
 title:  Thanks for the Great Memories Kobe
 date: 2015-11-29 
-categories: basketball
+categories: sports basketball
 author: Adam Bodie
 image: kobe2.jpg
 alt: Kobe Bryant

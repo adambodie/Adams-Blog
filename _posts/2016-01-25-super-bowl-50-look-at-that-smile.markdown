@@ -2,7 +2,7 @@
 layout: post
 title:  Super Bowl 50 - Look at that Smile!
 date: 2016-01-25
-categories: football
+categories: sports football
 author: Adam Bodie
 image: newton.jpg
 alt: Look at that smile!

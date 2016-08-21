@@ -2,7 +2,7 @@
 layout: post
 title:  NBA Conference Finals Preview
 date:   2016-05-15
-categories: basketball
+categories: sports basketball
 author: Adam Bodie
 image: lowry.jpg
 Alt: Kyle Lowry

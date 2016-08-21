@@ -2,7 +2,7 @@
 layout: post
 title:  How To Make My Website
 date: 2016-01-11
-categories: programming
+categories: technology
 author: Adam Bodie
 image: lincoln.jpg
 alt: Making websites is fun!

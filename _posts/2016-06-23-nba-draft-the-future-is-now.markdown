@@ -2,7 +2,7 @@
 layout: post
 title:  NBA Draft - The Future is Now
 date:   2016-06-23
-categories: basketball
+categories: sports basketball
 author: Adam Bodie
 image: brandon-ingram.jpg
 alt: Brandon Ingram

@@ -2,7 +2,7 @@
 layout: post
 title:  NBA Finals Preview
 date:   2016-06-02
-categories: basketball
+categories: sports basketball
 author: Adam Bodie
 image: green.jpg
 alt: Draymond Green
