@@ -4,7 +4,7 @@ title:  My New Family Roots
 date:   2016-08-25
 categories: miscellaneous
 author: Adam Bodie
-image: vistytis.jpg
+image: Vistytis.jpg
 alt: Lake Vistytis
 intro: "For many years, my Mom has been on a quest to find her family roots, never knowing who her biological father was.  Recently, a DNA test found my Mom with 47% European Jewish, 34% Great Britain and 16% other.  I've always wanted to know about my family roots as well, and with my Mom's interest, I was able was able to dig deeper than before to find that her Great-Grandpa's Barnet and Harry were born in the Suwałki area of what was then part of Russia, an area now part of Poland with a portion of its historical area in Lithuania.  So what is Suwałki?  Here is an expose on an area where I have roots."
 ---
