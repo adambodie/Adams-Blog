@@ -12,7 +12,7 @@ intro: "For many years, my Mom has been on a quest to find her family roots, nev
 <div class="article">
 <p> {{ page.intro }}</p>
 <div class="blog-pic">
-		<img src="/img/vistytis.jpg" data-toggle="tooltip" title="Lake Vištytis" class="image block img-responsive">
+		<img src="/img/Vistytis.jpg" data-toggle="tooltip" title="Lake Vištytis" class="image block img-responsive">
 		<h4>Lake Vištytis</h4>
 </div>
 
@@ -21,7 +21,7 @@ intro: "For many years, my Mom has been on a quest to find her family roots, nev
 <p>The Suwałki region has historically been a conflict area between Poland, Lithuania, and somewhat Russia, whose exclave Kaliningrad is also within range of the Suwalki region.  After World War I, when Germany occupied the area,  Poland and Lithuania became independent states, no longer control of Russia, but their borders were contested, as Lithuania, with a majority population in the Suwałki region, claimed part of it as its own, even though it was never theirs historically.  This led to the Polish-Lithuanian War from 1919-1920, which led to a peace treaty giving control of the Suwałki region to Poland. </p>
 
 <div class="blog-pic" style= "float: left">
-		<img src="/img/lithuaniaregions.gif" data-toggle="tooltip" title="Lithuania" class="image block img-responsive">
+		<img src="/img/LithuaniaRegions.gif" data-toggle="tooltip" title="Lithuania" class="image block img-responsive">
 		<h4>The historical Suwałki region (in yellow) in comparison to Lithuania today</h4>
 </div>
 
