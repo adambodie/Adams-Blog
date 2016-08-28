@@ -1,0 +1,39 @@
+---
+layout: post
+title:  If It Sounds Like A Racist...
+date: 2016-08-28  
+categories: politics
+author: Adam Bodie
+image: lobster.gif
+alt: Maine Lobsters
+intro: "Last week, the Governor of Maine, Paul LePage, known for being an obnoxious blubber mouth, bluntly stated that 90% plus of all drug dealers arrested in Maine are \"Black and Hispanic,\" a statement which many found to be abhorrently racist.  After all, this is the same Governor who earlier in the year proclaimed that drug dealers \"are guys with the name D-Money, Smoothie, Shifty; these types of guys, they come from Connecticut and New York, they come up here, they sell their heroin, they go back home. Incidentally, half the time they impregnate a young, white girl before they leave, which is a real sad thing because then we have another issue we have to deal with down the road.\"  Clearly, these types of comments, focusing on skin color, are profoundly racist in nature, lumping blacks with drugs and street-names.  Yet Paul LePage, angry that Democratic State Rep. Drew Gattine allegedly called him racist, left him a vulgar voicemail demanding proof of his 'racism,' using multiple swear words against him, including cocksucker, and told him, \"I am after you,\" amongst other things.  It would be one thing to say something once, but people like Paul LePage have repeatedly made racist comments.  So what do incidents like this say about racism in our society?"
+---
+<div class="article">
+<p>{{ page.intro }}</p>
+<div class="blog-pic">
+		<img src="/img/lobster.gif" data-toggle="tooltip" title="Maine Lobsters" class="image block img-responsive">
+		<h4>Sadly, Lobsters are more capable of running Maine than Governor Paul LePage</h4>
+</div>
+
+
+<p>Earlier in the year, rapper Macklemore released a song called "White Privilege II," where he rapped "It seems like we're more concerned with being called racist / Than we actually are with racism," and this definitely seems to be true here and in many cases.  Someone like Paul LePage doesn't seem to realize that this comments are racist or could be construed as racist, yet is immediately offended as being called a racist, focusing on self-image rather than society as a whole.  People like this knows what racism is and how to define it, but ultimately, they all ignore their own inherent racism.  Racism has been around forever, and in some shape or form will always exist, but for some, it's not an issue until someone calls you out for it.  Like it or not, defining someone based off their race or ethnicity is never the right thing to do.  It accomplishes nothing but put unburden some blame on people without cause.  People are complex beings and are not easy to define.  </p>
+
+<blockquote>It seems like we're more concerned with being called racist / Than we actually are with racism.<footer>Macklemore - White Privilege II</footer></blockquote>
+
+<p>By definition, the word racism is defined as "the belief that all members of each race possess characteristics or abilities specific to that race, especially so as to distinguish it as inferior or superior to another race or races."  With LePage's comments about drug dealers, you would think that only blacks and Hispanics are capable of being drug dealers, but stereotyping minorities (or anyone in general based on certain characteristics) with negative connotations is racist, as any group of people are capable of being drug dealers.  For this instance, all this accomplishes is makes Blacks and Hispanics scapegoats for a problem that is more complicated.</p>
+<div class="blog-pic" style="float:left">
+		<img src="/img/lepage.jpg" data-toggle="tooltip" title="Paul LePage" class="image block img-responsive">
+		<h4>Governor Paul LePage has no clue of what it means to be racist</h4>
+</div>
+<p>Does making racist comments actually solve anything?  Here, it obviously ignores that fact that there are plenty of drug dealers that have not been caught.  Statistics have shown that police officers are far more likely to go after African Americans and Hispanics than they are whites, even though whites are more likely to be guilty of something.  It happens in places like Cleveland, Baltimore and Ferguson, and certainly does little fix the real issues.  Solving Maine's drug problem requires complex and intricate thinking, more than just identifying the dealers skin color or ethnicity.  It does nothing to stop the issue, and leads to more racial profiling, overlooking the biggest problem within all of this, the drug abusers themselves.</p>
+
+<p>Racial profiling is not only wrong but completely immoral.  It basically states: "If you are of a certain color, you're probably going to do something bad, but if you're not that color, you're fine."  Paul LePage thinks blacks are drug dealers, but plenty of blacks aren't dealing drugs, and yet, they are more likely to be accused of dealing drugs than a white person who actually deals drugs will.  So while plenty of Americans will focus on a person's skin color and their stereotypes to form their opinions about them, it ignores the complexity of human beings.  As a Jewish minority, there are plenty of negative stereotypes associated with my religion that aren't associated with me at all, yet Anti-Semitic people have already formed an opinion of me without actually knowing me that's not true.  It's the same with other groups of people.</p>
+<blockquote class="blockquote-reverse">"Mr. Gattine, this is Gov. Paul Richard LePage.  I would like to talk to you about your comments about my being a racist, you (obscene term). I want to talk to you. I want you to prove that I'm a racist. I've spent my life helping black people and you little (obscene term), socialist (obscene term). You -- I need you to -- just friggin'. I want you to record this and make it public because I am after you. Thank you." <footer>Paul LePage leaving a voicemail</footer> </blockquote>
+<p>Whether someone is actually racist or not is often debatable, but deep down, people can be implicitly racist and not realize or understand it.  These people often can identify someone else as being racist but can't comprehend their own racist thoughts.  Paul LePage certainly sees no wrong in his words, claiming he was just going through a binder full of drug arrests in his state.  But the sad truth is that many people focus on one small detail on human beings to identify everything there is to know about them: color.  There are numerous other qualities that human beings have, from genetics, environmental factors and socioeconomic upbringing, the latter which is often ignored by those who judge solely on skin color.  So while people like LePage focus on color, solving problems requires a more comprehensive research on human beings than just skin color.</p>
+<div class="blog-pic">
+		<img src="/img/maine.jpg" data-toggle="tooltip" title="Maine" class="image block img-responsive">
+		<h4>Maine is far too beautiful to have a racist talking Governor in charge.</h4>
+</div>
+<p> the flipside, we also have people who will say things like "I like these people, I've done this and this for them," to make the claim that they are not racist.  Paul LePage has no problem stating "he's done all these things to help the African-American community," but it's basically a cop-out to say things like this.  Once again, it focuses on a person's skin color or ethnicity, rather than their complete personality.  I am more than just Jewish, so really, is anything accomplished by focusing on my religion and not my complete self?  Of course not, but don't tell those whose main goal is to not be referred to as racist?  In the end, that's more important for some than the issue of racism itself.</p>
+
+</div>
