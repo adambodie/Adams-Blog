@@ -62,6 +62,11 @@ $on-laptop:        800px;
 	text-indent: 2em;
 }
 
+.article li {
+    font-size: 14px;
+    font-family: "Raleway", sans-serif;
+}
+
 .intro {
 	font-size: $base-font-size - 2;
 	font-family: $raleway;
