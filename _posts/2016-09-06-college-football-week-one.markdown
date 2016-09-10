@@ -37,7 +37,7 @@ intro: "Thank god football's back.  It's refreshing to take interest in somethin
 <li>Clemson</li>
 <li>Florida State</li>
 <li>Ohio State</li>
-<li>Michigan State</li>
+<li>Michigan</li>
 <li>Houston</li>
 <li>Stanford</li>
 <li>Oklahoma</li>
