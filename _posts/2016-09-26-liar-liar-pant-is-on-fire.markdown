@@ -1,0 +1,109 @@
+---
+layout: post
+title:  Liar Liar, Pant is on Fire
+date:   2016-09-26
+categories: politics
+author: Adam Bodie
+image: hillary-clinton-donald-trump.jpg
+alt: The Debate
+intro: "People lie, doesn't matter who you are.  But some people lie more than others.  This year, lying has become the new truth-telling, as the Republican candidate for President, whose name won't be mentioned, lies about, well, basically everything.  This is coming from a man who believes it's okay to lie and does so repeatedly and often as possible.  A man so deluded in himself that he complains a mass conspiracy every time someone tells him what he's saying is lying.  He even claims Ted Cruz as the biggest liar of all time with the nickname Lyin' Ted (to be fair, they are both ridiculous liars). With that said, tonight is the first Presidential debate, and one thing is for certain: this Idiot will frequently lie.  If a drinking game would be made out of it, all participants would die of alcohol poisoning. Here's a live look at lie upon lie upon lie.."
+---
+<div class="article">
+<p> {{ page.intro }}</p>
+<div class="blog-pic">
+		<img src="/img/hillary-clinton-donald-trump.jpg" data-toggle="tooltip" title="The debate" class="image block img-responsive">
+		<h4>One's great, one's stupid.</h4>
+</div>
+<p>6:03 PM - The first Presidential debate is started by moderator Leslie Holt, who announces it's sponspored by a non-partisan committee.  The Idiot previously thought the Democrats controlled it because the Falcons-Saints game is playing.  And here come Hillary in Red, and the Idiot with a blue tie.  Ironic colors for both of them.  Now we get the opening statement about acheiveing prosperity, mainly jobs.  Hillary Clinton first.</p>
+<p>6:06 PM - Hillary talks first about the economy, and looking at the Idiot, he looks like a grumpy pompous ass while he's listening.  After acknowledging him, he showcases his ugly chin.  He's effin' ugly</p>
+<p>6:08 PM - And now for the Idiot.  He talks about stealing jobs, but he's done plenty of this</p>
+<p>6:10 PM - Hillary responds by calling the Idiot's economic plan as Trumped Up trickle down (I think), the most extreme ever.</p>
+<p>6:12 PM - The Idiot is talking about his small loan in 1975 of $1,000,000 dollars, which was much more in value than it is today.  With inflation, that's like $10,000,000.  Jenn just told me he's snifling a lot.  Now I noticed it.  He claims Hillary didn't do enough, but it's a too party street.  Hello?</p>
+<div class="blog-pic" style="float:left">
+		<img src="/img/hillary-clinton2.jpg" data-toggle="tooltip" title="Hillary Clinton" class="image block img-responsive">
+		<h4>Hillary Clinton</h4>
+</div>
+<p>6:14 PM - The moderator asked him to actually answer the question, which he didn't answer.  Jenn's right, he's snifling.</p>
+<p>6:15 PM - Hillary mentions the Recession as the primary reason for such jobs leaving.  After she mentioned the Idiots desire to profit off the collapse, he said "That's business."  This is not business, it's being the President.  Idiot.</p>
+<p>6:16 PM - The Idiot said he never said that global warming is a hoax.  It's all over his Twitter page.  Another case of "I didn't say this even though I clearly did."</p>
+<div class="blog-pic">
+		<img src="/img/donald-trump5.jpg" data-toggle="tooltip" title="Donald Trump" class="image block img-responsive">
+		<h4>Idiot!</h4>
+</div>
+<p>6:18 PM - The Idiot claims Obama's doubled the debt, but we were already in debt.  He asks Hillary why she hasn't come up with any solutions.</p>
+<p>6:19 PM - Hillary has been thinking about it, but not for 30 years she joked.  It's not up all to her by herself.  He interrupts with remarks about NAFTA and then drinks some water.  Whoop dee doo.  What an Idiot.</p>
+<p>6:21 PM - He keeps complaining about NAFTA, talking about devastation.  Hillary mentions him living in his own reality twisting her words.  He keeps interrupting about "Is this Obama's fault?"  He told Hillary he has no plan, but she mentions her plan clear and available in stores and at the airport, called Stronger Together.  He has no plans.</p>
+<p>6:23 PM - He's proud of the biggest tax plan cut since Ronald Reagan.  Reagan raised taxes.  He talks about regulations upon regulations, but regulations make companies play the level field.  He said Bigly two times.</p>
+<div class="blog-pic" style="float:left">
+		<img src="/img/hillary-clinton4.jpg" data-toggle="tooltip" title="Hillary Clinton" class="image block img-responsive">
+		<h4>Hillary Clinton</h4>
+</div>
+<p>6:24 PM - The Idiot says his things are Facts.  They are clearly not Facts!</p>
+<p>6:25 PM - The Idiot says she shouldn't announce her plans to fight ISIS and claims she's been fighting ISIS her entire adult life.  Last time I checked, ISIS was founded in 2004.  Hillary is not 35.</p>
+<p>6:27 PM - The Idiot says 5 trillion dollars can't be brought in due to bureaucratic red tape.  That's likely a lie.</p>
+<p>6:28 PM - The Idiot says "Why not?" as Hillary said she'll likely to be blamed for everything tonight.  Lester Holt told him to let her answer her question.</p>
+<div class="blog-pic">
+		<img src="/img/donald-trump3.jpg" data-toggle="tooltip" title="Donald Trump" class="image block img-responsive">
+		<h4>Idiot!</h4>
+</div>
+<p>6:29 PM - Hillary talked about the Trump Loophole, a so-called name that his tax cuts would benefit his family.  He keeps interrupting her.  He wants his word even though it's her turn to talk.  What a loser.</p>
+<p>6:30 PM - The Idiot claims she's all talk and no action.  He claims the worst economical revival since the Depression.  The economy hasn't been as bad since the depression.  Big hole to dump.  The moderator talks about his tax returns.</p>
+<p>6:31 PM - The Idiot claims a routine audit about his taxes.  He talks about his financial statement, but it's not a complete picture.  Release your taxes Idiot, it's clear you're hiding something.  The moderator mentions the IRS won't disallow him.  He complains about all the years under audit, it's because you're a fraud who's been sued so many times.  Now he's talking about her deleted emails, childish threats.</p>
+<p>6:34 PM - Hillary talks about the reasons he won't release his tax returns, and referred to as a Bait and Switch.  Who cares about her emails?  She talked about her emails, but interrupted again.</p>
+<p>6:36 PM - The Idiot claims it was on purpose and illegal.  It was not illegal, just naive.  He claims you learn more about financial disclosures than tax returns.  But you don't get your tax rates.  Stupid!  He talks about knowing about money, but he filed for Chapter 11 Bankruptcy 6 times.  He claims our country in a mess and called us a third world country.</p>
+<p>6:39 PM - Hillary wants to talk about his business and all the people he's stiffed for money.  His response: he didn't do a good job.  You still have to pay regardless of whether you like it or not.  It's called a contract.</p>
+<p>6:41 PM - The Idiot talks about words.  But that's all he is...words.  No action.  He said he paid the contractors but said he didn't paid them earlier.  He sniffles his nose again.  Now he talks about about making something under budget.  Sure, and I wear a bra.  The Moderator says we're really behind.</p>
+<div class="blog-pic" style="float:left">
+		<img src="/img/donald-trump4.jpg" data-toggle="tooltip" title="Donald Trump" class="image block img-responsive">
+		<h4>Idiot!</h4>
+</div>
+<p>6:44 PM - Now we're on to race issues.  Hillary's up first, talking about the tragedies in Tulsa and Charlotte.  Again, actual ideas about the criminal justice system and trust within the community, with both minoriites and the police.  It does need to be a mutual decision.  And yes, gun violence is a big factor.</p>
+<p>6:46 PM - Now the Idiot talks about Law and Order.  He talks about a large support of policemen.  He talks about African Americans and Hispanics living in hell, with 'thousands' of shootings in Chicago this year.  Again, he has no idea to stop this.  He blames Obama for all of this violence and wants racist Stop and Frisk policies.  He has no ideas to stop this.  Stop and Frisk was declared unconstitutional because of racist tendencies, but the Idiot claims the judge is biased.</p>
+his career.  She talks about his lawsuits from the 70's about his racist behavior.</p>
+<div class="blog-pic" style="float:left">
+		<img src="/img/hillary-clinton1.jpg" data-toggle="tooltip" title="Hillary Clinton" class="image block img-responsive">
+		<h4>Hillary Clinton</h4>
+</div>
+<p>6:49 PM - The Idiot doesn't get it.  He keeps talking about Obama's presidency.  But violence is always been bad, it didn't start in 2009.  And he wants Stop and Frisk so cops can profile Blacks and Hispanics.  We need law and order without racial profiling.</p>
+<p>6:51 PM - Hillary mentions how the Idiot has such a grim view of the inner cities.  She talks about having actual ideas, while all he can say is "Law and Order."  All words.  If you're too dangerous to fly, you're too dangerous to buy a gun.</p>
+<p>6:54 PM - Hillary talks about how everyone is implicitly racially biased.  Well said, it's not just a police issue.  We need officers retrained.  She mentioned mental health, which is always overlooked.</p>
+<p>6:55 PM - The Idiot claims the NRA are good people.  They are corrupt and only interested in gun.  Now he mentioned the term super-predator which she said years ago.  He claims stop and frisk brought murders down in NYC from 2,000 to 500.  That's bogus, and it had little impact.  She responds that crime is still down in NYC, he interrupts that it's not.  The Idiot's stupid.</p>
+<p>6:58 PM - The Idiot claims Democrats are abusing African Americans for votes.  Republicans are trying to keep them from voting with voting right restrictions.</p>
+<div class="blog-pic">
+		<img src="/img/donald-trump2.jpg" data-toggle="tooltip" title="Donald Trump" class="image block img-responsive">
+		<h4>Idiot!</h4>
+</div>
+<p>6:59 PM - Hillary got applause for saying she's preparing to be President.  Now he's asked about Obama's birthplace.  He's wasting his time talking about Hillary's role.  He doesn't want to talk about it.  She had nothing to do with that.  The moderator mentions he continued to claim he wasn't from Hawaii.  By the way, Obama did produce his birth certificate before he became President.  The Idiot is so stupid.</p>
+<p>7:02 PM - Hillary wisely points that the birther lie was racist, and tells the truth about what really happened.  It was how he started his career.  She talks about his lawsuits from the 70's about his racist behavior.</p>
+<div class="blog-pic"  style="float:left">
+		<img src="/img/hillary-clinton3.jpg" data-toggle="tooltip" title="Hillary Clinton" class="image block img-responsive">
+		<h4>Hillary Clinton</h4>
+</div>
+<p>7:05 PM - The Idiot is again lying about the Birther claim.  Hillary's team had nothing to start the Birther theory.  He's lying again.  Another section begins, security issues.</p>
+<p>7:06 PM - Once again, Hillary talks about two types of cyber criminals, including the Russian hacks of our countries organizations.  She's mentioned the Idiot's praise of Vladimir Putin.  He scoffs as if he doesn't praise Vladimir Putin.  She says it's one of their prime methods.  She mentions his asking for Putin to hack into her emails while he shakes his head.</p>
+<div class="blog-pic">
+		<img src="/img/donald-trump1.jpg" data-toggle="tooltip" title="Donald Trump" class="image block img-responsive">
+		<h4>Idiot!</h4>
+</div>
+<p>7:09 PM - Now the Idiot talks about more endorsements from Admirals and Navymen.  Sure...  And he talks about the political hacks running, probably because they support Hillary Clinton.  He's not answering the question, he's talking about the hacked emails themselves about Bernie Senders.  And ISIS is learning lots of internet stuff, including his words against Islam.  Once again, he's blaming the government for everything.</p>
+<p>7:11 PM - More talking from Hillary about a plan to defeat ISIS, and obviously, she isn't going into the specifics, like the Idiot claims it.  And she knows we need to go after Baghdadi, the leader.  The moderator mentions the American citizens committing terrorist attacks.   American citizens.</p>
+<p>7:13 PM - The Idiot mentions Obama and Hillary creating ISIS.  Wrong.  He claims they created ISIS.  Wrong.  He talks about the oil we didn't take.  That's illegal.  He claims he never supported the Iraq War.  Wrong!  The Idiot said it's wrong that he supported the Iraq war, three times.  She mentioned Bush's agreement to leave Iraq.  Not Obama.  Bush.</p>
+<div class="blog-pic" style="float: left">
+		<img src="/img/hillary-clinton6.jpg" data-toggle="tooltip" title="Hillary CLinton" class="image block img-responsive">
+		<h4>Hillary Clinton</h4>
+</div>
+<p>7:16 PM - Hillary talks about allies, mentioning how the Idiot frequently insults Muslims.  He's so stupid.  Idiot!</p>
+<p>7:17 PM - The Idiot talks about the Middle East is a total mess.  It's always been a mess.  He claims it's common sense that NATO needs to pay off.  He still isn't answering the question about home-grown terror or even mentioned it.  ISIS was formed in 2004, not in 2012.  Hello?  He wants to take them out quickly.  It's not an easy task.</p>
+<p>7:19 PM - He again denies he supported the war in Iraq.  He claims the record is not right, that he's always right.  He said, "Yeah sure" to Howard Stern.  Sean Hannity is a hack.  He told him his views after Howard Stern.  He's complaining about the media.  He's lying again.  The moderator mentions he's making mere judgments.</p>
+<p>7:24 PM - Hillary's talking with experience, mentioning actual policies and getting things done.  The Idiot, not so much.  He's so stupid.</p>
+<p>7:26 PM - The Idiot says Obama is her president.  He says global warming is not the greatest threat.  He's the president of the United States.  And with NATO, he only cares about getting paid.  He's so stupid.</p>
+<p>7:31 PM - I'm getting worn out by this debate.  At least Hillary is smart enough to bring some intelligence to the conversation.  The Idiot keeps talking about her creating ISIS.  They didn't create ISIS.  He wants to help allies, but wants them to pay up.  He keeps talking about his business ability.  This is the Presidential election.</p>
+<p>7:33 PM - Now he's taking about Hillary's stamina.  He's arguing with the moderator over wording.  This has nothing to do with stamina.  Pretty sexist.  She mentions all her experience.  He claims it's bad experience.  We didn't give Iran 150 million dollars for nothing.  Stupid.</p>
+<div class="blog-pic">
+		<img src="/img/hillary-clinton5.jpg" data-toggle="tooltip" title="Hillary CLinton" class="image block img-responsive">
+		<h4>Hillary Clinton</h4>
+</div>
+<p>7:36 PM - The Idiot claims no one feels sorry for the things he said about Rosie O'Donnell.  He claims her ads are 'not nice' and 'not true.'  He's talking about the polls.  At last, the final statements.</p>
+<p>7:37 PM - Hillary says the election is about us, to vote, not about them.  Same question for the Idiot, who talks about deporting people becoming citizens with some nonsense.  Finally, the debate's over.  Next up, the debates on October 9.  Thank god it's over.</p>
+</div>
+
