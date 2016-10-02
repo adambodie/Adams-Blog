@@ -59,7 +59,6 @@ intro: "People lie, doesn't matter who you are.  But some people lie more than o
 </div>
 <p>6:44 PM - Now we're on to race issues.  Hillary's up first, talking about the tragedies in Tulsa and Charlotte.  Again, actual ideas about the criminal justice system and trust within the community, with both minoriites and the police.  It does need to be a mutual decision.  And yes, gun violence is a big factor.</p>
 <p>6:46 PM - Now the Idiot talks about Law and Order.  He talks about a large support of policemen.  He talks about African Americans and Hispanics living in hell, with 'thousands' of shootings in Chicago this year.  Again, he has no idea to stop this.  He blames Obama for all of this violence and wants racist Stop and Frisk policies.  He has no ideas to stop this.  Stop and Frisk was declared unconstitutional because of racist tendencies, but the Idiot claims the judge is biased.</p>
-his career.  She talks about his lawsuits from the 70's about his racist behavior.</p>
 <div class="blog-pic" style="float:left">
 		<img src="/img/hillary-clinton1.jpg" data-toggle="tooltip" title="Hillary Clinton" class="image block img-responsive">
 		<h4>Hillary Clinton</h4>
