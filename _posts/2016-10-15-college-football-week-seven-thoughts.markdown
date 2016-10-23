@@ -5,7 +5,7 @@ date:   2016-10-15
 categories: sports football
 author: Adam Bodie
 image: rodney-smith.jpg
-alt: 
+alt: Rodney Smith
 intro: "Week Seven for me is Strange Week.  The Minnesota Golden Gophers make their way to Maryland to play them for the first time since they joined the Big Ten in 2014.  I'm still not used to them and Rutgers being part of the Big Ten.  Maryland should've remained in the ACC and Rutgers looks like complete crap.  Market aside, the Big Ten should've stopped with Nebraska.  But nonetheless, it's the game against the Terrapins.  As for the Ducks, they stand to have their best defensive performance of the season, as they have the week off.  As for the rest of the week, it seems kind of bland, with the exception of Alabama-Tennessee and Ohio State-Wisconsin."
 ---
 <div class="article">
