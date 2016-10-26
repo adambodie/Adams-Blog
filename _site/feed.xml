@@ -5,9 +5,46 @@
     <description>A blog about whatever is on Adam's mind.</description>
     <link>http://blog.bodiewebdesign.com/</link>
     <atom:link href="http://blog.bodiewebdesign.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 24 Oct 2016 19:50:32 -0700</pubDate>
-    <lastBuildDate>Mon, 24 Oct 2016 19:50:32 -0700</lastBuildDate>
+    <pubDate>Tue, 25 Oct 2016 17:33:32 -0700</pubDate>
+    <lastBuildDate>Tue, 25 Oct 2016 17:33:32 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Happy Birthday Adam's Blog</title>
+        <description>&lt;style&gt;
+    a {
+        font-weight: bold;
+        color: blue;
+    }
+    a:visited {
+        color: purple;
+    }
+&lt;/style&gt;
+
+&lt;div class=&quot;article&quot;&gt;
+&lt;p&gt; Today marks the one year anniversary to my launch of Adam’s Blog.  It's come a long way from its humble roots, going through my major redesign in April.  So to honor my blog, here's a brief history of my blog and how I wound up getting here, along with some of my favorite posts.&lt;/p&gt;
+&lt;div class=&quot;blog-pic&quot;&gt;
+		&lt;img src=&quot;/img/happy-birthday.jpg&quot; data-toggle=&quot;tooltip&quot; title=&quot;Happy Birthday&quot; class=&quot;image block img-responsive&quot; /&gt;
+		&lt;h4&gt;Happy Birthday!&lt;/h4&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I started my blog using JSON through my Express backed main website.   Not the best way to do a blog, but still got me through as I continued to fine tune my developing skills.  Eventually, I made the decision to break off from my Express backed main website and used a Jekyll powered blog branching off my website, which gave me much more flexibility in my blog pages themselves.  I officially relaunched blog.bodiewebdesign.com on May 4th.  I had hoped for a smooth launch, but just before I was ready to move over, the breaking news of degenerate &lt;a href=&quot;http://blog.bodiewebdesign.com/blog/politics/2016/05/03/ted-cruz-the-definition-of-pathetic&quot;&gt;Ted Cruz&lt;/a&gt; dropping out of the Presidential race, which I had to put a blog about.  I was working on a blog post on him, which I wanted to release afterwards, but needed to post on that disgusting turd.  And special thanks to my sister Jenn for reminding me of that booger pic to use.  Classic.&lt;/p&gt;
+&lt;p&gt;As you'll see from reading my blog, my two favorite subjects are sports, particularly football and basketball, and unfortunately, politics.  This political cycle has been awful, but has given me an opportunity to express my displeasure in &lt;a href=&quot;http://blog.bodiewebdesign.com/blog/politics/2016/01/31/dumb-and-dumber-why-the-top-republican-presidental-candidates-suck-at-math&quot;&gt;Dumb and Dumber&lt;/a&gt;, a.k.a. Donald Trump and Ted Cruz.  Hopefully that stops after the election.  I hate those two passionately.&lt;/p&gt;
+&lt;p&gt;Upgrading to Jekyll gave me more flexibility in my posts.  One post I'm particularly proud of is my expose on Oklahoma Senator Jim Inhofe’s ridiculous theories on &lt;a href=&quot;http://blog.bodiewebdesign.com/blog/politics/2016/05/08/climate-change-and-snow&quot;&gt;global warming&lt;/a&gt;, as I was able to add a D3 based graph showcasing Snow levels throughout the years to debunk Inhofe's stupid beliefs.  It gave me an opportunity to try a new JavaScript library, which is always fun to do.&lt;/p&gt;
+&lt;p&gt;As for my blogging skills itself, I feel it has helped me expressed myself through different channels.  I admit, it doesn't come easy for me to speak up, but writing my thoughts allows me to be more elegant and graceful than I have been in a long time.  One particular thing I've enjoyed is my live blogging posts.  &lt;a href=&quot;http://blog.bodiewebdesign.com/blog/sports/basketball/2016/04/13/mamba-day-and-everyones-celebrating&quot;&gt;Kobe Bryant's&lt;/a&gt; last game and the &lt;a href=&quot;http://blog.bodiewebdesign.com/blog/sports/basketball/2016/06/23/nba-draft-the-future-is-now&quot;&gt;NBA Draft&lt;/a&gt; were my favorites.  Live blogging the &lt;a href=&quot;http://blog.bodiewebdesign.com/blog/politics/2016/09/26/liar-liar-pant-is-on-fire&quot;&gt;first Presidential debate&lt;/a&gt;, on the other hand, was a letdown for me.  Some things are better to blog than others.&lt;/p&gt;
+&lt;p&gt;Perhaps the most important blog post I made was &lt;a href=&quot;http://blog.bodiewebdesign.com/blog/politics/2016/08/08/my-pledge&quot;&gt;my pledge&lt;/a&gt; from August.  It's been two months and I still haven't verbally used that Idiot's name.  It's important to live in a free country and that Idiot is downright pathetic and unpatriotic.  As you'll see, plenty of posts about him and his awful ways.  I'm proud of the commitment I've made and I'm especially proud to have voted for Hillary Clinton this election.&lt;/p&gt;
+&lt;p&gt;More than anything, my blog gives me another channel to showcase my creativity.  Some of my posts are &lt;a href=&quot;http://blog.bodiewebdesign.com/blog/politics/2016/06/12/three-little-words&quot;&gt;serious&lt;/a&gt; while others are downright &lt;a href=&quot;http://blog.bodiewebdesign.com/blog/sports/football/2016/10/10/why-i-should-be-the-next-starting-quarterback-of-the-cleveland-browns&quot;&gt;silly&lt;/a&gt;.  Whatever the case may be, I enjoy my work and am proud of it as well.  Here's to another year of success.&lt;/p&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Tue, 25 Oct 2016 00:00:00 -0700</pubDate>
+        <link>http://blog.bodiewebdesign.com/blog/miscellaneous/2016/10/25/happy-birthday-adams-blog</link>
+        <guid isPermaLink="true">http://blog.bodiewebdesign.com/blog/miscellaneous/2016/10/25/happy-birthday-adams-blog</guid>
+        
+        
+        <category>miscellaneous</category>
+        
+      </item>
     
       <item>
         <title>NBA Preview</title>
@@ -436,55 +473,6 @@
         
         
         <category>politics</category>
-        
-      </item>
-    
-      <item>
-        <title>College Football Week Four Thoughts</title>
-        <description>&lt;div class=&quot;article&quot;&gt;
-&lt;p&gt; Week Four is a reminder to most that non-conference games are over and the major part of the season begins.  For me, this week can be dubbed the 'State of Colorado' week, as Minnesota faced off against Colorado State, while Oregon hosted Colorado.  An interesting coincidence but nonetheless a good week of football.&lt;/p&gt;
-&lt;div class=&quot;blog-pic&quot;&gt;
-		&lt;img src=&quot;/img/quack.jpg&quot; data-toggle=&quot;tooltip&quot; title=&quot;Quack&quot; class=&quot;image block img-responsive&quot; /&gt;
-		&lt;h4&gt;Darren Carrington putting new meaning to quacking like a duck after a touchdown&lt;/h4&gt;
-&lt;/div&gt;
-
-    &lt;p&gt;Last year, Minnesota needed overtime to win at Colorado State, as Mitch Leidner led the Golden Gophers to a fourth quarter comeback before ultimately winning the game.  This time around, Minnesota led most of the game and were able to hold off Colorado State, with a 31-24 win, to finish their non-conference schedule 3-0.  Shannon Brooks, the team's leading rusher last year made his season debut after missing the first two games with a foot injury.  The Gophers were able to rush the ball for 243 yards in total, with all four touchdowns on the ground.  Their running game, plus a tough defense, makes the Gophers a tough out for their conference foes.  Also to note, Tai'yon Devers now has three tackles this year, all sacks causing fumbles that the Gophers recovered.  He knocked the crap out of Colorado State QB Collin Hill, knocking his helmet off in the process.  Making the most of his work to say the least.&lt;/p&gt;
-    &lt;p&gt;Now that the non-conference schedule is over, Minnesota must make improvements in their passing game in order to contend.  They've made strides but need consistency from Leidner and the wide receivers.  The Big Ten West appears to be wide open, with last year's champ Iowa not playing as well as advertised.  They didn't look particularly good against Rutgers, winning 14-7.  Wisconsin and Nebraska look better than projected, with wins between LSU, Michigan State and Oregon between the two teams.  Minnesota realistically needs to win two out of those three matchups to contend, and with Nebraska and Wisconsin on the road, that task becomes tougher.  In the meantime, they need to win their first road game of the season (and first conference game) against Penn State, where the Governors Victory Bell is on the line.  A winnable game by all means but Beaver Stadium is a tough place to play, and Minnesota's only won two games there, the last win in 2003)&lt;/p&gt;
-        &lt;div class=&quot;blog-pic&quot; style=&quot;float: left&quot;&gt;
-        		&lt;img src=&quot;/img/EMU-protest.jpg&quot; data-toggle=&quot;tooltip&quot; title=&quot;EMU&quot; class=&quot;image block img-responsive&quot; /&gt;
-        		&lt;h4&gt;Eastern Michigan protesters after the game.&lt;/h4&gt;
-        &lt;/div&gt;    
-    &lt;p&gt;Some things are more important than football, and that was clear in last night's game between Eastern Michigan and Wyoming, as protesters, upset with racist graffiti found on campus buildings earlier in the week, took to the field after the game chanting &quot;No Justice, No Peace.&quot;  I feel it's important to speak up about issues, and Eastern Michigan University, which supports the protesters rights, should be applauded for listening.  As long as the message isn't lost in translation and no violence comes as a result, this type of action is approved.  Since Colin Kaepernick stopped standing for the National Anthem, it's become a big topic, and unfortunately, those who don't support his actions don't understand what he (and others who have followed) are actually protesting.  That's another topic which I've previously discussed, but Eastern Michigan should be applauded for the way they've handled the response.  Talking about them just gives me an excuse to mention their town, Ypsilanti, which is up there with Kalamazoo as one of the most interesting city names in Michigan (and the United States in general).  It also means I've mentioned each directional Michigan school in just four weeks; Western Michigan, Central Michigan, and now, Eastern Michigan (in that order).&lt;/p&gt;
-
-    &lt;p&gt;Oregon opened its conference schedule against Colorado, who's looked a lot better than in years past, but unfortunately for the Buffaloes, their starting quarterback Sefo Liufau is out with an ankle injury.  On the flip side, Royce Freeman didn't play for the Ducks, but they have plenty of talented running backs behind him; Tony Brooks-James, Kani Benoit and Taj Griffin.  The hype before the game were Oregon's new uniforms, featuring green shirts, white pants and orange socks and shoes, to resemble an actual duck.  Hard to believe they never thought of that all these years but it's a nice and clever look, I enjoyed their jerseys.  As for the game itself, Oregon's defense struggled in the first half to stop Colorado's offense, with backup QB Steven Montez looking like a stud in his first start.  Sefo Who?  The Autzen Stadium crowd, along with every Oregon fan watching, was stunned that Colorado led for most of the first half.  But much like the Buffaloes game last week against Michigan, where they similarly jumped out to a big first half lead, the Ducks came back to take the lead late in the third quarter with two turnovers leading to Oregon touchdowns.  But in the end, Colorado won 41-38 as Dakota Prukop threw his first interception of the year at the worst time to seal the loss for Oregon.  Safe to say, their defense is completely broken, as I feared would be the case.  This one will sting, but congrats to Colorado for finally getting a quality Pac-12 conference win, unfortunately it came against the Ducks.  Next up, a road trip to Washington State.&lt;/p&gt;
-&lt;div class=&quot;blog-pic&quot;&gt;
-		&lt;img src=&quot;/img/smokey.jpg&quot; data-toggle=&quot;tooltip&quot; title=&quot;smokey&quot; class=&quot;image block img-responsive&quot; /&gt;
-		&lt;h4&gt;Tennessee's Smokey uniforms.  Good or Bad?&lt;/h4&gt;
-&lt;/div&gt;
-    &lt;p&gt;Former Baylor President Kenneth Starr said today that former coach Art Briles was treatly unfairly in regards to Baylor's sexual assault scandal.  Regardless of whether that's true or not, Kenneth Starr treated Bill Clinton unfairly for prosecuting the sham Monica Lewinsky scandal which had no effect on the United States, yet felt it was the single most important issue in our country leading to an obviously politically motivated impeachment.  Shame on you, Kenneth Starr --- Tennessee wore their smokey gray uniforms against Florida.  I'm not quite sure if I like them or not, they stand as a complete contrast to their bright orange jerseys.  As for the game, they rallied from a 21-3 deficit to beat Florida 38-28.  Maybe they're better than I thought.  Not Top Ten good, but we'll see.  I've never had any issues with the Tennessee Volunteers, plus I have some family nearby, so I'll give them credit. --- LSU was this close to beating Auburn, with a miracle touchdown, but they didn't get the play off in time.  Classic Les Miles, always poor with clock management.  I can only chuckle. --- With that said, here are my picks for Top Ten:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Alabama&lt;/li&gt;
-&lt;li&gt;Ohio State&lt;/li&gt;
-&lt;li&gt;Louisville&lt;/li&gt;
-&lt;li&gt;Michigan&lt;/li&gt;
-&lt;li&gt;Clemson&lt;/li&gt;
-&lt;li&gt;Stanford&lt;/li&gt;
-&lt;li&gt;Houston&lt;/li&gt;
-&lt;li&gt;Texas A&amp;amp;M (NR)&lt;/li&gt;
-&lt;li&gt;Wisconsin (NR)&lt;/li&gt;
-&lt;li&gt;Washington (-1)&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;/div&gt;
-</description>
-        <pubDate>Sun, 25 Sep 2016 00:00:00 -0700</pubDate>
-        <link>http://blog.bodiewebdesign.com/blog/sports/football/2016/09/25/college-football-week-four</link>
-        <guid isPermaLink="true">http://blog.bodiewebdesign.com/blog/sports/football/2016/09/25/college-football-week-four</guid>
-        
-        
-        <category>sports</category>
-        
-        <category>football</category>
         
       </item>
     
