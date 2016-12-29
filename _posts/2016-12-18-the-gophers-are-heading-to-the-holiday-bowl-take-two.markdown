@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The Gophers are heading to the Holiday Bowl - Take Two
-date:   2016-12-10
+date:   2016-12-18
 categories: sports football
 author: Adam Bodie
 image: drew-wolitarsky.jpg
