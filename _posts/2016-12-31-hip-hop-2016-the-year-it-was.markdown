@@ -1,0 +1,111 @@
+---
+layout: post
+title:  Hip-Hop 2016 - The Year it Was
+date:   2016-12-31
+categories: music
+author: Adam Bodie
+image: 3001-A-Laced-Odyssey.jpg
+alt: 3001 A Laced Odyssey
+intro: "2016 has come and gone, and although there are plenty of things wrong with the hip-hop culture, there are always going to be reasons to actually enjoy it.  Times have changed, and while popular rap is getting dumber and dumber by the moment, the good news is that there is hope.  Here are my thoughts on the year it was."
+---
+<style>
+    .row {
+        border-bottom: none;
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+    }
+</style>
+<div class="article">
+<p> {{ page.intro }}</p>
+<p>This year started a trend of streaming only albums/mixtapes, which defeats the whole purpose of making music accessible for all of your fans.  Kanye West proved this quite well with his album The Life of Pablo, which I would call For Life of Pablo (F.L.O.P.) as he's clearly lost his mind and talent.  Chance the Rapper, who ironically considers himself part of the 'Save Money' crew, expects you to be able to pay for monthly internet service AND streaming internet service just to listen to his album.  That's what I call double-dipping, and I'm not getting down with that for an overrated artist.</p>
+<p>We've also seen the rise of mumble-rap, which artists like Lil' Yachty unintelligibly doing something on a so-called hip-hop beat and brand it as hip-hop.  That's not hip-hop, that's garbage.  Even worse, this generation of music has no appreciation and apparent disdain for quality rap music of the past.  Lil' Yachty, in particular, thinks The Notorious B.I.G. is overrated and knows next to nothing about 2Pac.  Rapper Young Dolph, upset that Pete Rock dissed him over his garbage drug-music, simply told Pete Rock to "suck my dick."  How original.  Not.</p>
+<p>It's also been a stupid year for dumb hip-hop beefs.  Rappers used to put effort into their disses in songs.  Now rappers just complain on Twitter and Instagram.  It's so ridiculous.  No rapper has perfected this than Meek Mill, who can't make a diss record and is too busy riding Nicki Minaj's behind to make some actual music.  We've seen B.o.B. battle astrophysicist Neil Degrasse Tyson over whether the Earth is flat or round (of all things).  There's also the cancer known as crooked fraudster Martin Shkreli beef with multiple rappers, including Ghostface Killah, and rapping himself.  We've even seen the rise of some rapper named 21 Savage and a rip-off named 22 Savage, both of whom have battled each other.  Rap used to be more original.</p>
+<p>And of course, we're still stuck with Drake, the corniest rapper ever.  When he first came out, he wasn't bad, but now he's just plain corny and dorky.  He always have some arrogant smug look on his face and acts like his shit don't stink.  But yet instead of actually putting effort in his music, like Kendrick Lamar does, Drake simply makes the same album with corny radio songs.  Why do people like Drake so much?  I could care less about his Views album, nor his beefs with even less talented rappers.  I'm still trying to figure out why Joe Budden went after him.  And if that's not bad enough, every rapper nowadays tries to sing like him but end up even worse them he does.</p>
+<p>As for the albums of 2016, there was no real elite album like Kendrick Lamar's To Pimp a Butterfly album last year was, but there were some quality releases.  We saw some surprise albums, like A Tribe Called Quest coming out of nowhere to finally release a follow up from 1998's The Love Movement, which sadly was dampered by the loss of the 5-footer himself, Phife Dawg, who passed away from diabetes complications.  We also saw artists willing to do it on their own, from Mr. Platinum-With-No-Features J. Cole, to Kevin Gates, who had the first platinum hip-hop album of the year without any help (aside from one bonus song).  Of course, there's plenty to look forward to for 2017, so with apologies to Run the Jewels, who released Run The Jewels 3 as a Christmas Fuckin' Miracle, here are my picks for the Top 12 albums of the year.  
+</p>
+<div class="row">
+<div class="blog-pic" style="float: left">
+		<img src="/img/And-The-Anonymous-Nobody.jpg" data-toggle="tooltip" title="and the Anonymous Nobody" class="image block img-responsive">
+</div>
+<h3>12. and the Anonymous Nobody... - De La Soul</h3>
+<p>	De La Soul are hip-hop legends, yet have never received the love of their other contemporaries.  One issue was that due to bad label politics, their albums were, for the most part, stuck in legal purgatory due to their sample clearance issues.  But De La Soul, loving their fans, released all their albums for free during a 24 hour period on Valentine's Day, 2014, letting their fans enjoy their music that they may have not heard in years, or getting introduced to for the first time.  It's that kind of love that was rewarded, as fans helped De La Soul's Kickstarter campaign to raise money to release their first new project in years.  The result is and the Anonymous Nobody…  De La Soul have always been all over the place with their music, and it's no exception here, as they are plenty of styles of music incorporated.  While no one was expecting another 3 Feet High and Rising or De La Soul is Dead, it's refreshing to see after all these years that the trio has managed to remain as strong and connected as ever, a rarity for any music group.  Songs like "Pain" and "Trainwreck" are classic De La Soul styled songs we've all come and loved.  But they also bend genres with songs like "Drawn" and "Lord Intended," neither of which sound like traditional hip-hop songs, but only De La Soul could pull this off.  In all, and the Anonymous Nobody… is a nice refreshing album to listen to.  Some people might complain about them working with the likes of 2 Chainz, but despite the flaws of the album, De La Soul is still capable of making a good ride.</p>
+</div>
+<div class="row">
+<div class="blog-pic">
+		<img src="/img/Islah.jpg" data-toggle="tooltip" title="Islah" class="image block img-responsive">
+</div>
+<h3>11. Islah - Kevin Gates</h3>
+<p>Kevin Gates, a rapper from Baton Rouge, has become one of the better rappers from the south, with a perfect blend of melodic vocals, rugged lyrics and rowdy anthemic songs.  His studio debut, Islah (named after his daughter) is his strongest effort yet, featuring great tracks like "Really Really," "Not the Only One" and "2 Phones," where Kevin Gates shows off his unique blend of raw soul.  While the more rugged songs like "Thought I Heard (Bread Winners' Anthem)" and "La Familia" are not as prevalent as his mixtapes, Kevin Gates makes up for it with a more consistent blending of his rugged vocals.  There are plenty of reasons not to like music from the south, but Kevin Gates has managed to prove to be a force, all while doing it his way.</p>
+</div>
+<div class="row">
+<div class="blog-pic" style="float: left">
+		<img src="/img/The-Impossible-Kid.jpg" data-toggle="tooltip" title="The Impossible Kid" class="image block img-responsive">
+</div>
+<h3>10. The Impossible Kid - Aesop Rock</h3>
+<p>Aesop Rock has been around for many years, known for his incredibly vast vocabulary and abstract underground production.  Aesop takes it up a notch with his latest album, The Impossible Kid, by providing more personal growth wrapped around his plethora of words.  Aesop Rock does it all on his own, and with tracks like "Rings," "Dorks" and "Lotta Years" are reminders of what makes him the unique rapper he is.  While the production is a tad monotonous, the album as a whole blends well together.  As an added bonus, a video for the album was released, a shot by shot remake of "The Shining" with small figurines.  Only with Aesop Rock could that ever work.  </p>
+</div>
+<div class="row">
+<div class="blog-pic">
+		<img src="/img/this-unruly-mess-ive-made.jpg" data-toggle="tooltip" title="This Unruly Mess I've Made" class="image block img-responsive">
+</div>
+<h3>9. This Unruly Mess I've Made - Macklemore & Ryan Lewis</h3>
+<p>Four years after Macklemore & Ryan Lewis took the hip-hop industry by storm rising from unprecedented ranks from an underground kid from Seattle to international rap star, Macklemore fans wondered how he would handle the fame?  The new album, This Unruly Mess I've Made, answers many of those questions.  From the perils of being famous with "Light Tunnels" to serious topics of race with "White Privilege II," Macklemore flexes his lyrical muscles seen previously on The Heist.  The production isn't as eclectic as they were on The Heist, but still hold up, as there are plenty of catchy songs, like "Brad Pitt's Cousin" and "Downtown."  With a nice appreciation for old school, featuring Kool Moe Dee, Grandmaster Caz and Melle Mel on "Downtown" and "Buckshot" with KRS-One & DJ Premier, Macklemore and Ryan Lewis still showcase their fun yet serious style of hip-hop.</p>
+</div>
+<div class="row">
+<div class="blog-pic" style="float: left">
+		<img src="/img/Atrocity-Exhibition.jpg" data-toggle="tooltip" title="Atrocity Exhibition" class="image block img-responsive">
+</div>
+<h3>8. Atrocity Exhibition - Danny Brown</h3>
+<p>Danny Brown has clearly proven to be the closest thing to the late Ol' Dirty Bastard that we've seen, with a bizarre style that only someone as crazy as Danny Brown can manage to pull off.  With his latest album, Atrocity Exhibition, Danny Brown continues to prove just how nuts he is with tracks like "Ain't It Funny" and "Downward Spiral," where Danny Brown showcases his crazy side.  The production, as expected, is pretty out there, even more experimental than previously seen from Danny Brown.  But yet, he manages to stick to his hip-hop roots, with one of the best posse cuts in recent hip-hop memory with "Really Doe," featuring Kendrick Lamar, Ab-Soul and Earl Sweatshirt (who steals the show with his even more zany verse than even Danny Brown himself).  Danny Brown is not for everyone, but for those who can handle the ride will enjoy it.</p>
+</div>
+<div class="row">
+<div class="blog-pic">
+		<img src="/img/DWTW.jpg" data-toggle="tooltip" title="Do What Thou Wilt." class="image block img-responsive">
+</div>
+<h3>7. Do What Thou Wilt. - Ab-Soul</h3>
+<p>For better or for worse, Ab-Soul's career will be linked with his fellow cohort ScHoolboy Q, as they both became commodities around the same time and arguably form the best duo since Method Man & Redman.  But while ScHoolboy Q has grown his music talents since he started bubbling around 2013, Ab-Soul seemingly has been in a tailspin since his disappointing These Days… album.  After album delays and in-label bickering, Ab-Soul finally released Do What Thou Wilt. late in December.  Fortunately for Ab-Soul, he has at the very least stopped the bleeding with Do What Thou Wilt., as Soulo-Ho returns to the darkness that made Control System a great album.  Firing off shots at doubters (particularly Jay Electronica) on the opening track "RAW (Backwards)," Ab-Soul showcases his frustration rapping about among other things, women and religion, with tracks like "Threatening Nature" and "The Law."</p>
+</div>
+
+<div class="row">
+<div class="blog-pic" style="float: left">
+		<img src="/img/The-Healing-Component.jpg" data-toggle="tooltip" title="The Healing Component" class="image block img-responsive">
+</div>
+<h3>6. The Healing Component - Mick Jenkins</h3>
+<p>	Chicago has become a rather diverse place for hip-hop.  On the one hand, there's all of the hardcore Chi-Raq rappers (G-Herbo, Lil' Bibby, etc.), while there are the soulful Save Money rappers (Chance the Rapper, Vic Mensa, etc.) and of course the legends (Common, Kanye West, before he went insane).  But while people have become enamored with Chance the Rapper, whose mixtape is inaccessible for anyone who actually wants to "Save Money," it's affiliated Mick Jenkins who has caught my eye.  A soulful baritone voice, jazzy production, and thoughtful lyrics of love and water (among other things) has made Mick a favorite of mine.  After two successful mixtapes, The Waters and Wave[s], Mick Jenkins releases his proper debut with The Healing Component, an honest album of love and sorrow.  Tracks like "Spread Love" and "The Healing Component" are perfect examples of his style, while "Drowning" captures his torment.  It's good to know there are rappers out there who put some thought in their music, and unlike Chance the Rapper, doesn't expect you to pay a monthly fee to access streaming music. </p>
+</div>
+<div class="row">
+<div class="blog-pic">
+		<img src="/img/untitled-unmastered.jpg" data-toggle="tooltip" title="untitled unmastered" class="image block img-responsive">
+</div>
+<h3>5. untitled unmastered - Kendrick Lamar</h3>
+<p>	Kendrick Lamar, who performed some unreleased songs on various TV shows, surprised his fans by releasing these various songs in March, with the assist of LeBron James, who called for them to be released.  The result were eight songs, raw and unpolished, but yet still containing the same deep lyricism, jazz-funk influenced production, and worthy of the release, as some of these songs could've easily been jams on his official albums.  Tracks like the song #8 have a funky vibe that can make you get down and dance, while other tracks like track #2 are raw with lyricism.  Some of the songs are nothing that special, and it's clear to see why they didn't get officially released, but with all the crap rap out these days (Kodak Black, seriously?), I'll take this over all the crap out now.</p>
+</div>
+<div class="row">
+<div class="blog-pic" style="float: left">
+		<img src="/img/blank-face-lp.jpg" data-toggle="tooltip" title="Blank Face LP" class="image block img-responsive">
+</div>
+<h3>4. Blank Face LP - ScHoolboy Q</h3>
+<p>Two years after Oxymoron, ScHoolboy Q takes a more mature approach with Blank Face LP.  While still gangbanging on tracks like the excellent "Groovy Tony/Eddie Kane" and the hellish "Ride Out," ScHoolboy Q is more reflective of life on tracks like "JoHn Muir" and "Black THougHts."  ScHoolboy Q manages to make the most of his guest appearances, with his Black Hippy cohorts mostly absent from the album, showcasing his capability of proving he can hold it down himself.  Despite the song "Overtime" being an obvious attempt at radio play, a song which sticks out like a sore thumb, Blank Face LP is a more mature and consistent offering from Oxymoron.  With that said, I would have loved for Q to keep the Crying Jordan Blank Face cover, though that would've been impossible to get approved.</p>
+</div>
+<div class="row">
+<div class="blog-pic">
+		<img src="/img/4-Your-Eyez-Only.jpg" data-toggle="tooltip" title="4 Your Eyez Only" class="image block img-responsive">
+</div>
+<h3>3. 4 Your Eyez Only - J. Cole</h3>
+<p>J. Cole had a rather quiet first eleven months of the year, but December became Cole's month, as J. Cole announced on the 1st his upcoming album would be out on the 9th.  He further set the internet ablaze with teaser tracks "False Prophets," a criticism of Kanye West's fall from grace (amongst other things) and "Everybody Dies," where he disses all these Lil' Rappers.  While these tracks weren't on the album, Cole again proves his soulfulness and thoughtful lyrics.  Another album from the rapper who went "platinum with no features," Cole sticks with the same formula as before.  It's great to see J. Cole turn his career around after a disappointing Born Sinner, as Cole has found his groove as an artist.  Perhaps the closest answer of what Drake would sound like if he actually focused on making quality music instead of making corny radio songs, J. Cole's 4 Your Eyez Only is a great soulful album to listen to.  While not quite the greatness of 2014 Forest Hills Drive, the one thing missing is that knockout punch.  False Prophets would have been a great knock-out punch, but borrowing the beat from Joey Bada$$'s song "Waves," would have not fit the rest of the album.  All in all, a great album, whose whole is greater than the sum of its parts.</p>
+</div>
+<div class="row">
+<div class="blog-pic" style="float: left">
+		<img src="/img/3001-A-Laced-Odyssey.jpg" data-toggle="tooltip" title="3001: A Space Odyssey" class="image block img-responsive">
+</div>
+<h3>2. 3001: A Laced Odyssey - Flatbush Zombies</h3>
+<p>One of my favorite rap group's in right now has been the Flatbush Zombies, a trio consisting of rappers Meechy Darko, Zombie Juice and Erick Arc Elliott (who serves as the groups producers).  They released their debut album 3001: A Laced Odyssey, after hitting the scenes with their mixtapes D.R.U.G.S. and Better Off Dead.  The result is a strong offering of East Coast raps, combined with their devilish and drug filled lyrics, providing a fresh take on the classic east coast, or perhaps we should call it Beast Coast, sound.  Strong from start to finish, the group showcases a more balanced effort than before, a sign of the times to come, or as Meechy Darko raps on the song "Ascension," "I ain't even entered my prime."  With Erick Arc Elliott's grimy fresh production, Meechy Darko's evil possessed flow (if I could sound like that, I'd be set for life) and Zombie Juice's off-the-wall zany raps, the Flatbush Zombies are exactly what their name sounds like.  Tracks like "The Odyssey," "R.I.P.C.D." and "Ascension" have the group flexing their dark lyrics and classic East Coast production with a modern twist.</p>
+</div>
+<div class="row">
+<div class="blog-pic">
+		<img src="/img/we-got-it-from-here-thank-you-for-your-service.jpg" data-toggle="tooltip" title="We got it from here...Thank you for your service" class="image block img-responsive">
+</div>
+<h3>1. We got it from here … Thank you 4 your service - A Tribe Called Quest</h3>
+<p>If there was any hip-hop group that could still captivate its fans years after their break-up, a la the Guns N Roses, it's A Tribe Called Quest, one of the premier hip-hop groups ever.  With their last release, The Love Movement in 1998, no one expected they would ever reunite to make a proper farewell, but even time heals all wounds, as A Tribe Called Quest made what would sadly become their definitive final album with We got it from here… Thank you 4 your service, with the original group intact (that includes the mysterious Jarobi).  It's unfortunate that Phife Dawg passed away earlier in the year to see the album released, but We got it from here...Thank you 4 your service serves as a proper finale and a strong album as well, providing a powerful reminder of what hip-hop is supposed to be about; blazing beats and fun yet powerful lyrics.  Tracks like "We The People…" and "Dis Generation" are funky and fun to listen to, but also contain strong lyrics about our society as a whole.  They even did the impossible (in this era) by making Kanye West sound like the Kanye of old, as he provides the hook on the excellent "The Killing Season."  Also impressive is the use of two rappers frequently connected with the crew, Busta Rhymes and Consequence, both of whom sound like naturals.  The only unfortunate thing is that the group couldn't work together more, but it's definitely better than any of the mumble rap crap popular these days (here's looking at you, Lil' Yachty, does he even know who A Tribe Called Quest are?  Probably not).  Thanks A Tribe Called Quest for being one of the best.</p>
+</div>
+</div>
